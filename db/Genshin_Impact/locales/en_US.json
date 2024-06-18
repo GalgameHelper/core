@@ -1,0 +1,19 @@
+{
+  "Name":"Name",
+  "Title": "Title",
+  "Occupation": "Occupation",
+  "Association": "Association",
+  "Rarity": "Rarity",
+  "Weapon": "Sword",
+  "Element": "Element",
+  "Birth": "Birthday",
+  "Vision": "Vision (Introduced)",
+  "Constellation": "Constellation (Introduced)",
+  "Chinese Seuyu": "Chinese Seuyu",
+  "Japanese Seuyu": "Japanese Seuyu",
+  "English Seuyu": "English Seuyu",
+  "Korean Seuyu": "Korean Seuyu",
+  "Description": "Description",
+  "Character Ascension Materials": "Character Ascension Materials",
+  "Skill Ascension Materials": "Skill Ascension Materials"
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "Clorinde",
+  "Title": "Candlebearer, Shadowhunter",
+  "Occupation": "Trial Court",
+  "Association": "FONTAINE",
+  "Rarity": 5,
+  "Weapon": "Sword",
+  "Element": "Electro",
+  "Birth": [9, 20],
+  "Vision": "Electro",
+  "Constellation": "Rapperia",
+  "Chinese Seuyu": "赵涵雨",
+  "Japanese Seuyu": "石川由依",
+  "English Seuyu": "Crystal Lee",
+  "Korean Seuyu": "Shin Na-ri",
+  "Description": "An undefeated Champion Duelist. Sword in hand, she defends justice in the Court of Fontaine.",
+  "Description.zh_CN": "不败的决斗代理人。以手中的剑维护着枫丹廷的「公义」。",
+  "Character Ascension Materials": ["Vajrada Amethyst"],
+  "Skill Ascension Materials": "Teachings of JusticeGuide to JusticePhilosophies of JusticeEveramberCrown of Insight"
+}
