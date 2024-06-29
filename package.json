@@ -8,9 +8,9 @@
   },
   "scripts": {
     "commitlint": "commitlint -e",
+    "db": "pnpm run --filter db start",
     "app": "pnpm run --filter galgame-helper-app start",
     "web": "pnpm run --filter galgame-helper-web start",
-    "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky"
   },
   "husky": {
