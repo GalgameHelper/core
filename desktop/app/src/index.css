@@ -2,6 +2,15 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
     Arial, sans-serif;
   margin: auto;
-  max-width: 38rem;
-  padding: 2rem;
+  color: #eee;
+  background-color: #0D1117;
+}
+
+.title {
+  width: 100%;
+  height: 64px;
+  -webkit-app-region: drag;
+  -webkit-user-select: none;
+  user-select: none;
+  background-color: rgba(255, 255, 255, .1);
 }

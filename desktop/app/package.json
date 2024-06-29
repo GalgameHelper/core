@@ -1,8 +1,8 @@
 {
-  "name": "app",
+  "name": "galgame-helper-app",
   "productName": "app",
-  "version": "1.0.0",
-  "description": "My Electron application description",
+  "version": "0.0.1",
+  "description": "",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",

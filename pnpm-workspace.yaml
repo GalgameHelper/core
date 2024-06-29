@@ -1,0 +1,6 @@
+packages:  
+  - 'web/*'
+  - 'desktop/*'
+  # exclude packages that are inside test directories
+  - '!docs/*'
+  - '!**/test/**'
