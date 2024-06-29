@@ -8,16 +8,8 @@
   "private": "true",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build4": "NODE_ENV=production rollup -c config/rollup.npm.js",
-    "release": "npm version prerelease",
     "start": "node config/webpack.dev.js",
-    "start2": "cross-env NODE_ENV=development node config/webpack.dev.js",
-    "build2": "rimraf dist && cross-env webpack --config config/webpack.npm.js",
-    "build": "webpack --config config/webpack.prod.js",
-    "build22": "vite build --config config/vite.config.js",
-    "build3": "cross-env webpack --config config/webpack.npm.js",
-    "git": "node config/script/git.js",
-    "pub": "npm publish"
+    "build": "webpack --config config/webpack.prod.js"
   },
   "keywords": [],
   "author": "ruihuag",

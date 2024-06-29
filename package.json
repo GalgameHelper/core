@@ -8,8 +8,8 @@
   },
   "scripts": {
     "commitlint": "commitlint -e",
-    "start:app": "pnpm run --filter galgame-helper-app start",
-    "start:web": "pnpm run --filter galgame-helper-web start",
+    "app": "pnpm run --filter galgame-helper-app start",
+    "web": "pnpm run --filter galgame-helper-web start",
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky"
   },
