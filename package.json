@@ -7,9 +7,15 @@
     "doc": "docs"
   },
   "scripts": {
+    "commitlint": "commitlint -e",
     "start:app": "pnpm run --filter galgame-helper-app start",
     "start:web": "pnpm run --filter galgame-helper-web start",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -e $HUSKY_GIT_PARAMS"
+    }
   },
   "keywords": [],
   "author": "ruihuag",
@@ -18,5 +24,9 @@
     "node": ">=20",
     "pnpm": ">=9",
     "npm": ">=10"
+  },
+  "devDependencies": {
+    "commitlint": "^19.3.0",
+    "husky": "^9.0.11"
   }
 }
