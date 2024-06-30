@@ -32,7 +32,7 @@ const createWindow = (): void => {
   // console.log(MAIN_WINDOW_WEBPACK_ENTRY)
   // 会出现 "Request Autofill.enable failed" 错误
   // Open the DevTools.
-  mainWindow.webContents.openDevTools();
+  // mainWindow.webContents.openDevTools();
 }
 
 // This method will be called when Electron has finished

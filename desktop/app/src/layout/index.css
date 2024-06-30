@@ -1,11 +1,3 @@
-body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
-    Arial, sans-serif;
-  margin: auto;
-  color: #eee;
-  background-color: #0D1117;
-}
-
 .app-layout-header {
   width: 100%;
   height: 64px;
