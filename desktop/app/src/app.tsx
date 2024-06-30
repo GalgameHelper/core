@@ -2,15 +2,17 @@
 
 import * as React from 'react'
 import { createRoot } from 'react-dom/client'
+import { Layout } from './layout'
+import { RouterProvider } from 'react-router-dom'
+import { router } from './router'
 
 const root = createRoot(document.body)
 
 function App() {
   return (
-    <div>
-      <div className='title'>标题</div>
-      <h2>Hello from React18!</h2>
-    </div>
+    <Layout>
+      <RouterProvider router={router} />
+    </Layout>
   )
 }
 

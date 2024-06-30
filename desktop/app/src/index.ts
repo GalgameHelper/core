@@ -24,13 +24,15 @@ const createWindow = (): void => {
       preload: MAIN_WINDOW_PRELOAD_WEBPACK_ENTRY,
     },
   })
+  mainWindow.maximize()
 
   // and load the index.html of the app.
   mainWindow.loadURL(MAIN_WINDOW_WEBPACK_ENTRY)
 
+  // console.log(MAIN_WINDOW_WEBPACK_ENTRY)
   // 会出现 "Request Autofill.enable failed" 错误
   // Open the DevTools.
-  // mainWindow.webContents.openDevTools();
+  mainWindow.webContents.openDevTools();
 }
 
 // This method will be called when Electron has finished
