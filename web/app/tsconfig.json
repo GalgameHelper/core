@@ -32,7 +32,6 @@
   "exclude": [
     "dist",
     "temp",
-    "node_modules",
     "config/*.ts"
   ],
   "include": ["components/**/*", "src/**/*", "**/*.d.ts"]

@@ -2,3 +2,16 @@ body {
   color: #efefef;
   background-color: #0D1117;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  &::after,
+  &::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+}

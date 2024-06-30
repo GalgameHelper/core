@@ -1,14 +1,15 @@
 import React from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.less'
-import { getImg } from './utils'
+import { routes } from './router'
+import { RouterProvider, createHashRouter } from 'react-router-dom'
+import { Layout } from './layout'
 
 function App() {
   return (
-    <div className='app'>
-      <img src={getImg()}/>
-      app 
-    </div>
+    <Layout>
+      <RouterProvider router={createHashRouter(routes)} />
+    </Layout>
   )
 }
 

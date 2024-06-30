@@ -29,7 +29,7 @@
     "@typescript-eslint/parser": "^5.62.0",
     "@typescript-eslint/typescript-estree": "^5.62.0",
     "@vitejs/plugin-react": "^4.2.1",
-    "abandonjs": "^3.7.1",
+    "abandonjs": "^3.8.1",
     "animejs": "^3.2.2",
     "asura-eye": "^0.8.0",
     "axios": "^1.5.1",
@@ -63,8 +63,11 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
+    "0hook": "^1.5.0",
+    "0type": "^0.1.0",
     "@dnd-kit/core": "^6.0.8",
     "enquirer": "^2.4.1",
+    "harpe": "^0.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router": "^6.23.1",
