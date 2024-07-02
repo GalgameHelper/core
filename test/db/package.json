@@ -1,0 +1,25 @@
+{
+  "name": "test-db",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "cookie-parser": "^1.4.6",
+    "dayjs": "^1.11.11",
+    "express": "^4.19.2",
+    "express-generator": "^4.16.1",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0",
+    "request": "^2.88.2",
+    "superagent": "^9.0.2"
+  }
+}
