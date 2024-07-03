@@ -201,19 +201,25 @@ ___CSS_LOADER_EXPORT___.push([module.id, `.home .character-card-list {
 }
 .home .characters {
   display: flex;
+  align-items: center;
+  justify-content: center;
   flex-wrap: wrap;
   gap: 8px;
-  background-color: rgba(255, 255, 255, 0.1);
   border-radius: 12px;
   padding: 12px;
 }
 .home .characters .character-item {
   display: flex;
   flex-wrap: wrap;
-  padding: 12px;
-  border-radius: 12px;
+  padding: 16px;
+  border-radius: 32px;
   gap: 10px;
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 0 3px rgba(255, 255, 255, 0.1);
+}
+.home .characters .character-item img {
+  width: 100px;
+  height: 100px;
 }
 `, ""]);
 // Exports
@@ -1162,6 +1168,41 @@ webpackContext.id = 6645;
 
 /***/ }),
 
+/***/ 7600:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var map = {
+	"./anemo.png": 9642,
+	"./cryo.png": 7665,
+	"./dendro.png": 9972,
+	"./electro.png": 5596,
+	"./geo.png": 4391,
+	"./hydro.png": 3518,
+	"./pyro.png": 5106
+};
+
+
+function webpackContext(req) {
+	var id = webpackContextResolve(req);
+	return __webpack_require__(id);
+}
+function webpackContextResolve(req) {
+	if(!__webpack_require__.o(map, req)) {
+		var e = new Error("Cannot find module '" + req + "'");
+		e.code = 'MODULE_NOT_FOUND';
+		throw e;
+	}
+	return map[req];
+}
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = 7600;
+
+/***/ }),
+
 /***/ 9746:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
@@ -1839,6 +1880,62 @@ module.exports = __webpack_require__.p + "img/Yun Jin090d3828.webp";
 
 "use strict";
 module.exports = __webpack_require__.p + "img/Zhongli07020ca4.webp";
+
+/***/ }),
+
+/***/ 9642:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/anemofca101ca.png";
+
+/***/ }),
+
+/***/ 7665:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/cryo712c4515.png";
+
+/***/ }),
+
+/***/ 9972:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/dendro31ad1742.png";
+
+/***/ }),
+
+/***/ 5596:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/electrof2a4fef3.png";
+
+/***/ }),
+
+/***/ 4391:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/geoc4d62af2.png";
+
+/***/ }),
+
+/***/ 3518:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/hydrob7fcaeae.png";
+
+/***/ }),
+
+/***/ 5106:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/pyroe5e405ff.png";
 
 /***/ })
 
@@ -2810,28 +2907,36 @@ function IS(type$1) {
 ;// CONCATENATED MODULE: ./src/locales/locales.ts
 const locales = {
   sex: "\u6027\u522B",
-  "sex.en": "Sex",
+  "sex.en_US": "Sex",
   race: "\u79CD\u65CF",
-  "race.en": "Race",
+  "race.en_US": "Race",
   name: "\u5168\u540D/\u672C\u540D",
-  "name.en": "Name",
+  "name.en_US": "Name",
   title: "\u79F0\u53F7",
   vision: "\u795E\u4E4B\u773C",
-  "vision.en": "Vision",
-  "title.en": "Title",
+  "vision.en_US": "Vision",
+  "title.en_US": "Title",
   "country": "\u6240\u5728\u56FD\u5BB6",
-  "country.en": "Country",
+  "country.en_US": "Country",
   "installationDate": "\u5B9E\u88C5\u65E5\u671F",
-  "installationDate.en": "Installation Date",
+  "installationDate.en_US": "Installation Date",
   "arkhe": "\u59CB\u57FA\u529B",
-  "arkhe.en": "Arkhe",
+  "arkhe.en_US": "Arkhe",
   occupation: "\u804C\u4E1A",
-  "occupation.en": "Occupation",
+  "occupation.en_US": "Occupation",
   Association: "Association",
   rarity: "\u7A00\u6709\u5EA6",
-  "rarity.en": "Rarity",
+  "rarity.en_US": "Rarity",
   weapon: "\u6B66\u5668\u7C7B\u578B",
-  "weapon.en": "Sword",
+  "weapon.en_US": "Sword",
+  sword: "\u5355\u624B\u5251",
+  "sword.en_US": "Sword",
+  bow: "\u5F13",
+  "box.en_US": "Bow",
+  "polearm": "\u957F\u67C4\u6B66\u5668",
+  "polearm.en_US": "Polearm",
+  catalyst: "\u6CD5\u5668",
+  "catalyst.en_US": "Catalyst",
   Element: "Element",
   Birth: "Birthday",
   Vision: "Vision (Introduced)",
@@ -2841,7 +2946,7 @@ const locales = {
   "English Seuyu": "English Seuyu",
   "Korean Seuyu": "Korean Seuyu",
   desc: "\u63CF\u8FF0",
-  "desc.en": "Description",
+  "desc.en_US": "Description",
   "Character Ascension Materials": "Character Ascension Materials",
   "Skill Ascension Materials": "Skill Ascension Materials"
 };
@@ -11353,197 +11458,6 @@ function useDebounceEffect(fn, waitTime, deps) {
 
 //# sourceMappingURL=index.esm.js.map
 
-;// CONCATENATED MODULE: ./src/db/character-list/Sigewinne/logo.png
-const logo_namespaceObject = __webpack_require__.p + "img/logo70a4decf.png";
-;// CONCATENATED MODULE: ./src/db/character-list/Sigewinne/bg.png
-const bg_namespaceObject = __webpack_require__.p + "img/bg5876ac69.png";
-;// CONCATENATED MODULE: ./src/db/character-list/Sigewinne/index.ts
-
-
-/* harmony default export */ const Sigewinne = ({
-  logo: logo_namespaceObject,
-  bg: bg_namespaceObject,
-  uid: "Sigewinne",
-  info: [
-    ["title", "\u9F99\u5973\u5999\u53D8"],
-    ["name", "\u5E0C\u683C\u96EF\uFF08Sigewinne\uFF09"],
-    ["country", "\u67AB\u4E39"],
-    ["race", "\u7F8E\u9732\u8398"],
-    ["sex", "\u5973"],
-    ["rarity", "5", { star: true }],
-    ["\u5E38\u9A7B/\u9650\u5B9A", "\u9650\u5B9AUP"],
-    ["vision", "\u6C34"],
-    ["weapon", "\u5F13"],
-    ["arkhe", "\u8352\u6027"],
-    ["\u547D\u4E4B\u5EA7", "\u6D77\u7CBE\u5EA7"],
-    ["\u7279\u6B8A\u6599\u7406", "\u81B3\u98DF\u5747\u8861\u9910"],
-    ["installationDate", "2024\u5E7406\u670825\u65E5\uFF084.7\u7248\u672C\uFF09"],
-    [
-      "TAG",
-      "\u6CBB\u7597\u3001\u80FD\u91CF\u6062\u590D\u3001\u4F24\u5BB3\u63D0\u5347\u3001\u751F\u547D\u4E4B\u5951\u3001\u6E90\u6C34\u4E4B\u6EF4\u3001\u62A4\u76FE\u3001\u51CF\u6297\u3001\u6280\u80FD\u5EF6\u957F\u3001\u81EA\u8EAB\u66B4\u51FB\u7387\u63D0\u5347\u3001\u81EA\u8EAB\u66B4\u51FB\u4F24\u5BB3\u63D0\u5347\u3001\u6C34\u4E0B\u63A2\u7D22\u4FBF\u5229",
-      {
-        "one-row": true
-      }
-    ],
-    [
-      "desc",
-      "\u6885\u6D1B\u5F7C\u5F97\u5821\u7684\u7F8E\u9732\u8398\u62A4\u58EB\u957F\uFF0C\u5E73\u7B49\u5730\u5173\u7231\u7740\u6D77\u5E95\u76D1\u7262\u4E2D\u7684\u6BCF\u4E00\u540D\u7F6A\u4EBA\u3002",
-      {
-        "one-row": true
-      }
-    ]
-  ]
-});
-
-;// CONCATENATED MODULE: ./src/db/character-list/Kamisato-Ayaka/logo.png
-const Kamisato_Ayaka_logo_namespaceObject = __webpack_require__.p + "img/logo4901fe95.png";
-;// CONCATENATED MODULE: ./src/db/character-list/Kamisato-Ayaka/index.ts
-
-/* harmony default export */ const Kamisato_Ayaka = ({
-  logo: Kamisato_Ayaka_logo_namespaceObject,
-  uid: "Kamisato Ayaka",
-  info: [
-    // ['title', '龙女妙变'],
-    ["name", "Kamisato Ayaka"]
-    // ['country', '枫丹'],
-    // ['race', '美露莘'],
-    // ['sex', '女'],
-    // ['稀有度', '5'],
-    // ['常驻/限定', '限定UP'],
-    // ['神之眼', '水'],
-    // ['武器类型', '弓'],
-    // ['始基力', '荒性'],
-    // ['命之座', '海精座'],
-    // ['特殊料理', '膳食均衡餐  膳食均衡餐  '],
-    // ['实装日期', '2024年06月25日（4.7版本）'],
-    // [
-    //   'TAG',
-    //   '治疗、能量恢复、伤害提升、生命之契、源水之滴、护盾、减抗、技能延长、自身暴击率提升、自身暴击伤害提升、水下探索便利'
-    // ],
-    // ['desc', '梅洛彼得堡的美露莘护士长，平等地关爱着海底监牢中的每一名罪人。']
-  ]
-});
-
-;// CONCATENATED MODULE: ./src/db/character-list/Jean/logo.png
-const Jean_logo_namespaceObject = __webpack_require__.p + "img/logo359eceeb.png";
-;// CONCATENATED MODULE: ./src/db/character-list/Jean/index.ts
-
-/* harmony default export */ const Jean = ({
-  logo: Jean_logo_namespaceObject,
-  uid: "Jean",
-  info: [
-    // ['title', '龙女妙变'],
-    ["name", "Jean"]
-    // ['country', '枫丹'],
-    // ['race', '美露莘'],
-    // ['sex', '女'],
-    // ['稀有度', '5'],
-    // ['常驻/限定', '限定UP'],
-    // ['神之眼', '水'],
-    // ['武器类型', '弓'],
-    // ['始基力', '荒性'],
-    // ['命之座', '海精座'],
-    // ['特殊料理', '膳食均衡餐  膳食均衡餐  '],
-    // ['实装日期', '2024年06月25日（4.7版本）'],
-    // [
-    //   'TAG',
-    //   '治疗、能量恢复、伤害提升、生命之契、源水之滴、护盾、减抗、技能延长、自身暴击率提升、自身暴击伤害提升、水下探索便利'
-    // ],
-    // ['desc', '梅洛彼得堡的美露莘护士长，平等地关爱着海底监牢中的每一名罪人。']
-  ]
-});
-
-;// CONCATENATED MODULE: ./src/db/character-list/Clorinde/logo.png
-const Clorinde_logo_namespaceObject = __webpack_require__.p + "img/logo2a0188de.png";
-;// CONCATENATED MODULE: ./src/db/character-list/Clorinde/index.ts
-
-/* harmony default export */ const Clorinde = ({
-  logo: Clorinde_logo_namespaceObject,
-  uid: "Clorinde",
-  info: [
-    // ['title', '龙女妙变'],
-    ["name", "Clorinde"]
-    // ['country', '枫丹'],
-    // ['race', '美露莘'],
-    // ['sex', '女'],
-    // ['稀有度', '5'],
-    // ['常驻/限定', '限定UP'],
-    // ['神之眼', '水'],
-    // ['武器类型', '弓'],
-    // ['始基力', '荒性'],
-    // ['命之座', '海精座'],
-    // ['特殊料理', '膳食均衡餐  膳食均衡餐  '],
-    // ['实装日期', '2024年06月25日（4.7版本）'],
-    // [
-    //   'TAG',
-    //   '治疗、能量恢复、伤害提升、生命之契、源水之滴、护盾、减抗、技能延长、自身暴击率提升、自身暴击伤害提升、水下探索便利'
-    // ],
-    // ['desc', '梅洛彼得堡的美露莘护士长，平等地关爱着海底监牢中的每一名罪人。']
-  ]
-  // 2: {
-  //   Name: 'Clorinde',
-  //   Title: 'Candlebearer, Shadowhunter',
-  //   Occupation: 'Trial Court',
-  //   Association: 'FONTAINE',
-  //   Rarity: 5,
-  //   Weapon: 'Sword',
-  //   Element: 'Electro',
-  //   Birth: [9, 20],
-  //   Vision: 'Electro',
-  //   Constellation: 'Rapperia',
-  //   'Chinese Seuyu': '赵涵雨',
-  //   'Japanese Seuyu': '石川由依',
-  //   'English Seuyu': 'Crystal Lee',
-  //   'Korean Seuyu': 'Shin Na-ri',
-  //   Description:
-  //     'An undefeated Champion Duelist. Sword in hand, she defends justice in the Court of Fontaine.',
-  //   'Description.zh_CN': '不败的决斗代理人。以手中的剑维护着枫丹廷的「公义」。',
-  //   'Character Ascension Materials': ['Vajrada Amethyst'],
-  //   'Skill Ascension Materials':
-  //     'Teachings of JusticeGuide to JusticePhilosophies of JusticeEveramberCrown of Insight'
-  // }
-});
-
-;// CONCATENATED MODULE: ./src/db/character-list/Arlecchino/logo.png
-const Arlecchino_logo_namespaceObject = __webpack_require__.p + "img/logo5975bc64.png";
-;// CONCATENATED MODULE: ./src/db/character-list/Arlecchino/index.ts
-
-/* harmony default export */ const Arlecchino = ({
-  logo: Arlecchino_logo_namespaceObject,
-  uid: "Arlecchino",
-  info: [
-    // ['title', '龙女妙变'],
-    ["name", "Arlecchino"]
-    // ['country', '枫丹'],
-    // ['race', '美露莘'],
-    // ['sex', '女'],
-    // ['稀有度', '5'],
-    // ['常驻/限定', '限定UP'],
-    // ['神之眼', '水'],
-    // ['武器类型', '弓'],
-    // ['始基力', '荒性'],
-    // ['命之座', '海精座'],
-    // ['特殊料理', '膳食均衡餐  膳食均衡餐  '],
-    // ['实装日期', '2024年06月25日（4.7版本）'],
-    // [
-    //   'TAG',
-    //   '治疗、能量恢复、伤害提升、生命之契、源水之滴、护盾、减抗、技能延长、自身暴击率提升、自身暴击伤害提升、水下探索便利'
-    // ],
-    // ['desc', '梅洛彼得堡的美露莘护士长，平等地关爱着海底监牢中的每一名罪人。']
-  ]
-});
-
-;// CONCATENATED MODULE: ./src/db/character-list/index.tsx
-
-
-
-
-
-const CharacterList = [Sigewinne, Clorinde, Arlecchino, Kamisato_Ayaka, Jean];
-
-;// CONCATENATED MODULE: ./src/db/index.ts
-
-
 ;// CONCATENATED MODULE: ./src/assets/database/characters.json
 const characters_namespaceObject = /*#__PURE__*/JSON.parse('[{"name":{"en_US":"Kamisato Ayaka","zh_CN":"神里绫华"},"rarity":"5","weapon":"sword","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Perpetual Heart","Kageuchi Handguard","Sakura Bloom","Philosophies of Elegance","Bloodjade Branch"]},{"name":{"en_US":"Jean","zh_CN":"琴"},"rarity":"5","weapon":"sword","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Hurricane Seed","Stained Mask","Dandelion Seed","Philosophies of Resistance","Dvalin\'s Plume"]},{"name":{"en_US":"Traveler","zh_CN":"旅行者"},"rarity":"5","weapon":"sword","element":"none","ascensionMaterials":["Brilliant Diamond Chunk","Stained Mask","Windwheel Aster","Guide to Ingenuity","Philosophies of Praxis"]},{"name":{"en_US":"Lisa","zh_CN":"丽莎"},"rarity":"4","weapon":"catalyst","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Lightning Prism","Slime Secretions","Valberry","Philosophies of Ballad","Dvalin\'s Claw"]},{"name":{"en_US":"Traveler","zh_CN":"旅行者"},"rarity":"5","weapon":"sword","element":"none","ascensionMaterials":["Brilliant Diamond Chunk","Stained Mask","Windwheel Aster","Guide to Ingenuity","Philosophies of Praxis"]},{"name":{"en_US":"Barbara","zh_CN":"芭芭拉"},"rarity":"4","weapon":"catalyst","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Cleansing Heart","Sealed Scroll","Philanemo Mushroom","Philosophies of Freedom","Ring of Boreas"]},{"name":{"en_US":"Kaeya","zh_CN":"凯亚"},"rarity":"4","weapon":"sword","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Hoarfrost Core","Silver Raven Insignia","Calla Lily","Philosophies of Ballad","Spirit Locket of Boreas"]},{"name":{"en_US":"Diluc","zh_CN":"迪卢克"},"rarity":"5","weapon":"claymore","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Everflame Seed","Sergeant\'s Insignia","Small Lamp Grass","Philosophies of Resistance","Dvalin\'s Plume"]},{"name":{"en_US":"Razor","zh_CN":"雷泽"},"rarity":"4","weapon":"claymore","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Lightning Prism","Stained Mask","Wolfhook","Philosophies of Resistance","Dvalin\'s Claw"]},{"name":{"en_US":"Amber","zh_CN":"安柏"},"rarity":"4","weapon":"bow","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Everflame Seed","Sharp Arrowhead","Small Lamp Grass","Philosophies of Freedom","Dvalin\'s Sigh"]},{"name":{"en_US":"Venti","zh_CN":"温迪"},"rarity":"5","weapon":"bow","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Hurricane Seed","Slime Secretions","Cecilia","Philosophies of Ballad","Tail of Boreas"]},{"name":{"en_US":"Xiangling","zh_CN":"香菱"},"rarity":"4","weapon":"polearm","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Everflame Seed","Slime Secretions","Jueyun Chili","Philosophies of Diligence","Dvalin\'s Claw"]},{"name":{"en_US":"Beidou","zh_CN":"北斗"},"rarity":"4","weapon":"claymore","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Lightning Prism","Silver Raven Insignia","Noctilucous Jade","Philosophies of Gold","Dvalin\'s Sigh"]},{"name":{"en_US":"Xingqiu","zh_CN":"行秋"},"rarity":"4","weapon":"sword","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Cleansing Heart","Stained Mask","Silk Flower","Philosophies of Gold","Tail of Boreas"]},{"name":{"en_US":"Xiao","zh_CN":"魈"},"rarity":"5","weapon":"polearm","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Juvenile Jade","Slime Secretions","Qingxin","Philosophies of Prosperity","Shadow of the Warrior"]},{"name":{"en_US":"Ningguang","zh_CN":"凝光"},"rarity":"4","weapon":"catalyst","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Basalt Pillar","Sergeant\'s Insignia","Glaze Lily","Philosophies of Prosperity","Spirit Locket of Boreas"]},{"name":{"en_US":"Klee","zh_CN":"可莉"},"rarity":"5","weapon":"catalyst","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Everflame Seed","Sealed Scroll","Philanemo Mushroom","Philosophies of Freedom","Ring of Boreas"]},{"name":{"en_US":"Zhongli","zh_CN":"钟离"},"rarity":"5","weapon":"polearm","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Basalt Pillar","Slime Secretions","Cor Lapis","Philosophies of Gold","Tusk of Monoceros Caeli"]},{"name":{"en_US":"Fischl","zh_CN":"菲谢尔"},"rarity":"4","weapon":"bow","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Lightning Prism","Sharp Arrowhead","Small Lamp Grass","Philosophies of Ballad","Spirit Locket of Boreas"]},{"name":{"en_US":"Bennett","zh_CN":"班尼特"},"rarity":"4","weapon":"sword","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Everflame Seed","Silver Raven Insignia","Windwheel Aster","Philosophies of Resistance","Dvalin\'s Plume"]},{"name":{"en_US":"Tartaglia","zh_CN":"达达利亚"},"rarity":"5","weapon":"bow","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Cleansing Heart","Sergeant\'s Insignia","Starconch","Philosophies of Freedom","Shard of a Foul Legacy"]},{"name":{"en_US":"Noelle","zh_CN":"诺艾尔"},"rarity":"4","weapon":"claymore","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Basalt Pillar","Stained Mask","Valberry","Philosophies of Resistance","Dvalin\'s Claw"]},{"name":{"en_US":"Qiqi","zh_CN":"七七"},"rarity":"5","weapon":"sword","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Hoarfrost Core","Sealed Scroll","Violetgrass","Philosophies of Prosperity","Tail of Boreas"]},{"name":{"en_US":"Chongyun","zh_CN":"重云"},"rarity":"4","weapon":"claymore","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Hoarfrost Core","Stained Mask","Cor Lapis","Philosophies of Diligence","Dvalin\'s Sigh"]},{"name":{"en_US":"Ganyu","zh_CN":"甘雨"},"rarity":"5","weapon":"bow","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Hoarfrost Core","Shimmering Nectar","Qingxin","Philosophies of Diligence","Shadow of the Warrior"]},{"name":{"en_US":"Albedo","zh_CN":"阿贝多"},"rarity":"5","weapon":"sword","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Basalt Pillar","Sealed Scroll","Cecilia","Philosophies of Ballad","Tusk of Monoceros Caeli"]},{"name":{"en_US":"Diona","zh_CN":"迪奥娜"},"rarity":"4","weapon":"bow","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Hoarfrost Core","Sharp Arrowhead","Calla Lily","Philosophies of Freedom","Shard of a Foul Legacy"]},{"name":{"en_US":"Mona","zh_CN":"莫娜"},"rarity":"5","weapon":"catalyst","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Cleansing Heart","Shimmering Nectar","Philanemo Mushroom","Philosophies of Resistance","Ring of Boreas"]},{"name":{"en_US":"Keqing","zh_CN":"刻晴"},"rarity":"5","weapon":"sword","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Lightning Prism","Shimmering Nectar","Cor Lapis","Philosophies of Prosperity","Ring of Boreas"]},{"name":{"en_US":"Sucrose","zh_CN":"砂糖"},"rarity":"4","weapon":"catalyst","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Hurricane Seed","Shimmering Nectar","Windwheel Aster","Philosophies of Freedom","Spirit Locket of Boreas"]},{"name":{"en_US":"Xinyan","zh_CN":"辛焱"},"rarity":"4","weapon":"claymore","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Everflame Seed","Silver Raven Insignia","Violetgrass","Philosophies of Gold","Tusk of Monoceros Caeli"]},{"name":{"en_US":"Rosaria","zh_CN":"罗莎莉亚"},"rarity":"4","weapon":"polearm","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Hoarfrost Core","Sergeant\'s Insignia","Valberry","Philosophies of Ballad","Shadow of the Warrior"]},{"name":{"en_US":"Hu Tao","zh_CN":"胡桃"},"rarity":"5","weapon":"polearm","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Juvenile Jade","Shimmering Nectar","Silk Flower","Philosophies of Diligence","Shard of a Foul Legacy"]},{"name":{"en_US":"Kaedehara Kazuha","zh_CN":"枫原万叶"},"rarity":"5","weapon":"sword","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Marionette Core","Silver Raven Insignia","Sea Ganoderma","Philosophies of Diligence","Gilded Scale"]},{"name":{"en_US":"Yanfei","zh_CN":"烟绯"},"rarity":"4","weapon":"catalyst","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Juvenile Jade","Silver Raven Insignia","Noctilucous Jade","Philosophies of Gold","Bloodjade Branch"]},{"name":{"en_US":"Yoimiya","zh_CN":"宵宫"},"rarity":"5","weapon":"bow","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Smoldering Pearl","Sealed Scroll","Naku Weed","Philosophies of Transience","Dragon Lord\'s Crown"]},{"name":{"en_US":"Thoma","zh_CN":"托马"},"rarity":"4","weapon":"polearm","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Smoldering Pearl","Silver Raven Insignia","Fluorescent Fungus","Philosophies of Transience","Hellfire Butterfly"]},{"name":{"en_US":"Eula","zh_CN":"优菈"},"rarity":"5","weapon":"claymore","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Crystalline Bloom","Stained Mask","Dandelion Seed","Philosophies of Resistance","Dragon Lord\'s Crown"]},{"name":{"en_US":"Raiden Shogun","zh_CN":"雷电将军"},"rarity":"5","weapon":"polearm","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Storm Beads","Kageuchi Handguard","Amakumo Fruit","Philosophies of Light","Molten Moment"]},{"name":{"en_US":"Sayu","zh_CN":"早柚"},"rarity":"4","weapon":"claymore","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Marionette Core","Shimmering Nectar","Crystal Marrow","Philosophies of Light","Gilded Scale"]},{"name":{"en_US":"Sangonomiya Kokomi","zh_CN":"珊瑚宫心海"},"rarity":"5","weapon":"catalyst","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Dew of Repudiation","Spectral Heart","Sango Pearl","Philosophies of Transience","Hellfire Butterfly"]},{"name":{"en_US":"Gorou","zh_CN":"五郎"},"rarity":"4","weapon":"bow","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Perpetual Heart","Spectral Heart","Sango Pearl","Philosophies of Light","Molten Moment"]},{"name":{"en_US":"Kujou Sara","zh_CN":"九条裟罗"},"rarity":"4","weapon":"bow","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Storm Beads","Stained Mask","Dendrobium","Philosophies of Elegance","Ashen Heart"]},{"name":{"en_US":"Arataki Itto","zh_CN":"荒泷一斗"},"rarity":"5","weapon":"claymore","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Riftborn Regalia","Slime Secretions","Onikabuto","Philosophies of Elegance","Ashen Heart"]},{"name":{"en_US":"Yae Miko","zh_CN":"八重神子"},"rarity":"5","weapon":"catalyst","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Dragonheir\'s False Fin","Kageuchi Handguard","Sea Ganoderma","Philosophies of Light","The Meaning of Aeons"]},{"name":{"en_US":"Shikanoin Heizou","zh_CN":"鹿野院平藏"},"rarity":"4","weapon":"catalyst","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Runic Fang","Silver Raven Insignia","Onikabuto","Philosophies of Transience","The Meaning of Aeons"]},{"name":{"en_US":"Yelan","zh_CN":"夜兰"},"rarity":"5","weapon":"bow","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Runic Fang","Sergeant\'s Insignia","Starconch","Philosophies of Prosperity","Gilded Scale"]},{"name":{"en_US":"Kirara","zh_CN":"绮良良"},"rarity":"4","weapon":"sword","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Evergloom Ring","Spectral Heart","Amakumo Fruit","Philosophies of Transience","Everamber"]},{"name":{"en_US":"Aloy","zh_CN":"埃洛伊"},"rarity":"4","weapon":"bow","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Crystalline Bloom","Spectral Heart","Crystal Marrow","Philosophies of Freedom","Molten Moment"]},{"name":{"en_US":"Shenhe","zh_CN":"申鹤"},"rarity":"5","weapon":"polearm","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Dragonheir\'s False Fin","Shimmering Nectar","Qingxin","Philosophies of Prosperity","Hellfire Butterfly"]},{"name":{"en_US":"Yun Jin","zh_CN":"云堇"},"rarity":"4","weapon":"polearm","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Riftborn Regalia","Stained Mask","Glaze Lily","Philosophies of Diligence","Ashen Heart"]},{"name":{"en_US":"Kuki Shinobu","zh_CN":"久岐忍"},"rarity":"4","weapon":"sword","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Runic Fang","Spectral Heart","Naku Weed","Philosophies of Elegance","Tears of the Calamitous God"]},{"name":{"en_US":"Kamisato Ayato","zh_CN":"神里绫人"},"rarity":"5","weapon":"sword","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Dew of Repudiation","Kageuchi Handguard","Sakura Bloom","Philosophies of Elegance","Mudra of the Malefic General"]},{"name":{"en_US":"Collei","zh_CN":"柯莱"},"rarity":"4","weapon":"bow","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Majestic Hooked Beak","Sharp Arrowhead","Rukkhashava Mushrooms","Philosophies of Praxis","Tears of the Calamitous God"]},{"name":{"en_US":"Dori","zh_CN":"多莉"},"rarity":"4","weapon":"claymore","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Thunderclap Fruitcore","Trimmed Red Silk","Kalpalata Lotus","Philosophies of Ingenuity","Bloodjade Branch"]},{"name":{"en_US":"Tighnari","zh_CN":"提纳里"},"rarity":"5","weapon":"bow","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Majestic Hooked Beak","Luminescent Pollen","Nilotpala Lotus","Philosophies of Admonition","The Meaning of Aeons"]},{"name":{"en_US":"Nilou","zh_CN":"妮露"},"rarity":"5","weapon":"sword","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Perpetual Caliber","Luminescent Pollen","Padisarah","Philosophies of Praxis","Tears of the Calamitous God"]},{"name":{"en_US":"Cyno","zh_CN":"赛诺"},"rarity":"5","weapon":"polearm","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Thunderclap Fruitcore","Sealed Scroll","Scarab","Philosophies of Admonition","Mudra of the Malefic General"]},{"name":{"en_US":"Candace","zh_CN":"坎蒂丝"},"rarity":"4","weapon":"polearm","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Light Guiding Tetrahedron","Trimmed Red Silk","Henna Berry","Philosophies of Admonition","Tears of the Calamitous God"]},{"name":{"en_US":"Nahida","zh_CN":"纳西妲"},"rarity":"5","weapon":"catalyst","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Quelled Creeper","Luminescent Pollen","Kalpalata Lotus","Philosophies of Ingenuity","Puppet Strings"]},{"name":{"en_US":"Layla","zh_CN":"莱依拉"},"rarity":"4","weapon":"sword","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Perpetual Caliber","Sealed Scroll","Nilotpala Lotus","Philosophies of Ingenuity","Mirror of Mushin"]},{"name":{"en_US":"Wanderer","zh_CN":"流浪者"},"rarity":"5","weapon":"catalyst","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Perpetual Caliber","Kageuchi Handguard","Rukkhashava Mushrooms","Philosophies of Praxis","Daka\'s Bell"]},{"name":{"en_US":"Faruzan","zh_CN":"珐露珊"},"rarity":"4","weapon":"bow","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Light Guiding Tetrahedron","Trimmed Red Silk","Henna Berry","Philosophies of Admonition","Puppet Strings"]},{"name":{"en_US":"Yaoyao","zh_CN":"瑶瑶"},"rarity":"4","weapon":"polearm","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Quelled Creeper","Slime Secretions","Jueyun Chili","Philosophies of Diligence","Daka\'s Bell"]},{"name":{"en_US":"Alhaitham","zh_CN":"艾尔海森"},"rarity":"5","weapon":"sword","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Pseudo-Stamens","Trimmed Red Silk","Sand Grease Pupa","Philosophies of Ingenuity","Mirror of Mushin"]},{"name":{"en_US":"Dehya","zh_CN":"迪希雅"},"rarity":"5","weapon":"claymore","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Light Guiding Tetrahedron","Trimmed Red Silk","Sand Grease Pupa","Philosophies of Praxis","Puppet Strings"]},{"name":{"en_US":"Mika","zh_CN":"米卡"},"rarity":"4","weapon":"polearm","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Pseudo-Stamens","Sergeant\'s Insignia","Wolfhook","Philosophies of Ballad","Mirror of Mushin"]},{"name":{"en_US":"Kaveh","zh_CN":"卡维"},"rarity":"4","weapon":"claymore","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Quelled Creeper","Luminescent Pollen","Mourning Flower","Philosophies of Ingenuity","Primordial Greenbloom"]},{"name":{"en_US":"Baizhu","zh_CN":"白术"},"rarity":"5","weapon":"catalyst","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Evergloom Ring","Luminescent Pollen","Violetgrass","Philosophies of Gold","Worldspan Fern"]},{"name":{"en_US":"Lynette","zh_CN":"琳妮特"},"rarity":"4","weapon":"sword","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Artificed Spare Clockwork Component — Coppelia","Mechanical Spur Gear","Lumidouce Bell","Philosophies of Order","Everamber"]},{"name":{"en_US":"Lyney","zh_CN":"林尼"},"rarity":"5","weapon":"bow","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Emperor\'s Resolution","Sergeant\'s Insignia","Rainbow Rose","Philosophies of Equity","Primordial Greenbloom"]},{"name":{"en_US":"Freminet","zh_CN":"菲米尼"},"rarity":"4","weapon":"claymore","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Artificed Spare Clockwork Component — Coppelius","Transoceanic Chunk","Romaritime Flower","Philosophies of Justice","Worldspan Fern"]},{"name":{"en_US":"Wriothesley","zh_CN":"莱欧斯利"},"rarity":"5","weapon":"catalyst","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","","Mechanical Spur Gear","Subdetection Unit","Philosophies of Order","Primordial Greenbloom"]},{"name":{"en_US":"Neuvillette","zh_CN":"那维莱特"},"rarity":"5","weapon":"catalyst","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Fontemer Unihorn","Transoceanic Chunk","Lumitoile","Philosophies of Equity","Everamber"]},{"name":{"en_US":"Charlotte","zh_CN":"夏洛蒂"},"rarity":"4","weapon":"catalyst","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","","Mechanical Spur Gear","Beryl Conch","Philosophies of Justice","Lightless Silk String"]},{"name":{"en_US":"Furina","zh_CN":"芙宁娜"},"rarity":"5","weapon":"sword","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Water That Failed To Transcend","Shimmering Nectar","Lakelight Lily","Philosophies of Justice","Lightless Mass"]},{"name":{"en_US":"Chevreuse","zh_CN":"夏沃蕾"},"rarity":"4","weapon":"polearm","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Fontemer Unihorn","Mechanical Spur Gear","Lumidouce Bell","Philosophies of Order","Lightless Eye of the Maelstrom"]},{"name":{"en_US":"Navia","zh_CN":"娜维娅"},"rarity":"5","weapon":"claymore","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Artificed Spare Clockwork Component — Coppelius","Transoceanic Chunk","Spring of the First Dewdrop","Philosophies of Equity","Lightless Silk String"]},{"name":{"en_US":"Gaming","zh_CN":"嘉明"},"rarity":"4","weapon":"claymore","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Emperor\'s Resolution","Slime Secretions","Starconch","Philosophies of Prosperity","Lightless Mass"]},{"name":{"en_US":"Xianyun","zh_CN":"闲云"},"rarity":"5","weapon":"catalyst","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Cloudseam Scale","Sealed Scroll","Clearwater Jade","Philosophies of Gold","Lightless Eye of the Maelstrom"]},{"name":{"en_US":"Chiori","zh_CN":"千织"},"rarity":"5","weapon":"sword","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Artificed Spare Clockwork Component — Coppelia","Spectral Heart","Dendrobium","Philosophies of Light","Lightless Silk String"]},{"name":{"en_US":"Sigewinne","zh_CN":"希格雯"},"rarity":"5","weapon":"bow","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Water That Failed To Transcend","Transoceanic Chunk","Romaritime Flower","Philosophies of Equity","Lightless Eye of the Maelstrom"]},{"name":{"en_US":"Arlecchino","zh_CN":"阿蕾奇诺"},"rarity":"5","weapon":"polearm","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Fragment of a Golden Melody","Sergeant\'s Insignia","Rainbow Rose","Philosophies of Order","Fading Candle"]},{"name":{"en_US":"Sethos","zh_CN":"赛索斯"},"rarity":"4","weapon":"bow","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Cloudseam Scale","Trimmed Red Silk","Trishiraite","Philosophies of Praxis","Daka\'s Bell"]},{"name":{"en_US":"Clorinde","zh_CN":"克洛琳德"},"rarity":"5","weapon":"sword","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Fontemer Unihorn","Transoceanic Chunk","Lumitoile","Philosophies of Justice","Everamber"]},{"name":{"en_US":"Emilie","zh_CN":"艾梅莉埃"},"rarity":"5","weapon":"polearm","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Fragment of a Golden Melody","Mechanical Spur Gear","Lakelight Lily","Philosophies of Order","Silken Feather"]}]');
 ;// CONCATENATED MODULE: ./src/service/index.ts
@@ -11568,13 +11482,12 @@ var __async = (__this, __arguments, generator) => {
   });
 };
 
-
 const getCharacter = (name) => __async(void 0, null, function* () {
+  console.log(name);
   if (name) {
-    const character = CharacterList.filter(
-      (_) => _.uid === name
+    return characters_namespaceObject.filter(
+      (item) => Object.values(item.name).includes(name)
     )[0];
-    return character || null;
   }
   return null;
 });
@@ -11611,34 +11524,48 @@ var Characters_async = (__this, __arguments, generator) => {
 
 
 
+
 function Characters_Characters(props) {
   const [search] = useSearchParams();
-  const name = search.get("name");
-  const [{ logo, bg, info = [] }, setState] = useSetState(
-    {}
-  );
+  const lang = localStorage.lang || "zh_CN";
+  const [
+    {
+      name = {
+        en_US: "",
+        zh_CN: ""
+      },
+      rarity = "5",
+      weapon = "",
+      element,
+      ascensionMaterials = []
+    },
+    setState
+  ] = useSetState({});
   const init = () => Characters_async(this, null, function* () {
-    const character = yield getCharacter(name);
+    const character = yield getCharacter(search.get("name"));
     if (character)
       setState(character);
   });
   react.useEffect(() => {
     init();
   }, []);
-  return /* @__PURE__ */ react.createElement("div", { className: "characters" }, /* @__PURE__ */ react.createElement(
+  return /* @__PURE__ */ react.createElement("div", { className: "characters", style: { display: name ? "block" : "none" } }, name.en_US && /* @__PURE__ */ react.createElement(
     Img,
     {
-      src: logo,
+      src: __webpack_require__(6645)(`./${name.en_US}.webp`),
       style: { cursor: "pointer" },
       size: 128,
       onClick: () => {
         history.back();
       }
     }
-  ), /* @__PURE__ */ react.createElement("div", { className: "characters-item" }, info.map((item, i) => {
-    const [name2, value, type = { default: true }] = item || [];
-    return /* @__PURE__ */ react.createElement("div", { className: W("info-item", type), key: i }, /* @__PURE__ */ react.createElement("div", { className: "name" }, locales_t(name2)), /* @__PURE__ */ react.createElement("div", { className: "value" }, type.star ? /* @__PURE__ */ react.createElement(Star, { value }) : value));
-  })));
+  ), /* @__PURE__ */ react.createElement("div", { className: "characters-item" }, /* @__PURE__ */ react.createElement("div", { className: W("info-item") }, /* @__PURE__ */ react.createElement("div", { className: "name" }, locales_t("name")), /* @__PURE__ */ react.createElement("div", { className: "value" }, name[lang])), /* @__PURE__ */ react.createElement("div", { className: W("info-item") }, /* @__PURE__ */ react.createElement("div", { className: "name" }, locales_t("weapon")), /* @__PURE__ */ react.createElement("div", { className: "value" }, locales_t(weapon))), /* @__PURE__ */ react.createElement("div", { className: W("info-item") }, /* @__PURE__ */ react.createElement("div", { className: "name" }, locales_t("rarity")), /* @__PURE__ */ react.createElement("div", { className: "value" }, /* @__PURE__ */ react.createElement(Star, { value: rarity }))), /* @__PURE__ */ react.createElement("div", { className: W("info-item") }, /* @__PURE__ */ react.createElement("div", { className: "name" }, locales_t("vision")), /* @__PURE__ */ react.createElement("div", { className: "value" }, isString(element) && element && !["none"].includes(element) && /* @__PURE__ */ react.createElement(
+    Img,
+    {
+      src: __webpack_require__(7600)(`./${element}.png`),
+      size: 32
+    }
+  )))));
 }
 
 // EXTERNAL MODULE: ../../node_modules/.pnpm/css-loader@6.11.0_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/less-loader@11.1.4_less@4.2.0_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/less-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/views/home/index.less
@@ -11697,9 +11624,7 @@ var home_async = (__this, __arguments, generator) => {
 
 
 
-
 function Home() {
-  const lang = localStorage.lang || "zh_CN";
   const [characters, setCharacters] = react.useState([]);
   const nav = dist_useNavigate();
   const init = () => home_async(this, null, function* () {
@@ -11707,15 +11632,9 @@ function Home() {
   });
   react.useEffect(() => {
     init();
-  }, [CharacterList]);
+  }, []);
   return /* @__PURE__ */ react.createElement("div", { className: "home" }, /* @__PURE__ */ react.createElement("div", { className: "characters" }, characters.map((item, i) => {
-    const {
-      name = {},
-      rarity,
-      weapon,
-      element,
-      ascensionMaterials = []
-    } = item;
+    const { name } = item;
     return /* @__PURE__ */ react.createElement("div", { key: i, className: "character-item" }, /* @__PURE__ */ react.createElement(
       "img",
       {
