@@ -7,7 +7,8 @@ const cb = (e) => e && console.error(e)
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
 fs.readFile(
-  path.resolve(__dirname, '../../database/temp.html'),
+  path.resolve(__dirname, '../../database/db.html'),
+  // path.resolve(__dirname, '../../database/db.html'),
   (error, target) => {
 
     if (error) return console.error(error)
@@ -16,7 +17,7 @@ fs.readFile(
     const $ = cheerio.load(value)
     const data = []
 
-    $('table.genshin_table tbody')
+    $('.entry-content.wp-block-post-content table.genshin_table tbody')
       .find('tr')
       .each((i, ele) => {
         const col = $(ele).find('td')
