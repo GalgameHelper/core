@@ -139,7 +139,7 @@ export default {
       // 	exclude
       // },
       {
-        test: /\.(jpe?g|png|gif|)$/i,
+        test: /\.(jpe?g|png|gif|webp)$/i,
         type: 'asset/resource',
         generator: {
           filename: 'img/[name][hash:8][ext]'

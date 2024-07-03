@@ -1,44 +1,41 @@
 import React from 'react'
-import { Link, useNavigate } from 'react-router-dom'
-import { CharacterList } from '@/db'
+import { useNavigate } from 'react-router-dom'
 import { ObjectType } from '0type'
-import { Img } from '@/components'
 import './index.less'
+import { getCharacters } from '@/service'
+import { CharacterType } from '@/type'
 
 export function Home() {
-  const [list, setList] = React.useState<ObjectType[]>([])
+  const [characters, setCharacters] = React.useState<ObjectType[]>([])
+
   const nav = useNavigate()
 
-  React.useEffect(() => {
-    const newList: ObjectType[] = []
+  const init = async () => {
+    setCharacters(await getCharacters())
+  }
 
-    CharacterList.forEach((item) => {
-      const record = {
-        ...item,
-        name: item.info.filter((_) => _[0] === 'name')[0]
-      }
-      newList.push(record)
-    })
-    setList(newList)
-  }, [CharacterList])
+  React.useEffect(() => {
+    init()
+  }, [])
 
   return (
-    <div>
-      <div className='character-card-list'>
-        {list.map((item, i) => {
+    <div className='home'>
+      <div className='characters'>
+        {characters.map((item: CharacterType, i) => {
+          const { name } = item
           return (
-            <div
-              className='card'
-              key={i}
-              onClick={() => {
-                nav(`/characters?name=${item.uid || ''}`)
-              }}>
-              <Img src={item.logo} size={64} />
+            <div key={i} className='character-item'>
+              <img
+                src={require(`@/assets/img/characters/${name.en_US}.webp`)}
+                style={{ cursor: 'pointer' }}
+                onClick={() => {
+                  nav(`/characters?name=${name.en_US || ''}`)
+                }}
+              />
             </div>
           )
         })}
       </div>
-      {/* <Link to='characters'>characters</Link> */}
     </div>
   )
 }

@@ -1,9 +1,39 @@
-.character-card-list {
-  display: flex;
-  padding: 24px;
-  gap: 10px;
+.home {
 
-  .card {
-    cursor: pointer;
+  .character-card-list {
+    display: flex;
+    padding: 24px;
+    gap: 10px;
+
+    .card {
+      cursor: pointer;
+    }
+  }
+
+  .characters {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+
+    border-radius: 12px;
+    padding: 12px;
+
+    .character-item {
+      display: flex;
+      flex-wrap: wrap;
+      padding: 16px;
+      border-radius: 32px;
+
+      gap: 10px;
+      background-color: rgba(255, 255, 255, .15);
+      box-shadow: 0 0 3px rgba(255, 255, 255, .1);
+
+      img {
+        width: 100px;
+        height: 100px;
+      }
+    }
   }
 }

@@ -1,0 +1,1462 @@
+[
+ {
+  "name": {
+   "en_US": "Kamisato Ayaka",
+   "zh_CN": "神里绫华"
+  },
+  "rarity": "5",
+  "weapon": "sword",
+  "element": "cryo",
+  "ascensionMaterials": [
+   "Shivada Jade Chunk",
+   "Perpetual Heart",
+   "Kageuchi Handguard",
+   "Sakura Bloom",
+   "Philosophies of Elegance",
+   "Bloodjade Branch"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Jean",
+   "zh_CN": "琴"
+  },
+  "rarity": "5",
+  "weapon": "sword",
+  "element": "anemo",
+  "ascensionMaterials": [
+   "Vayuda Turquoise Chunk",
+   "Hurricane Seed",
+   "Stained Mask",
+   "Dandelion Seed",
+   "Philosophies of Resistance",
+   "Dvalin's Plume"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Traveler",
+   "zh_CN": "旅行者"
+  },
+  "rarity": "5",
+  "weapon": "sword",
+  "element": "none",
+  "ascensionMaterials": [
+   "Brilliant Diamond Chunk",
+   "Stained Mask",
+   "Windwheel Aster",
+   "Guide to Ingenuity",
+   "Philosophies of Praxis"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Lisa",
+   "zh_CN": "丽莎"
+  },
+  "rarity": "4",
+  "weapon": "catalyst",
+  "element": "electro",
+  "ascensionMaterials": [
+   "Vajrada Amethyst Chunk",
+   "Lightning Prism",
+   "Slime Secretions",
+   "Valberry",
+   "Philosophies of Ballad",
+   "Dvalin's Claw"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Traveler",
+   "zh_CN": "旅行者"
+  },
+  "rarity": "5",
+  "weapon": "sword",
+  "element": "none",
+  "ascensionMaterials": [
+   "Brilliant Diamond Chunk",
+   "Stained Mask",
+   "Windwheel Aster",
+   "Guide to Ingenuity",
+   "Philosophies of Praxis"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Barbara",
+   "zh_CN": "芭芭拉"
+  },
+  "rarity": "4",
+  "weapon": "catalyst",
+  "element": "hydro",
+  "ascensionMaterials": [
+   "Varunada Lazurite Chunk",
+   "Cleansing Heart",
+   "Sealed Scroll",
+   "Philanemo Mushroom",
+   "Philosophies of Freedom",
+   "Ring of Boreas"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Kaeya",
+   "zh_CN": "凯亚"
+  },
+  "rarity": "4",
+  "weapon": "sword",
+  "element": "cryo",
+  "ascensionMaterials": [
+   "Shivada Jade Chunk",
+   "Hoarfrost Core",
+   "Silver Raven Insignia",
+   "Calla Lily",
+   "Philosophies of Ballad",
+   "Spirit Locket of Boreas"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Diluc",
+   "zh_CN": "迪卢克"
+  },
+  "rarity": "5",
+  "weapon": "claymore",
+  "element": "pyro",
+  "ascensionMaterials": [
+   "Agnidus Agate Chunk",
+   "Everflame Seed",
+   "Sergeant's Insignia",
+   "Small Lamp Grass",
+   "Philosophies of Resistance",
+   "Dvalin's Plume"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Razor",
+   "zh_CN": "雷泽"
+  },
+  "rarity": "4",
+  "weapon": "claymore",
+  "element": "electro",
+  "ascensionMaterials": [
+   "Vajrada Amethyst Chunk",
+   "Lightning Prism",
+   "Stained Mask",
+   "Wolfhook",
+   "Philosophies of Resistance",
+   "Dvalin's Claw"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Amber",
+   "zh_CN": "安柏"
+  },
+  "rarity": "4",
+  "weapon": "bow",
+  "element": "pyro",
+  "ascensionMaterials": [
+   "Agnidus Agate Chunk",
+   "Everflame Seed",
+   "Sharp Arrowhead",
+   "Small Lamp Grass",
+   "Philosophies of Freedom",
+   "Dvalin's Sigh"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Venti",
+   "zh_CN": "温迪"
+  },
+  "rarity": "5",
+  "weapon": "bow",
+  "element": "anemo",
+  "ascensionMaterials": [
+   "Vayuda Turquoise Chunk",
+   "Hurricane Seed",
+   "Slime Secretions",
+   "Cecilia",
+   "Philosophies of Ballad",
+   "Tail of Boreas"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Xiangling",
+   "zh_CN": "香菱"
+  },
+  "rarity": "4",
+  "weapon": "polearm",
+  "element": "pyro",
+  "ascensionMaterials": [
+   "Agnidus Agate Chunk",
+   "Everflame Seed",
+   "Slime Secretions",
+   "Jueyun Chili",
+   "Philosophies of Diligence",
+   "Dvalin's Claw"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Beidou",
+   "zh_CN": "北斗"
+  },
+  "rarity": "4",
+  "weapon": "claymore",
+  "element": "electro",
+  "ascensionMaterials": [
+   "Vajrada Amethyst Chunk",
+   "Lightning Prism",
+   "Silver Raven Insignia",
+   "Noctilucous Jade",
+   "Philosophies of Gold",
+   "Dvalin's Sigh"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Xingqiu",
+   "zh_CN": "行秋"
+  },
+  "rarity": "4",
+  "weapon": "sword",
+  "element": "hydro",
+  "ascensionMaterials": [
+   "Varunada Lazurite Chunk",
+   "Cleansing Heart",
+   "Stained Mask",
+   "Silk Flower",
+   "Philosophies of Gold",
+   "Tail of Boreas"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Xiao",
+   "zh_CN": "魈"
+  },
+  "rarity": "5",
+  "weapon": "polearm",
+  "element": "anemo",
+  "ascensionMaterials": [
+   "Vayuda Turquoise Chunk",
+   "Juvenile Jade",
+   "Slime Secretions",
+   "Qingxin",
+   "Philosophies of Prosperity",
+   "Shadow of the Warrior"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Ningguang",
+   "zh_CN": "凝光"
+  },
+  "rarity": "4",
+  "weapon": "catalyst",
+  "element": "geo",
+  "ascensionMaterials": [
+   "Prithiva Topaz Chunk",
+   "Basalt Pillar",
+   "Sergeant's Insignia",
+   "Glaze Lily",
+   "Philosophies of Prosperity",
+   "Spirit Locket of Boreas"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Klee",
+   "zh_CN": "可莉"
+  },
+  "rarity": "5",
+  "weapon": "catalyst",
+  "element": "pyro",
+  "ascensionMaterials": [
+   "Agnidus Agate Chunk",
+   "Everflame Seed",
+   "Sealed Scroll",
+   "Philanemo Mushroom",
+   "Philosophies of Freedom",
+   "Ring of Boreas"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Zhongli",
+   "zh_CN": "钟离"
+  },
+  "rarity": "5",
+  "weapon": "polearm",
+  "element": "geo",
+  "ascensionMaterials": [
+   "Prithiva Topaz Chunk",
+   "Basalt Pillar",
+   "Slime Secretions",
+   "Cor Lapis",
+   "Philosophies of Gold",
+   "Tusk of Monoceros Caeli"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Fischl",
+   "zh_CN": "菲谢尔"
+  },
+  "rarity": "4",
+  "weapon": "bow",
+  "element": "electro",
+  "ascensionMaterials": [
+   "Vajrada Amethyst Chunk",
+   "Lightning Prism",
+   "Sharp Arrowhead",
+   "Small Lamp Grass",
+   "Philosophies of Ballad",
+   "Spirit Locket of Boreas"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Bennett",
+   "zh_CN": "班尼特"
+  },
+  "rarity": "4",
+  "weapon": "sword",
+  "element": "pyro",
+  "ascensionMaterials": [
+   "Agnidus Agate Chunk",
+   "Everflame Seed",
+   "Silver Raven Insignia",
+   "Windwheel Aster",
+   "Philosophies of Resistance",
+   "Dvalin's Plume"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Tartaglia",
+   "zh_CN": "达达利亚"
+  },
+  "rarity": "5",
+  "weapon": "bow",
+  "element": "hydro",
+  "ascensionMaterials": [
+   "Varunada Lazurite Chunk",
+   "Cleansing Heart",
+   "Sergeant's Insignia",
+   "Starconch",
+   "Philosophies of Freedom",
+   "Shard of a Foul Legacy"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Noelle",
+   "zh_CN": "诺艾尔"
+  },
+  "rarity": "4",
+  "weapon": "claymore",
+  "element": "geo",
+  "ascensionMaterials": [
+   "Prithiva Topaz Chunk",
+   "Basalt Pillar",
+   "Stained Mask",
+   "Valberry",
+   "Philosophies of Resistance",
+   "Dvalin's Claw"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Qiqi",
+   "zh_CN": "七七"
+  },
+  "rarity": "5",
+  "weapon": "sword",
+  "element": "cryo",
+  "ascensionMaterials": [
+   "Shivada Jade Chunk",
+   "Hoarfrost Core",
+   "Sealed Scroll",
+   "Violetgrass",
+   "Philosophies of Prosperity",
+   "Tail of Boreas"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Chongyun",
+   "zh_CN": "重云"
+  },
+  "rarity": "4",
+  "weapon": "claymore",
+  "element": "cryo",
+  "ascensionMaterials": [
+   "Shivada Jade Chunk",
+   "Hoarfrost Core",
+   "Stained Mask",
+   "Cor Lapis",
+   "Philosophies of Diligence",
+   "Dvalin's Sigh"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Ganyu",
+   "zh_CN": "甘雨"
+  },
+  "rarity": "5",
+  "weapon": "bow",
+  "element": "cryo",
+  "ascensionMaterials": [
+   "Shivada Jade Chunk",
+   "Hoarfrost Core",
+   "Shimmering Nectar",
+   "Qingxin",
+   "Philosophies of Diligence",
+   "Shadow of the Warrior"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Albedo",
+   "zh_CN": "阿贝多"
+  },
+  "rarity": "5",
+  "weapon": "sword",
+  "element": "geo",
+  "ascensionMaterials": [
+   "Prithiva Topaz Chunk",
+   "Basalt Pillar",
+   "Sealed Scroll",
+   "Cecilia",
+   "Philosophies of Ballad",
+   "Tusk of Monoceros Caeli"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Diona",
+   "zh_CN": "迪奥娜"
+  },
+  "rarity": "4",
+  "weapon": "bow",
+  "element": "cryo",
+  "ascensionMaterials": [
+   "Shivada Jade Chunk",
+   "Hoarfrost Core",
+   "Sharp Arrowhead",
+   "Calla Lily",
+   "Philosophies of Freedom",
+   "Shard of a Foul Legacy"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Mona",
+   "zh_CN": "莫娜"
+  },
+  "rarity": "5",
+  "weapon": "catalyst",
+  "element": "hydro",
+  "ascensionMaterials": [
+   "Varunada Lazurite Chunk",
+   "Cleansing Heart",
+   "Shimmering Nectar",
+   "Philanemo Mushroom",
+   "Philosophies of Resistance",
+   "Ring of Boreas"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Keqing",
+   "zh_CN": "刻晴"
+  },
+  "rarity": "5",
+  "weapon": "sword",
+  "element": "electro",
+  "ascensionMaterials": [
+   "Vajrada Amethyst Chunk",
+   "Lightning Prism",
+   "Shimmering Nectar",
+   "Cor Lapis",
+   "Philosophies of Prosperity",
+   "Ring of Boreas"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Sucrose",
+   "zh_CN": "砂糖"
+  },
+  "rarity": "4",
+  "weapon": "catalyst",
+  "element": "anemo",
+  "ascensionMaterials": [
+   "Vayuda Turquoise Chunk",
+   "Hurricane Seed",
+   "Shimmering Nectar",
+   "Windwheel Aster",
+   "Philosophies of Freedom",
+   "Spirit Locket of Boreas"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Xinyan",
+   "zh_CN": "辛焱"
+  },
+  "rarity": "4",
+  "weapon": "claymore",
+  "element": "pyro",
+  "ascensionMaterials": [
+   "Agnidus Agate Chunk",
+   "Everflame Seed",
+   "Silver Raven Insignia",
+   "Violetgrass",
+   "Philosophies of Gold",
+   "Tusk of Monoceros Caeli"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Rosaria",
+   "zh_CN": "罗莎莉亚"
+  },
+  "rarity": "4",
+  "weapon": "polearm",
+  "element": "cryo",
+  "ascensionMaterials": [
+   "Shivada Jade Chunk",
+   "Hoarfrost Core",
+   "Sergeant's Insignia",
+   "Valberry",
+   "Philosophies of Ballad",
+   "Shadow of the Warrior"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Hu Tao",
+   "zh_CN": "胡桃"
+  },
+  "rarity": "5",
+  "weapon": "polearm",
+  "element": "pyro",
+  "ascensionMaterials": [
+   "Agnidus Agate Chunk",
+   "Juvenile Jade",
+   "Shimmering Nectar",
+   "Silk Flower",
+   "Philosophies of Diligence",
+   "Shard of a Foul Legacy"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Kaedehara Kazuha",
+   "zh_CN": "枫原万叶"
+  },
+  "rarity": "5",
+  "weapon": "sword",
+  "element": "anemo",
+  "ascensionMaterials": [
+   "Vayuda Turquoise Chunk",
+   "Marionette Core",
+   "Silver Raven Insignia",
+   "Sea Ganoderma",
+   "Philosophies of Diligence",
+   "Gilded Scale"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Yanfei",
+   "zh_CN": "烟绯"
+  },
+  "rarity": "4",
+  "weapon": "catalyst",
+  "element": "pyro",
+  "ascensionMaterials": [
+   "Agnidus Agate Chunk",
+   "Juvenile Jade",
+   "Silver Raven Insignia",
+   "Noctilucous Jade",
+   "Philosophies of Gold",
+   "Bloodjade Branch"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Yoimiya",
+   "zh_CN": "宵宫"
+  },
+  "rarity": "5",
+  "weapon": "bow",
+  "element": "pyro",
+  "ascensionMaterials": [
+   "Agnidus Agate Chunk",
+   "Smoldering Pearl",
+   "Sealed Scroll",
+   "Naku Weed",
+   "Philosophies of Transience",
+   "Dragon Lord's Crown"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Thoma",
+   "zh_CN": "托马"
+  },
+  "rarity": "4",
+  "weapon": "polearm",
+  "element": "pyro",
+  "ascensionMaterials": [
+   "Agnidus Agate Chunk",
+   "Smoldering Pearl",
+   "Silver Raven Insignia",
+   "Fluorescent Fungus",
+   "Philosophies of Transience",
+   "Hellfire Butterfly"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Eula",
+   "zh_CN": "优菈"
+  },
+  "rarity": "5",
+  "weapon": "claymore",
+  "element": "cryo",
+  "ascensionMaterials": [
+   "Shivada Jade Chunk",
+   "Crystalline Bloom",
+   "Stained Mask",
+   "Dandelion Seed",
+   "Philosophies of Resistance",
+   "Dragon Lord's Crown"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Raiden Shogun",
+   "zh_CN": "雷电将军"
+  },
+  "rarity": "5",
+  "weapon": "polearm",
+  "element": "electro",
+  "ascensionMaterials": [
+   "Vajrada Amethyst Chunk",
+   "Storm Beads",
+   "Kageuchi Handguard",
+   "Amakumo Fruit",
+   "Philosophies of Light",
+   "Molten Moment"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Sayu",
+   "zh_CN": "早柚"
+  },
+  "rarity": "4",
+  "weapon": "claymore",
+  "element": "anemo",
+  "ascensionMaterials": [
+   "Vayuda Turquoise Chunk",
+   "Marionette Core",
+   "Shimmering Nectar",
+   "Crystal Marrow",
+   "Philosophies of Light",
+   "Gilded Scale"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Sangonomiya Kokomi",
+   "zh_CN": "珊瑚宫心海"
+  },
+  "rarity": "5",
+  "weapon": "catalyst",
+  "element": "hydro",
+  "ascensionMaterials": [
+   "Varunada Lazurite Chunk",
+   "Dew of Repudiation",
+   "Spectral Heart",
+   "Sango Pearl",
+   "Philosophies of Transience",
+   "Hellfire Butterfly"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Gorou",
+   "zh_CN": "五郎"
+  },
+  "rarity": "4",
+  "weapon": "bow",
+  "element": "geo",
+  "ascensionMaterials": [
+   "Prithiva Topaz Chunk",
+   "Perpetual Heart",
+   "Spectral Heart",
+   "Sango Pearl",
+   "Philosophies of Light",
+   "Molten Moment"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Kujou Sara",
+   "zh_CN": "九条裟罗"
+  },
+  "rarity": "4",
+  "weapon": "bow",
+  "element": "electro",
+  "ascensionMaterials": [
+   "Vajrada Amethyst Chunk",
+   "Storm Beads",
+   "Stained Mask",
+   "Dendrobium",
+   "Philosophies of Elegance",
+   "Ashen Heart"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Arataki Itto",
+   "zh_CN": "荒泷一斗"
+  },
+  "rarity": "5",
+  "weapon": "claymore",
+  "element": "geo",
+  "ascensionMaterials": [
+   "Prithiva Topaz Chunk",
+   "Riftborn Regalia",
+   "Slime Secretions",
+   "Onikabuto",
+   "Philosophies of Elegance",
+   "Ashen Heart"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Yae Miko",
+   "zh_CN": "八重神子"
+  },
+  "rarity": "5",
+  "weapon": "catalyst",
+  "element": "electro",
+  "ascensionMaterials": [
+   "Vajrada Amethyst Chunk",
+   "Dragonheir's False Fin",
+   "Kageuchi Handguard",
+   "Sea Ganoderma",
+   "Philosophies of Light",
+   "The Meaning of Aeons"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Shikanoin Heizou",
+   "zh_CN": "鹿野院平藏"
+  },
+  "rarity": "4",
+  "weapon": "catalyst",
+  "element": "anemo",
+  "ascensionMaterials": [
+   "Vayuda Turquoise Chunk",
+   "Runic Fang",
+   "Silver Raven Insignia",
+   "Onikabuto",
+   "Philosophies of Transience",
+   "The Meaning of Aeons"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Yelan",
+   "zh_CN": "夜兰"
+  },
+  "rarity": "5",
+  "weapon": "bow",
+  "element": "hydro",
+  "ascensionMaterials": [
+   "Varunada Lazurite Chunk",
+   "Runic Fang",
+   "Sergeant's Insignia",
+   "Starconch",
+   "Philosophies of Prosperity",
+   "Gilded Scale"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Kirara",
+   "zh_CN": "绮良良"
+  },
+  "rarity": "4",
+  "weapon": "sword",
+  "element": "dendro",
+  "ascensionMaterials": [
+   "Nagadus Emerald Chunk",
+   "Evergloom Ring",
+   "Spectral Heart",
+   "Amakumo Fruit",
+   "Philosophies of Transience",
+   "Everamber"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Aloy",
+   "zh_CN": "埃洛伊"
+  },
+  "rarity": "4",
+  "weapon": "bow",
+  "element": "cryo",
+  "ascensionMaterials": [
+   "Shivada Jade Chunk",
+   "Crystalline Bloom",
+   "Spectral Heart",
+   "Crystal Marrow",
+   "Philosophies of Freedom",
+   "Molten Moment"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Shenhe",
+   "zh_CN": "申鹤"
+  },
+  "rarity": "5",
+  "weapon": "polearm",
+  "element": "cryo",
+  "ascensionMaterials": [
+   "Shivada Jade Chunk",
+   "Dragonheir's False Fin",
+   "Shimmering Nectar",
+   "Qingxin",
+   "Philosophies of Prosperity",
+   "Hellfire Butterfly"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Yun Jin",
+   "zh_CN": "云堇"
+  },
+  "rarity": "4",
+  "weapon": "polearm",
+  "element": "geo",
+  "ascensionMaterials": [
+   "Prithiva Topaz Chunk",
+   "Riftborn Regalia",
+   "Stained Mask",
+   "Glaze Lily",
+   "Philosophies of Diligence",
+   "Ashen Heart"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Kuki Shinobu",
+   "zh_CN": "久岐忍"
+  },
+  "rarity": "4",
+  "weapon": "sword",
+  "element": "electro",
+  "ascensionMaterials": [
+   "Vajrada Amethyst Chunk",
+   "Runic Fang",
+   "Spectral Heart",
+   "Naku Weed",
+   "Philosophies of Elegance",
+   "Tears of the Calamitous God"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Kamisato Ayato",
+   "zh_CN": "神里绫人"
+  },
+  "rarity": "5",
+  "weapon": "sword",
+  "element": "hydro",
+  "ascensionMaterials": [
+   "Varunada Lazurite Chunk",
+   "Dew of Repudiation",
+   "Kageuchi Handguard",
+   "Sakura Bloom",
+   "Philosophies of Elegance",
+   "Mudra of the Malefic General"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Collei",
+   "zh_CN": "柯莱"
+  },
+  "rarity": "4",
+  "weapon": "bow",
+  "element": "dendro",
+  "ascensionMaterials": [
+   "Nagadus Emerald Chunk",
+   "Majestic Hooked Beak",
+   "Sharp Arrowhead",
+   "Rukkhashava Mushrooms",
+   "Philosophies of Praxis",
+   "Tears of the Calamitous God"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Dori",
+   "zh_CN": "多莉"
+  },
+  "rarity": "4",
+  "weapon": "claymore",
+  "element": "electro",
+  "ascensionMaterials": [
+   "Vajrada Amethyst Chunk",
+   "Thunderclap Fruitcore",
+   "Trimmed Red Silk",
+   "Kalpalata Lotus",
+   "Philosophies of Ingenuity",
+   "Bloodjade Branch"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Tighnari",
+   "zh_CN": "提纳里"
+  },
+  "rarity": "5",
+  "weapon": "bow",
+  "element": "dendro",
+  "ascensionMaterials": [
+   "Nagadus Emerald Chunk",
+   "Majestic Hooked Beak",
+   "Luminescent Pollen",
+   "Nilotpala Lotus",
+   "Philosophies of Admonition",
+   "The Meaning of Aeons"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Nilou",
+   "zh_CN": "妮露"
+  },
+  "rarity": "5",
+  "weapon": "sword",
+  "element": "hydro",
+  "ascensionMaterials": [
+   "Varunada Lazurite Chunk",
+   "Perpetual Caliber",
+   "Luminescent Pollen",
+   "Padisarah",
+   "Philosophies of Praxis",
+   "Tears of the Calamitous God"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Cyno",
+   "zh_CN": "赛诺"
+  },
+  "rarity": "5",
+  "weapon": "polearm",
+  "element": "electro",
+  "ascensionMaterials": [
+   "Vajrada Amethyst Chunk",
+   "Thunderclap Fruitcore",
+   "Sealed Scroll",
+   "Scarab",
+   "Philosophies of Admonition",
+   "Mudra of the Malefic General"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Candace",
+   "zh_CN": "坎蒂丝"
+  },
+  "rarity": "4",
+  "weapon": "polearm",
+  "element": "hydro",
+  "ascensionMaterials": [
+   "Varunada Lazurite Chunk",
+   "Light Guiding Tetrahedron",
+   "Trimmed Red Silk",
+   "Henna Berry",
+   "Philosophies of Admonition",
+   "Tears of the Calamitous God"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Nahida",
+   "zh_CN": "纳西妲"
+  },
+  "rarity": "5",
+  "weapon": "catalyst",
+  "element": "dendro",
+  "ascensionMaterials": [
+   "Nagadus Emerald Chunk",
+   "Quelled Creeper",
+   "Luminescent Pollen",
+   "Kalpalata Lotus",
+   "Philosophies of Ingenuity",
+   "Puppet Strings"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Layla",
+   "zh_CN": "莱依拉"
+  },
+  "rarity": "4",
+  "weapon": "sword",
+  "element": "cryo",
+  "ascensionMaterials": [
+   "Shivada Jade Chunk",
+   "Perpetual Caliber",
+   "Sealed Scroll",
+   "Nilotpala Lotus",
+   "Philosophies of Ingenuity",
+   "Mirror of Mushin"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Wanderer",
+   "zh_CN": "流浪者"
+  },
+  "rarity": "5",
+  "weapon": "catalyst",
+  "element": "anemo",
+  "ascensionMaterials": [
+   "Vayuda Turquoise Chunk",
+   "Perpetual Caliber",
+   "Kageuchi Handguard",
+   "Rukkhashava Mushrooms",
+   "Philosophies of Praxis",
+   "Daka's Bell"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Faruzan",
+   "zh_CN": "珐露珊"
+  },
+  "rarity": "4",
+  "weapon": "bow",
+  "element": "anemo",
+  "ascensionMaterials": [
+   "Vayuda Turquoise Chunk",
+   "Light Guiding Tetrahedron",
+   "Trimmed Red Silk",
+   "Henna Berry",
+   "Philosophies of Admonition",
+   "Puppet Strings"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Yaoyao",
+   "zh_CN": "瑶瑶"
+  },
+  "rarity": "4",
+  "weapon": "polearm",
+  "element": "dendro",
+  "ascensionMaterials": [
+   "Nagadus Emerald Chunk",
+   "Quelled Creeper",
+   "Slime Secretions",
+   "Jueyun Chili",
+   "Philosophies of Diligence",
+   "Daka's Bell"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Alhaitham",
+   "zh_CN": "艾尔海森"
+  },
+  "rarity": "5",
+  "weapon": "sword",
+  "element": "dendro",
+  "ascensionMaterials": [
+   "Nagadus Emerald Chunk",
+   "Pseudo-Stamens",
+   "Trimmed Red Silk",
+   "Sand Grease Pupa",
+   "Philosophies of Ingenuity",
+   "Mirror of Mushin"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Dehya",
+   "zh_CN": "迪希雅"
+  },
+  "rarity": "5",
+  "weapon": "claymore",
+  "element": "pyro",
+  "ascensionMaterials": [
+   "Agnidus Agate Chunk",
+   "Light Guiding Tetrahedron",
+   "Trimmed Red Silk",
+   "Sand Grease Pupa",
+   "Philosophies of Praxis",
+   "Puppet Strings"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Mika",
+   "zh_CN": "米卡"
+  },
+  "rarity": "4",
+  "weapon": "polearm",
+  "element": "cryo",
+  "ascensionMaterials": [
+   "Shivada Jade Chunk",
+   "Pseudo-Stamens",
+   "Sergeant's Insignia",
+   "Wolfhook",
+   "Philosophies of Ballad",
+   "Mirror of Mushin"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Kaveh",
+   "zh_CN": "卡维"
+  },
+  "rarity": "4",
+  "weapon": "claymore",
+  "element": "dendro",
+  "ascensionMaterials": [
+   "Nagadus Emerald Chunk",
+   "Quelled Creeper",
+   "Luminescent Pollen",
+   "Mourning Flower",
+   "Philosophies of Ingenuity",
+   "Primordial Greenbloom"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Baizhu",
+   "zh_CN": "白术"
+  },
+  "rarity": "5",
+  "weapon": "catalyst",
+  "element": "dendro",
+  "ascensionMaterials": [
+   "Nagadus Emerald Chunk",
+   "Evergloom Ring",
+   "Luminescent Pollen",
+   "Violetgrass",
+   "Philosophies of Gold",
+   "Worldspan Fern"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Lynette",
+   "zh_CN": "琳妮特"
+  },
+  "rarity": "4",
+  "weapon": "sword",
+  "element": "anemo",
+  "ascensionMaterials": [
+   "Vayuda Turquoise Chunk",
+   "Artificed Spare Clockwork Component — Coppelia",
+   "Mechanical Spur Gear",
+   "Lumidouce Bell",
+   "Philosophies of Order",
+   "Everamber"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Lyney",
+   "zh_CN": "林尼"
+  },
+  "rarity": "5",
+  "weapon": "bow",
+  "element": "pyro",
+  "ascensionMaterials": [
+   "Agnidus Agate Chunk",
+   "Emperor's Resolution",
+   "Sergeant's Insignia",
+   "Rainbow Rose",
+   "Philosophies of Equity",
+   "Primordial Greenbloom"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Freminet",
+   "zh_CN": "菲米尼"
+  },
+  "rarity": "4",
+  "weapon": "claymore",
+  "element": "cryo",
+  "ascensionMaterials": [
+   "Shivada Jade Chunk",
+   "Artificed Spare Clockwork Component — Coppelius",
+   "Transoceanic Chunk",
+   "Romaritime Flower",
+   "Philosophies of Justice",
+   "Worldspan Fern"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Wriothesley",
+   "zh_CN": "莱欧斯利"
+  },
+  "rarity": "5",
+  "weapon": "catalyst",
+  "element": "cryo",
+  "ascensionMaterials": [
+   "Shivada Jade Chunk",
+   "",
+   "Mechanical Spur Gear",
+   "Subdetection Unit",
+   "Philosophies of Order",
+   "Primordial Greenbloom"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Neuvillette",
+   "zh_CN": "那维莱特"
+  },
+  "rarity": "5",
+  "weapon": "catalyst",
+  "element": "hydro",
+  "ascensionMaterials": [
+   "Varunada Lazurite Chunk",
+   "Fontemer Unihorn",
+   "Transoceanic Chunk",
+   "Lumitoile",
+   "Philosophies of Equity",
+   "Everamber"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Charlotte",
+   "zh_CN": "夏洛蒂"
+  },
+  "rarity": "4",
+  "weapon": "catalyst",
+  "element": "cryo",
+  "ascensionMaterials": [
+   "Shivada Jade Chunk",
+   "",
+   "Mechanical Spur Gear",
+   "Beryl Conch",
+   "Philosophies of Justice",
+   "Lightless Silk String"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Furina",
+   "zh_CN": "芙宁娜"
+  },
+  "rarity": "5",
+  "weapon": "sword",
+  "element": "hydro",
+  "ascensionMaterials": [
+   "Varunada Lazurite Chunk",
+   "Water That Failed To Transcend",
+   "Shimmering Nectar",
+   "Lakelight Lily",
+   "Philosophies of Justice",
+   "Lightless Mass"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Chevreuse",
+   "zh_CN": "夏沃蕾"
+  },
+  "rarity": "4",
+  "weapon": "polearm",
+  "element": "pyro",
+  "ascensionMaterials": [
+   "Agnidus Agate Chunk",
+   "Fontemer Unihorn",
+   "Mechanical Spur Gear",
+   "Lumidouce Bell",
+   "Philosophies of Order",
+   "Lightless Eye of the Maelstrom"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Navia",
+   "zh_CN": "娜维娅"
+  },
+  "rarity": "5",
+  "weapon": "claymore",
+  "element": "geo",
+  "ascensionMaterials": [
+   "Prithiva Topaz Chunk",
+   "Artificed Spare Clockwork Component — Coppelius",
+   "Transoceanic Chunk",
+   "Spring of the First Dewdrop",
+   "Philosophies of Equity",
+   "Lightless Silk String"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Gaming",
+   "zh_CN": "嘉明"
+  },
+  "rarity": "4",
+  "weapon": "claymore",
+  "element": "pyro",
+  "ascensionMaterials": [
+   "Agnidus Agate Chunk",
+   "Emperor's Resolution",
+   "Slime Secretions",
+   "Starconch",
+   "Philosophies of Prosperity",
+   "Lightless Mass"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Xianyun",
+   "zh_CN": "闲云"
+  },
+  "rarity": "5",
+  "weapon": "catalyst",
+  "element": "anemo",
+  "ascensionMaterials": [
+   "Vayuda Turquoise Chunk",
+   "Cloudseam Scale",
+   "Sealed Scroll",
+   "Clearwater Jade",
+   "Philosophies of Gold",
+   "Lightless Eye of the Maelstrom"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Chiori",
+   "zh_CN": "千织"
+  },
+  "rarity": "5",
+  "weapon": "sword",
+  "element": "geo",
+  "ascensionMaterials": [
+   "Prithiva Topaz Chunk",
+   "Artificed Spare Clockwork Component — Coppelia",
+   "Spectral Heart",
+   "Dendrobium",
+   "Philosophies of Light",
+   "Lightless Silk String"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Sigewinne",
+   "zh_CN": "希格雯"
+  },
+  "rarity": "5",
+  "weapon": "bow",
+  "element": "hydro",
+  "ascensionMaterials": [
+   "Varunada Lazurite Chunk",
+   "Water That Failed To Transcend",
+   "Transoceanic Chunk",
+   "Romaritime Flower",
+   "Philosophies of Equity",
+   "Lightless Eye of the Maelstrom"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Arlecchino",
+   "zh_CN": "阿蕾奇诺"
+  },
+  "rarity": "5",
+  "weapon": "polearm",
+  "element": "pyro",
+  "ascensionMaterials": [
+   "Agnidus Agate Chunk",
+   "Fragment of a Golden Melody",
+   "Sergeant's Insignia",
+   "Rainbow Rose",
+   "Philosophies of Order",
+   "Fading Candle"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Sethos",
+   "zh_CN": "赛索斯"
+  },
+  "rarity": "4",
+  "weapon": "bow",
+  "element": "electro",
+  "ascensionMaterials": [
+   "Vajrada Amethyst Chunk",
+   "Cloudseam Scale",
+   "Trimmed Red Silk",
+   "Trishiraite",
+   "Philosophies of Praxis",
+   "Daka's Bell"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Clorinde",
+   "zh_CN": "克洛琳德"
+  },
+  "rarity": "5",
+  "weapon": "sword",
+  "element": "electro",
+  "ascensionMaterials": [
+   "Vajrada Amethyst Chunk",
+   "Fontemer Unihorn",
+   "Transoceanic Chunk",
+   "Lumitoile",
+   "Philosophies of Justice",
+   "Everamber"
+  ]
+ },
+ {
+  "name": {
+   "en_US": "Emilie",
+   "zh_CN": "艾梅莉埃"
+  },
+  "rarity": "5",
+  "weapon": "polearm",
+  "element": "dendro",
+  "ascensionMaterials": [
+   "Nagadus Emerald Chunk",
+   "Fragment of a Golden Melody",
+   "Mechanical Spur Gear",
+   "Lakelight Lily",
+   "Philosophies of Order",
+   "Silken Feather"
+  ]
+ }
+]

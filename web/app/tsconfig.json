@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "ESNext",
-    "module": "esnext",
+    "module": "ESNext",
     "jsx": "react",
     "lib": ["dom", "ESNext"],
     "sourceMap": true,
@@ -11,6 +11,7 @@
     "strictNullChecks": true,
     "moduleResolution": "Node",
     "esModuleInterop": true,
+    "skipLibCheck": true,
     "experimentalDecorators": true,
     "allowJs": true,
     "declaration": true,

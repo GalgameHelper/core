@@ -1,16 +1,16 @@
 /******/ (() => { // webpackBootstrap
-/******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
-/***/ 332:
+/***/ 4332:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
+"use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(566);
+/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(3566);
 /* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(383);
+/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(8383);
 /* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
 // Imports
 
@@ -34,12 +34,13 @@ ___CSS_LOADER_EXPORT___.push([module.id, `.a-flex {
 /***/ 323:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
+"use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(566);
+/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(3566);
 /* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(383);
+/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(8383);
 /* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
 // Imports
 
@@ -57,15 +58,16 @@ ___CSS_LOADER_EXPORT___.push([module.id, `.a-star img {
 
 /***/ }),
 
-/***/ 377:
+/***/ 2377:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
+"use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(566);
+/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(3566);
 /* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(383);
+/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(8383);
 /* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
 // Imports
 
@@ -94,15 +96,16 @@ ___CSS_LOADER_EXPORT___.push([module.id, `body {
 
 /***/ }),
 
-/***/ 772:
+/***/ 1772:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
+"use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(566);
+/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(3566);
 /* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(383);
+/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(8383);
 /* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
 // Imports
 
@@ -119,15 +122,16 @@ ___CSS_LOADER_EXPORT___.push([module.id, `.app-header {
 
 /***/ }),
 
-/***/ 309:
+/***/ 9309:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
+"use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(566);
+/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(3566);
 /* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(383);
+/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(8383);
 /* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
 // Imports
 
@@ -171,28 +175,45 @@ ___CSS_LOADER_EXPORT___.push([module.id, `.characters {
 
 /***/ }),
 
-/***/ 130:
+/***/ 5130:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
+"use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(566);
+/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(3566);
 /* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(383);
+/* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(8383);
 /* harmony import */ var _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
 // Imports
 
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_pnpm_css_loader_6_11_0_webpack_5_92_1_webpack_cli_5_1_4_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, `.character-card-list {
+___CSS_LOADER_EXPORT___.push([module.id, `.home .character-card-list {
   display: flex;
   padding: 24px;
   gap: 10px;
 }
-.character-card-list .card {
+.home .character-card-list .card {
   cursor: pointer;
+}
+.home .characters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 12px;
+}
+.home .characters .character-item {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 12px;
+  border-radius: 12px;
+  gap: 10px;
+  background-color: rgba(255, 255, 255, 0.1);
 }
 `, ""]);
 // Exports
@@ -201,9 +222,10 @@ ___CSS_LOADER_EXPORT___.push([module.id, `.character-card-list {
 
 /***/ }),
 
-/***/ 383:
+/***/ 8383:
 /***/ ((module) => {
 
+"use strict";
 
 
 /*
@@ -292,9 +314,10 @@ module.exports = function (cssWithMappingToString) {
 
 /***/ }),
 
-/***/ 566:
+/***/ 3566:
 /***/ ((module) => {
 
+"use strict";
 
 
 module.exports = function (i) {
@@ -303,9 +326,10 @@ module.exports = function (i) {
 
 /***/ }),
 
-/***/ 396:
+/***/ 3396:
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
+"use strict";
 /**
  * @license React
  * react-dom.production.min.js
@@ -318,7 +342,7 @@ module.exports = function (i) {
 /*
  Modernizr 3.0.0pre (Custom Build) | MIT
 */
-var aa=__webpack_require__(155),ca=__webpack_require__(593);function p(a){for(var b="https://reactjs.org/docs/error-decoder.html?invariant="+a,c=1;c<arguments.length;c++)b+="&args[]="+encodeURIComponent(arguments[c]);return"Minified React error #"+a+"; visit "+b+" for the full message or use the non-minified dev environment for full errors and additional helpful warnings."}var da=new Set,ea={};function fa(a,b){ha(a,b);ha(a+"Capture",b)}
+var aa=__webpack_require__(2155),ca=__webpack_require__(9593);function p(a){for(var b="https://reactjs.org/docs/error-decoder.html?invariant="+a,c=1;c<arguments.length;c++)b+="&args[]="+encodeURIComponent(arguments[c]);return"Minified React error #"+a+"; visit "+b+" for the full message or use the non-minified dev environment for full errors and additional helpful warnings."}var da=new Set,ea={};function fa(a,b){ha(a,b);ha(a+"Capture",b)}
 function ha(a,b){ea[a]=b;for(a=0;a<b.length;a++)da.add(b[a])}
 var ia=!("undefined"===typeof window||"undefined"===typeof window.document||"undefined"===typeof window.document.createElement),ja=Object.prototype.hasOwnProperty,ka=/^[:A-Z_a-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02FF\u0370-\u037D\u037F-\u1FFF\u200C-\u200D\u2070-\u218F\u2C00-\u2FEF\u3001-\uD7FF\uF900-\uFDCF\uFDF0-\uFFFD][:A-Z_a-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02FF\u0370-\u037D\u037F-\u1FFF\u200C-\u200D\u2070-\u218F\u2C00-\u2FEF\u3001-\uD7FF\uF900-\uFDCF\uFDF0-\uFFFD\-.0-9\u00B7\u0300-\u036F\u203F-\u2040]*$/,la=
 {},ma={};function oa(a){if(ja.call(ma,a))return!0;if(ja.call(la,a))return!1;if(ka.test(a))return ma[a]=!0;la[a]=!0;return!1}function pa(a,b,c,d){if(null!==c&&0===c.type)return!1;switch(typeof b){case "function":case "symbol":return!0;case "boolean":if(d)return!1;if(null!==c)return!c.acceptsBooleans;a=a.toLowerCase().slice(0,5);return"data-"!==a&&"aria-"!==a;default:return!1}}
@@ -632,9 +656,10 @@ exports.unstable_renderSubtreeIntoContainer=function(a,b,c,d){if(!ol(c))throw Er
 
 /***/ }),
 
-/***/ 997:
+/***/ 8997:
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
+"use strict";
 var __webpack_unused_export__;
 
 
@@ -650,6 +675,7 @@ if (true) {
 /***/ 316:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
+"use strict";
 
 
 function checkDCE() {
@@ -675,15 +701,16 @@ if (true) {
   // DCE check should happen before ReactDOM bundle executes so that
   // DevTools can report bad minification during injection.
   checkDCE();
-  module.exports = __webpack_require__(396);
+  module.exports = __webpack_require__(3396);
 } else {}
 
 
 /***/ }),
 
-/***/ 18:
+/***/ 6018:
 /***/ ((__unused_webpack_module, exports) => {
 
+"use strict";
 /**
  * @license React
  * react.production.min.js
@@ -714,21 +741,23 @@ exports.useMemo=function(a,b){return U.current.useMemo(a,b)};exports.useReducer=
 
 /***/ }),
 
-/***/ 155:
+/***/ 2155:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
+"use strict";
 
 
 if (true) {
-  module.exports = __webpack_require__(18);
+  module.exports = __webpack_require__(6018);
 } else {}
 
 
 /***/ }),
 
-/***/ 910:
+/***/ 3910:
 /***/ ((__unused_webpack_module, exports) => {
 
+"use strict";
 /**
  * @license React
  * scheduler.production.min.js
@@ -752,21 +781,23 @@ exports.unstable_shouldYield=M;exports.unstable_wrapCallback=function(a){var b=y
 
 /***/ }),
 
-/***/ 593:
+/***/ 9593:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
+"use strict";
 
 
 if (true) {
-  module.exports = __webpack_require__(910);
+  module.exports = __webpack_require__(3910);
 } else {}
 
 
 /***/ }),
 
-/***/ 303:
+/***/ 4303:
 /***/ ((module) => {
 
+"use strict";
 
 
 var stylesInDOM = [];
@@ -854,9 +885,10 @@ module.exports = function (list, options) {
 
 /***/ }),
 
-/***/ 992:
+/***/ 4992:
 /***/ ((module) => {
 
+"use strict";
 
 
 var memo = {};
@@ -897,6 +929,7 @@ module.exports = insertBySelector;
 /***/ 715:
 /***/ ((module) => {
 
+"use strict";
 
 
 /* istanbul ignore next  */
@@ -910,9 +943,10 @@ module.exports = insertStyleElement;
 
 /***/ }),
 
-/***/ 399:
+/***/ 3399:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
+"use strict";
 
 
 /* istanbul ignore next  */
@@ -926,9 +960,10 @@ module.exports = setAttributesWithoutAttributes;
 
 /***/ }),
 
-/***/ 212:
+/***/ 9212:
 /***/ ((module) => {
 
+"use strict";
 
 
 /* istanbul ignore next  */
@@ -993,9 +1028,10 @@ module.exports = domAPI;
 
 /***/ }),
 
-/***/ 736:
+/***/ 7736:
 /***/ ((module) => {
 
+"use strict";
 
 
 /* istanbul ignore next  */
@@ -1010,6 +1046,799 @@ function styleTagTransform(css, styleElement) {
   }
 }
 module.exports = styleTagTransform;
+
+/***/ }),
+
+/***/ 6645:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var map = {
+	"./Albedo.webp": 9746,
+	"./Alhaitham.webp": 5314,
+	"./Aloy.webp": 6354,
+	"./Amber.webp": 8582,
+	"./Arataki Itto.webp": 9036,
+	"./Arlecchino.webp": 6357,
+	"./Baizhu.webp": 7442,
+	"./Barbara.webp": 5208,
+	"./Beidou.webp": 6319,
+	"./Bennett.webp": 9845,
+	"./Candace.webp": 2156,
+	"./Charlotte.webp": 9629,
+	"./Chevreuse.webp": 105,
+	"./Chiori.webp": 2149,
+	"./Chongyun.webp": 1810,
+	"./Clorinde.webp": 5449,
+	"./Collei.webp": 1131,
+	"./Cyno.webp": 3352,
+	"./Dehya.webp": 2738,
+	"./Diluc.webp": 7420,
+	"./Diona.webp": 1620,
+	"./Dori.webp": 951,
+	"./Emilie.webp": 6934,
+	"./Eula.webp": 7850,
+	"./Faruzan.webp": 1924,
+	"./Fischl.webp": 9612,
+	"./Freminet.webp": 5323,
+	"./Furina.webp": 2442,
+	"./Gaming.webp": 5726,
+	"./Ganyu.webp": 9077,
+	"./Gorou.webp": 2041,
+	"./Hu Tao.webp": 4492,
+	"./Jean.webp": 6129,
+	"./Kaedehara Kazuha.webp": 8819,
+	"./Kaeya.webp": 5408,
+	"./Kamisato Ayaka.webp": 1993,
+	"./Kamisato Ayato.webp": 1008,
+	"./Kaveh.webp": 2222,
+	"./Keqing.webp": 3898,
+	"./Kirara.webp": 5687,
+	"./Klee.webp": 2910,
+	"./Kujou Sara.webp": 4672,
+	"./Kuki Shinobu.webp": 3255,
+	"./Layla.webp": 320,
+	"./Lisa.webp": 4860,
+	"./Lynette.webp": 5532,
+	"./Lyney.webp": 3528,
+	"./Mika.webp": 3009,
+	"./Mona.webp": 9602,
+	"./Nahida.webp": 7146,
+	"./Navia.webp": 8206,
+	"./Neuvillette.webp": 3958,
+	"./Nilou.webp": 3858,
+	"./Ningguang.webp": 6347,
+	"./Noelle.webp": 7610,
+	"./Qiqi.webp": 55,
+	"./Raiden Shogun.webp": 9582,
+	"./Razor.webp": 2981,
+	"./Rosaria.webp": 5952,
+	"./Sangonomiya Kokomi.webp": 6860,
+	"./Sayu.webp": 8949,
+	"./Sethos.webp": 2121,
+	"./Shenhe.webp": 7548,
+	"./Shikanoin Heizou.webp": 917,
+	"./Sigewinne.webp": 4034,
+	"./Sucrose.webp": 3731,
+	"./Tartaglia.webp": 8952,
+	"./Thoma.webp": 4230,
+	"./Tighnari.webp": 4971,
+	"./Traveler.webp": 788,
+	"./Venti.webp": 2503,
+	"./Wanderer.webp": 6077,
+	"./Wriothesley.webp": 1480,
+	"./Xiangling.webp": 3964,
+	"./Xianyun.webp": 7565,
+	"./Xiao.webp": 6740,
+	"./Xingqiu.webp": 292,
+	"./Xinyan.webp": 7782,
+	"./Yae Miko.webp": 2020,
+	"./Yanfei.webp": 6931,
+	"./Yaoyao.webp": 3517,
+	"./Yelan.webp": 2724,
+	"./Yoimiya.webp": 8746,
+	"./Yun Jin.webp": 6748,
+	"./Zhongli.webp": 8902
+};
+
+
+function webpackContext(req) {
+	var id = webpackContextResolve(req);
+	return __webpack_require__(id);
+}
+function webpackContextResolve(req) {
+	if(!__webpack_require__.o(map, req)) {
+		var e = new Error("Cannot find module '" + req + "'");
+		e.code = 'MODULE_NOT_FOUND';
+		throw e;
+	}
+	return map[req];
+}
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = 6645;
+
+/***/ }),
+
+/***/ 9746:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Albedo9eb4f0d7.webp";
+
+/***/ }),
+
+/***/ 5314:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Alhaitham1612863c.webp";
+
+/***/ }),
+
+/***/ 6354:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Aloy93551f1f.webp";
+
+/***/ }),
+
+/***/ 8582:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Ambercbf8bd6b.webp";
+
+/***/ }),
+
+/***/ 9036:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Arataki Ittoe7a959c5.webp";
+
+/***/ }),
+
+/***/ 6357:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Arlecchinoe72c72fa.webp";
+
+/***/ }),
+
+/***/ 7442:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Baizhu9f9ef106.webp";
+
+/***/ }),
+
+/***/ 5208:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Barbarabb24d597.webp";
+
+/***/ }),
+
+/***/ 6319:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Beidou989b1137.webp";
+
+/***/ }),
+
+/***/ 9845:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Bennett388066d5.webp";
+
+/***/ }),
+
+/***/ 2156:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Candace3e5111f3.webp";
+
+/***/ }),
+
+/***/ 9629:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Charlotteb23af0ca.webp";
+
+/***/ }),
+
+/***/ 105:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Chevreusefacd2b4f.webp";
+
+/***/ }),
+
+/***/ 2149:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Chioric1aeb617.webp";
+
+/***/ }),
+
+/***/ 1810:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Chongyunea3e151d.webp";
+
+/***/ }),
+
+/***/ 5449:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Clorinde75d0ce01.webp";
+
+/***/ }),
+
+/***/ 1131:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Colleidfefe83a.webp";
+
+/***/ }),
+
+/***/ 3352:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Cyno14f36ed2.webp";
+
+/***/ }),
+
+/***/ 2738:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Dehya50e02a4f.webp";
+
+/***/ }),
+
+/***/ 7420:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Dilucde39236a.webp";
+
+/***/ }),
+
+/***/ 1620:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Diona7065864f.webp";
+
+/***/ }),
+
+/***/ 951:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Dorid0d8f7d3.webp";
+
+/***/ }),
+
+/***/ 6934:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Emilie2d8e4d8f.webp";
+
+/***/ }),
+
+/***/ 7850:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Eula1a870f95.webp";
+
+/***/ }),
+
+/***/ 1924:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Faruzan448a86cd.webp";
+
+/***/ }),
+
+/***/ 9612:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Fischlafe1551c.webp";
+
+/***/ }),
+
+/***/ 5323:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Freminet4a276ecc.webp";
+
+/***/ }),
+
+/***/ 2442:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Furina0ec8873a.webp";
+
+/***/ }),
+
+/***/ 5726:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Gamingfdc82afc.webp";
+
+/***/ }),
+
+/***/ 9077:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Ganyu2ff33b36.webp";
+
+/***/ }),
+
+/***/ 2041:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Gorou460cb42d.webp";
+
+/***/ }),
+
+/***/ 4492:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Hu Tao61af675e.webp";
+
+/***/ }),
+
+/***/ 6129:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Jean33582062.webp";
+
+/***/ }),
+
+/***/ 8819:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Kaedehara Kazuha2bc35018.webp";
+
+/***/ }),
+
+/***/ 5408:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Kaeya99fb8e1e.webp";
+
+/***/ }),
+
+/***/ 1993:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Kamisato Ayaka64b3f100.webp";
+
+/***/ }),
+
+/***/ 1008:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Kamisato Ayato3bfead3e.webp";
+
+/***/ }),
+
+/***/ 2222:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Kaveh9df3f571.webp";
+
+/***/ }),
+
+/***/ 3898:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Keqingb74e77b8.webp";
+
+/***/ }),
+
+/***/ 5687:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Kirara49841b79.webp";
+
+/***/ }),
+
+/***/ 2910:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Kleefaf42985.webp";
+
+/***/ }),
+
+/***/ 4672:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Kujou Saraf9e1e087.webp";
+
+/***/ }),
+
+/***/ 3255:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Kuki Shinobuaeecb7e0.webp";
+
+/***/ }),
+
+/***/ 320:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Layladfb16b8b.webp";
+
+/***/ }),
+
+/***/ 4860:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Lisafe9d1dc1.webp";
+
+/***/ }),
+
+/***/ 5532:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Lynette28ba04b6.webp";
+
+/***/ }),
+
+/***/ 3528:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Lyney3b55622e.webp";
+
+/***/ }),
+
+/***/ 3009:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Mikae9209150.webp";
+
+/***/ }),
+
+/***/ 9602:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Mona0f62ea44.webp";
+
+/***/ }),
+
+/***/ 7146:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Nahidaee790ed2.webp";
+
+/***/ }),
+
+/***/ 8206:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Naviad6ea9c1d.webp";
+
+/***/ }),
+
+/***/ 3958:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Neuvilletteda47f837.webp";
+
+/***/ }),
+
+/***/ 3858:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Nilou04929ca9.webp";
+
+/***/ }),
+
+/***/ 6347:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Ningguang8c7ba649.webp";
+
+/***/ }),
+
+/***/ 7610:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Noelle7ea302b3.webp";
+
+/***/ }),
+
+/***/ 55:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Qiqi84105d70.webp";
+
+/***/ }),
+
+/***/ 9582:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Raiden Shogun10e22a27.webp";
+
+/***/ }),
+
+/***/ 2981:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Razor783d0fd0.webp";
+
+/***/ }),
+
+/***/ 5952:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Rosaria11e1b1b0.webp";
+
+/***/ }),
+
+/***/ 6860:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Sangonomiya Kokomi51839ba8.webp";
+
+/***/ }),
+
+/***/ 8949:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Sayua7d689b1.webp";
+
+/***/ }),
+
+/***/ 2121:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Sethos653b64a6.webp";
+
+/***/ }),
+
+/***/ 7548:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Shenhef7e8b8e7.webp";
+
+/***/ }),
+
+/***/ 917:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Shikanoin Heizouf275e446.webp";
+
+/***/ }),
+
+/***/ 4034:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Sigewinne3d0ced97.webp";
+
+/***/ }),
+
+/***/ 3731:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Sucrose57a963dc.webp";
+
+/***/ }),
+
+/***/ 8952:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Tartaglia1a08a390.webp";
+
+/***/ }),
+
+/***/ 4230:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Thoma7d45529f.webp";
+
+/***/ }),
+
+/***/ 4971:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Tighnaric80cce34.webp";
+
+/***/ }),
+
+/***/ 788:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Traveler6534a325.webp";
+
+/***/ }),
+
+/***/ 2503:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Ventib9204c42.webp";
+
+/***/ }),
+
+/***/ 6077:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Wanderera6ef9cfc.webp";
+
+/***/ }),
+
+/***/ 1480:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Wriothesley09be4d41.webp";
+
+/***/ }),
+
+/***/ 3964:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Xiangling4c86e595.webp";
+
+/***/ }),
+
+/***/ 7565:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Xianyun299158b7.webp";
+
+/***/ }),
+
+/***/ 6740:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Xiao53c6f8f8.webp";
+
+/***/ }),
+
+/***/ 292:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Xingqiu5cf130ef.webp";
+
+/***/ }),
+
+/***/ 7782:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Xinyand6f3f56c.webp";
+
+/***/ }),
+
+/***/ 2020:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Yae Mikofb474ffc.webp";
+
+/***/ }),
+
+/***/ 6931:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Yanfei1d6602ed.webp";
+
+/***/ }),
+
+/***/ 3517:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Yaoyao372e119f.webp";
+
+/***/ }),
+
+/***/ 2724:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Yelan42c3876f.webp";
+
+/***/ }),
+
+/***/ 8746:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Yoimiya1e4cece9.webp";
+
+/***/ }),
+
+/***/ 6748:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Yun Jin090d3828.webp";
+
+/***/ }),
+
+/***/ 8902:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "img/Zhongli07020ca4.webp";
 
 /***/ })
 
@@ -1152,32 +1981,35 @@ module.exports = styleTagTransform;
 /******/ 	
 /************************************************************************/
 var __webpack_exports__ = {};
+// This entry need to be wrapped in an IIFE because it need to be in strict mode.
+(() => {
+"use strict";
 
 // EXTERNAL MODULE: ../../node_modules/.pnpm/react@18.3.1/node_modules/react/index.js
-var react = __webpack_require__(155);
+var react = __webpack_require__(2155);
 var react_namespaceObject = /*#__PURE__*/__webpack_require__.t(react, 2);
 // EXTERNAL MODULE: ../../node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/client.js
-var client = __webpack_require__(997);
+var client = __webpack_require__(8997);
 // EXTERNAL MODULE: ../../node_modules/.pnpm/style-loader@3.3.4_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js
-var injectStylesIntoStyleTag = __webpack_require__(303);
+var injectStylesIntoStyleTag = __webpack_require__(4303);
 var injectStylesIntoStyleTag_default = /*#__PURE__*/__webpack_require__.n(injectStylesIntoStyleTag);
 // EXTERNAL MODULE: ../../node_modules/.pnpm/style-loader@3.3.4_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/style-loader/dist/runtime/styleDomAPI.js
-var styleDomAPI = __webpack_require__(212);
+var styleDomAPI = __webpack_require__(9212);
 var styleDomAPI_default = /*#__PURE__*/__webpack_require__.n(styleDomAPI);
 // EXTERNAL MODULE: ../../node_modules/.pnpm/style-loader@3.3.4_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/style-loader/dist/runtime/insertBySelector.js
-var insertBySelector = __webpack_require__(992);
+var insertBySelector = __webpack_require__(4992);
 var insertBySelector_default = /*#__PURE__*/__webpack_require__.n(insertBySelector);
 // EXTERNAL MODULE: ../../node_modules/.pnpm/style-loader@3.3.4_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js
-var setAttributesWithoutAttributes = __webpack_require__(399);
+var setAttributesWithoutAttributes = __webpack_require__(3399);
 var setAttributesWithoutAttributes_default = /*#__PURE__*/__webpack_require__.n(setAttributesWithoutAttributes);
 // EXTERNAL MODULE: ../../node_modules/.pnpm/style-loader@3.3.4_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/style-loader/dist/runtime/insertStyleElement.js
 var insertStyleElement = __webpack_require__(715);
 var insertStyleElement_default = /*#__PURE__*/__webpack_require__.n(insertStyleElement);
 // EXTERNAL MODULE: ../../node_modules/.pnpm/style-loader@3.3.4_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/style-loader/dist/runtime/styleTagTransform.js
-var styleTagTransform = __webpack_require__(736);
+var styleTagTransform = __webpack_require__(7736);
 var styleTagTransform_default = /*#__PURE__*/__webpack_require__.n(styleTagTransform);
 // EXTERNAL MODULE: ../../node_modules/.pnpm/css-loader@6.11.0_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/less-loader@11.1.4_less@4.2.0_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/less-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/index.less
-var cjs_ruleSet_1_rules_3_use_2_src = __webpack_require__(377);
+var cjs_ruleSet_1_rules_3_use_2_src = __webpack_require__(2377);
 ;// CONCATENATED MODULE: ./src/index.less
 
       
@@ -2081,7 +2913,7 @@ function Img(props) {
 }
 
 // EXTERNAL MODULE: ../../node_modules/.pnpm/css-loader@6.11.0_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/less-loader@11.1.4_less@4.2.0_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/less-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/components/flex/index.less
-var flex = __webpack_require__(332);
+var flex = __webpack_require__(4332);
 ;// CONCATENATED MODULE: ./src/components/flex/index.less
 
       
@@ -2230,7 +3062,7 @@ function Star(props) {
 
 
 // EXTERNAL MODULE: ../../node_modules/.pnpm/css-loader@6.11.0_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/less-loader@11.1.4_less@4.2.0_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/less-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/views/Characters/index.less
-var Characters = __webpack_require__(309);
+var Characters = __webpack_require__(9309);
 ;// CONCATENATED MODULE: ./src/views/Characters/index.less
 
       
@@ -10712,6 +11544,8 @@ const CharacterList = [Sigewinne, Clorinde, Arlecchino, Kamisato_Ayaka, Jean];
 ;// CONCATENATED MODULE: ./src/db/index.ts
 
 
+;// CONCATENATED MODULE: ./src/assets/database/characters.json
+const characters_namespaceObject = /*#__PURE__*/JSON.parse('[{"name":{"en_US":"Kamisato Ayaka","zh_CN":"神里绫华"},"rarity":"5","weapon":"sword","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Perpetual Heart","Kageuchi Handguard","Sakura Bloom","Philosophies of Elegance","Bloodjade Branch"]},{"name":{"en_US":"Jean","zh_CN":"琴"},"rarity":"5","weapon":"sword","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Hurricane Seed","Stained Mask","Dandelion Seed","Philosophies of Resistance","Dvalin\'s Plume"]},{"name":{"en_US":"Traveler","zh_CN":"旅行者"},"rarity":"5","weapon":"sword","element":"none","ascensionMaterials":["Brilliant Diamond Chunk","Stained Mask","Windwheel Aster","Guide to Ingenuity","Philosophies of Praxis"]},{"name":{"en_US":"Lisa","zh_CN":"丽莎"},"rarity":"4","weapon":"catalyst","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Lightning Prism","Slime Secretions","Valberry","Philosophies of Ballad","Dvalin\'s Claw"]},{"name":{"en_US":"Traveler","zh_CN":"旅行者"},"rarity":"5","weapon":"sword","element":"none","ascensionMaterials":["Brilliant Diamond Chunk","Stained Mask","Windwheel Aster","Guide to Ingenuity","Philosophies of Praxis"]},{"name":{"en_US":"Barbara","zh_CN":"芭芭拉"},"rarity":"4","weapon":"catalyst","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Cleansing Heart","Sealed Scroll","Philanemo Mushroom","Philosophies of Freedom","Ring of Boreas"]},{"name":{"en_US":"Kaeya","zh_CN":"凯亚"},"rarity":"4","weapon":"sword","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Hoarfrost Core","Silver Raven Insignia","Calla Lily","Philosophies of Ballad","Spirit Locket of Boreas"]},{"name":{"en_US":"Diluc","zh_CN":"迪卢克"},"rarity":"5","weapon":"claymore","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Everflame Seed","Sergeant\'s Insignia","Small Lamp Grass","Philosophies of Resistance","Dvalin\'s Plume"]},{"name":{"en_US":"Razor","zh_CN":"雷泽"},"rarity":"4","weapon":"claymore","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Lightning Prism","Stained Mask","Wolfhook","Philosophies of Resistance","Dvalin\'s Claw"]},{"name":{"en_US":"Amber","zh_CN":"安柏"},"rarity":"4","weapon":"bow","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Everflame Seed","Sharp Arrowhead","Small Lamp Grass","Philosophies of Freedom","Dvalin\'s Sigh"]},{"name":{"en_US":"Venti","zh_CN":"温迪"},"rarity":"5","weapon":"bow","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Hurricane Seed","Slime Secretions","Cecilia","Philosophies of Ballad","Tail of Boreas"]},{"name":{"en_US":"Xiangling","zh_CN":"香菱"},"rarity":"4","weapon":"polearm","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Everflame Seed","Slime Secretions","Jueyun Chili","Philosophies of Diligence","Dvalin\'s Claw"]},{"name":{"en_US":"Beidou","zh_CN":"北斗"},"rarity":"4","weapon":"claymore","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Lightning Prism","Silver Raven Insignia","Noctilucous Jade","Philosophies of Gold","Dvalin\'s Sigh"]},{"name":{"en_US":"Xingqiu","zh_CN":"行秋"},"rarity":"4","weapon":"sword","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Cleansing Heart","Stained Mask","Silk Flower","Philosophies of Gold","Tail of Boreas"]},{"name":{"en_US":"Xiao","zh_CN":"魈"},"rarity":"5","weapon":"polearm","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Juvenile Jade","Slime Secretions","Qingxin","Philosophies of Prosperity","Shadow of the Warrior"]},{"name":{"en_US":"Ningguang","zh_CN":"凝光"},"rarity":"4","weapon":"catalyst","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Basalt Pillar","Sergeant\'s Insignia","Glaze Lily","Philosophies of Prosperity","Spirit Locket of Boreas"]},{"name":{"en_US":"Klee","zh_CN":"可莉"},"rarity":"5","weapon":"catalyst","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Everflame Seed","Sealed Scroll","Philanemo Mushroom","Philosophies of Freedom","Ring of Boreas"]},{"name":{"en_US":"Zhongli","zh_CN":"钟离"},"rarity":"5","weapon":"polearm","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Basalt Pillar","Slime Secretions","Cor Lapis","Philosophies of Gold","Tusk of Monoceros Caeli"]},{"name":{"en_US":"Fischl","zh_CN":"菲谢尔"},"rarity":"4","weapon":"bow","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Lightning Prism","Sharp Arrowhead","Small Lamp Grass","Philosophies of Ballad","Spirit Locket of Boreas"]},{"name":{"en_US":"Bennett","zh_CN":"班尼特"},"rarity":"4","weapon":"sword","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Everflame Seed","Silver Raven Insignia","Windwheel Aster","Philosophies of Resistance","Dvalin\'s Plume"]},{"name":{"en_US":"Tartaglia","zh_CN":"达达利亚"},"rarity":"5","weapon":"bow","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Cleansing Heart","Sergeant\'s Insignia","Starconch","Philosophies of Freedom","Shard of a Foul Legacy"]},{"name":{"en_US":"Noelle","zh_CN":"诺艾尔"},"rarity":"4","weapon":"claymore","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Basalt Pillar","Stained Mask","Valberry","Philosophies of Resistance","Dvalin\'s Claw"]},{"name":{"en_US":"Qiqi","zh_CN":"七七"},"rarity":"5","weapon":"sword","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Hoarfrost Core","Sealed Scroll","Violetgrass","Philosophies of Prosperity","Tail of Boreas"]},{"name":{"en_US":"Chongyun","zh_CN":"重云"},"rarity":"4","weapon":"claymore","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Hoarfrost Core","Stained Mask","Cor Lapis","Philosophies of Diligence","Dvalin\'s Sigh"]},{"name":{"en_US":"Ganyu","zh_CN":"甘雨"},"rarity":"5","weapon":"bow","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Hoarfrost Core","Shimmering Nectar","Qingxin","Philosophies of Diligence","Shadow of the Warrior"]},{"name":{"en_US":"Albedo","zh_CN":"阿贝多"},"rarity":"5","weapon":"sword","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Basalt Pillar","Sealed Scroll","Cecilia","Philosophies of Ballad","Tusk of Monoceros Caeli"]},{"name":{"en_US":"Diona","zh_CN":"迪奥娜"},"rarity":"4","weapon":"bow","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Hoarfrost Core","Sharp Arrowhead","Calla Lily","Philosophies of Freedom","Shard of a Foul Legacy"]},{"name":{"en_US":"Mona","zh_CN":"莫娜"},"rarity":"5","weapon":"catalyst","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Cleansing Heart","Shimmering Nectar","Philanemo Mushroom","Philosophies of Resistance","Ring of Boreas"]},{"name":{"en_US":"Keqing","zh_CN":"刻晴"},"rarity":"5","weapon":"sword","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Lightning Prism","Shimmering Nectar","Cor Lapis","Philosophies of Prosperity","Ring of Boreas"]},{"name":{"en_US":"Sucrose","zh_CN":"砂糖"},"rarity":"4","weapon":"catalyst","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Hurricane Seed","Shimmering Nectar","Windwheel Aster","Philosophies of Freedom","Spirit Locket of Boreas"]},{"name":{"en_US":"Xinyan","zh_CN":"辛焱"},"rarity":"4","weapon":"claymore","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Everflame Seed","Silver Raven Insignia","Violetgrass","Philosophies of Gold","Tusk of Monoceros Caeli"]},{"name":{"en_US":"Rosaria","zh_CN":"罗莎莉亚"},"rarity":"4","weapon":"polearm","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Hoarfrost Core","Sergeant\'s Insignia","Valberry","Philosophies of Ballad","Shadow of the Warrior"]},{"name":{"en_US":"Hu Tao","zh_CN":"胡桃"},"rarity":"5","weapon":"polearm","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Juvenile Jade","Shimmering Nectar","Silk Flower","Philosophies of Diligence","Shard of a Foul Legacy"]},{"name":{"en_US":"Kaedehara Kazuha","zh_CN":"枫原万叶"},"rarity":"5","weapon":"sword","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Marionette Core","Silver Raven Insignia","Sea Ganoderma","Philosophies of Diligence","Gilded Scale"]},{"name":{"en_US":"Yanfei","zh_CN":"烟绯"},"rarity":"4","weapon":"catalyst","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Juvenile Jade","Silver Raven Insignia","Noctilucous Jade","Philosophies of Gold","Bloodjade Branch"]},{"name":{"en_US":"Yoimiya","zh_CN":"宵宫"},"rarity":"5","weapon":"bow","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Smoldering Pearl","Sealed Scroll","Naku Weed","Philosophies of Transience","Dragon Lord\'s Crown"]},{"name":{"en_US":"Thoma","zh_CN":"托马"},"rarity":"4","weapon":"polearm","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Smoldering Pearl","Silver Raven Insignia","Fluorescent Fungus","Philosophies of Transience","Hellfire Butterfly"]},{"name":{"en_US":"Eula","zh_CN":"优菈"},"rarity":"5","weapon":"claymore","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Crystalline Bloom","Stained Mask","Dandelion Seed","Philosophies of Resistance","Dragon Lord\'s Crown"]},{"name":{"en_US":"Raiden Shogun","zh_CN":"雷电将军"},"rarity":"5","weapon":"polearm","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Storm Beads","Kageuchi Handguard","Amakumo Fruit","Philosophies of Light","Molten Moment"]},{"name":{"en_US":"Sayu","zh_CN":"早柚"},"rarity":"4","weapon":"claymore","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Marionette Core","Shimmering Nectar","Crystal Marrow","Philosophies of Light","Gilded Scale"]},{"name":{"en_US":"Sangonomiya Kokomi","zh_CN":"珊瑚宫心海"},"rarity":"5","weapon":"catalyst","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Dew of Repudiation","Spectral Heart","Sango Pearl","Philosophies of Transience","Hellfire Butterfly"]},{"name":{"en_US":"Gorou","zh_CN":"五郎"},"rarity":"4","weapon":"bow","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Perpetual Heart","Spectral Heart","Sango Pearl","Philosophies of Light","Molten Moment"]},{"name":{"en_US":"Kujou Sara","zh_CN":"九条裟罗"},"rarity":"4","weapon":"bow","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Storm Beads","Stained Mask","Dendrobium","Philosophies of Elegance","Ashen Heart"]},{"name":{"en_US":"Arataki Itto","zh_CN":"荒泷一斗"},"rarity":"5","weapon":"claymore","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Riftborn Regalia","Slime Secretions","Onikabuto","Philosophies of Elegance","Ashen Heart"]},{"name":{"en_US":"Yae Miko","zh_CN":"八重神子"},"rarity":"5","weapon":"catalyst","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Dragonheir\'s False Fin","Kageuchi Handguard","Sea Ganoderma","Philosophies of Light","The Meaning of Aeons"]},{"name":{"en_US":"Shikanoin Heizou","zh_CN":"鹿野院平藏"},"rarity":"4","weapon":"catalyst","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Runic Fang","Silver Raven Insignia","Onikabuto","Philosophies of Transience","The Meaning of Aeons"]},{"name":{"en_US":"Yelan","zh_CN":"夜兰"},"rarity":"5","weapon":"bow","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Runic Fang","Sergeant\'s Insignia","Starconch","Philosophies of Prosperity","Gilded Scale"]},{"name":{"en_US":"Kirara","zh_CN":"绮良良"},"rarity":"4","weapon":"sword","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Evergloom Ring","Spectral Heart","Amakumo Fruit","Philosophies of Transience","Everamber"]},{"name":{"en_US":"Aloy","zh_CN":"埃洛伊"},"rarity":"4","weapon":"bow","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Crystalline Bloom","Spectral Heart","Crystal Marrow","Philosophies of Freedom","Molten Moment"]},{"name":{"en_US":"Shenhe","zh_CN":"申鹤"},"rarity":"5","weapon":"polearm","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Dragonheir\'s False Fin","Shimmering Nectar","Qingxin","Philosophies of Prosperity","Hellfire Butterfly"]},{"name":{"en_US":"Yun Jin","zh_CN":"云堇"},"rarity":"4","weapon":"polearm","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Riftborn Regalia","Stained Mask","Glaze Lily","Philosophies of Diligence","Ashen Heart"]},{"name":{"en_US":"Kuki Shinobu","zh_CN":"久岐忍"},"rarity":"4","weapon":"sword","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Runic Fang","Spectral Heart","Naku Weed","Philosophies of Elegance","Tears of the Calamitous God"]},{"name":{"en_US":"Kamisato Ayato","zh_CN":"神里绫人"},"rarity":"5","weapon":"sword","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Dew of Repudiation","Kageuchi Handguard","Sakura Bloom","Philosophies of Elegance","Mudra of the Malefic General"]},{"name":{"en_US":"Collei","zh_CN":"柯莱"},"rarity":"4","weapon":"bow","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Majestic Hooked Beak","Sharp Arrowhead","Rukkhashava Mushrooms","Philosophies of Praxis","Tears of the Calamitous God"]},{"name":{"en_US":"Dori","zh_CN":"多莉"},"rarity":"4","weapon":"claymore","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Thunderclap Fruitcore","Trimmed Red Silk","Kalpalata Lotus","Philosophies of Ingenuity","Bloodjade Branch"]},{"name":{"en_US":"Tighnari","zh_CN":"提纳里"},"rarity":"5","weapon":"bow","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Majestic Hooked Beak","Luminescent Pollen","Nilotpala Lotus","Philosophies of Admonition","The Meaning of Aeons"]},{"name":{"en_US":"Nilou","zh_CN":"妮露"},"rarity":"5","weapon":"sword","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Perpetual Caliber","Luminescent Pollen","Padisarah","Philosophies of Praxis","Tears of the Calamitous God"]},{"name":{"en_US":"Cyno","zh_CN":"赛诺"},"rarity":"5","weapon":"polearm","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Thunderclap Fruitcore","Sealed Scroll","Scarab","Philosophies of Admonition","Mudra of the Malefic General"]},{"name":{"en_US":"Candace","zh_CN":"坎蒂丝"},"rarity":"4","weapon":"polearm","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Light Guiding Tetrahedron","Trimmed Red Silk","Henna Berry","Philosophies of Admonition","Tears of the Calamitous God"]},{"name":{"en_US":"Nahida","zh_CN":"纳西妲"},"rarity":"5","weapon":"catalyst","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Quelled Creeper","Luminescent Pollen","Kalpalata Lotus","Philosophies of Ingenuity","Puppet Strings"]},{"name":{"en_US":"Layla","zh_CN":"莱依拉"},"rarity":"4","weapon":"sword","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Perpetual Caliber","Sealed Scroll","Nilotpala Lotus","Philosophies of Ingenuity","Mirror of Mushin"]},{"name":{"en_US":"Wanderer","zh_CN":"流浪者"},"rarity":"5","weapon":"catalyst","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Perpetual Caliber","Kageuchi Handguard","Rukkhashava Mushrooms","Philosophies of Praxis","Daka\'s Bell"]},{"name":{"en_US":"Faruzan","zh_CN":"珐露珊"},"rarity":"4","weapon":"bow","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Light Guiding Tetrahedron","Trimmed Red Silk","Henna Berry","Philosophies of Admonition","Puppet Strings"]},{"name":{"en_US":"Yaoyao","zh_CN":"瑶瑶"},"rarity":"4","weapon":"polearm","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Quelled Creeper","Slime Secretions","Jueyun Chili","Philosophies of Diligence","Daka\'s Bell"]},{"name":{"en_US":"Alhaitham","zh_CN":"艾尔海森"},"rarity":"5","weapon":"sword","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Pseudo-Stamens","Trimmed Red Silk","Sand Grease Pupa","Philosophies of Ingenuity","Mirror of Mushin"]},{"name":{"en_US":"Dehya","zh_CN":"迪希雅"},"rarity":"5","weapon":"claymore","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Light Guiding Tetrahedron","Trimmed Red Silk","Sand Grease Pupa","Philosophies of Praxis","Puppet Strings"]},{"name":{"en_US":"Mika","zh_CN":"米卡"},"rarity":"4","weapon":"polearm","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Pseudo-Stamens","Sergeant\'s Insignia","Wolfhook","Philosophies of Ballad","Mirror of Mushin"]},{"name":{"en_US":"Kaveh","zh_CN":"卡维"},"rarity":"4","weapon":"claymore","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Quelled Creeper","Luminescent Pollen","Mourning Flower","Philosophies of Ingenuity","Primordial Greenbloom"]},{"name":{"en_US":"Baizhu","zh_CN":"白术"},"rarity":"5","weapon":"catalyst","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Evergloom Ring","Luminescent Pollen","Violetgrass","Philosophies of Gold","Worldspan Fern"]},{"name":{"en_US":"Lynette","zh_CN":"琳妮特"},"rarity":"4","weapon":"sword","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Artificed Spare Clockwork Component — Coppelia","Mechanical Spur Gear","Lumidouce Bell","Philosophies of Order","Everamber"]},{"name":{"en_US":"Lyney","zh_CN":"林尼"},"rarity":"5","weapon":"bow","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Emperor\'s Resolution","Sergeant\'s Insignia","Rainbow Rose","Philosophies of Equity","Primordial Greenbloom"]},{"name":{"en_US":"Freminet","zh_CN":"菲米尼"},"rarity":"4","weapon":"claymore","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","Artificed Spare Clockwork Component — Coppelius","Transoceanic Chunk","Romaritime Flower","Philosophies of Justice","Worldspan Fern"]},{"name":{"en_US":"Wriothesley","zh_CN":"莱欧斯利"},"rarity":"5","weapon":"catalyst","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","","Mechanical Spur Gear","Subdetection Unit","Philosophies of Order","Primordial Greenbloom"]},{"name":{"en_US":"Neuvillette","zh_CN":"那维莱特"},"rarity":"5","weapon":"catalyst","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Fontemer Unihorn","Transoceanic Chunk","Lumitoile","Philosophies of Equity","Everamber"]},{"name":{"en_US":"Charlotte","zh_CN":"夏洛蒂"},"rarity":"4","weapon":"catalyst","element":"cryo","ascensionMaterials":["Shivada Jade Chunk","","Mechanical Spur Gear","Beryl Conch","Philosophies of Justice","Lightless Silk String"]},{"name":{"en_US":"Furina","zh_CN":"芙宁娜"},"rarity":"5","weapon":"sword","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Water That Failed To Transcend","Shimmering Nectar","Lakelight Lily","Philosophies of Justice","Lightless Mass"]},{"name":{"en_US":"Chevreuse","zh_CN":"夏沃蕾"},"rarity":"4","weapon":"polearm","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Fontemer Unihorn","Mechanical Spur Gear","Lumidouce Bell","Philosophies of Order","Lightless Eye of the Maelstrom"]},{"name":{"en_US":"Navia","zh_CN":"娜维娅"},"rarity":"5","weapon":"claymore","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Artificed Spare Clockwork Component — Coppelius","Transoceanic Chunk","Spring of the First Dewdrop","Philosophies of Equity","Lightless Silk String"]},{"name":{"en_US":"Gaming","zh_CN":"嘉明"},"rarity":"4","weapon":"claymore","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Emperor\'s Resolution","Slime Secretions","Starconch","Philosophies of Prosperity","Lightless Mass"]},{"name":{"en_US":"Xianyun","zh_CN":"闲云"},"rarity":"5","weapon":"catalyst","element":"anemo","ascensionMaterials":["Vayuda Turquoise Chunk","Cloudseam Scale","Sealed Scroll","Clearwater Jade","Philosophies of Gold","Lightless Eye of the Maelstrom"]},{"name":{"en_US":"Chiori","zh_CN":"千织"},"rarity":"5","weapon":"sword","element":"geo","ascensionMaterials":["Prithiva Topaz Chunk","Artificed Spare Clockwork Component — Coppelia","Spectral Heart","Dendrobium","Philosophies of Light","Lightless Silk String"]},{"name":{"en_US":"Sigewinne","zh_CN":"希格雯"},"rarity":"5","weapon":"bow","element":"hydro","ascensionMaterials":["Varunada Lazurite Chunk","Water That Failed To Transcend","Transoceanic Chunk","Romaritime Flower","Philosophies of Equity","Lightless Eye of the Maelstrom"]},{"name":{"en_US":"Arlecchino","zh_CN":"阿蕾奇诺"},"rarity":"5","weapon":"polearm","element":"pyro","ascensionMaterials":["Agnidus Agate Chunk","Fragment of a Golden Melody","Sergeant\'s Insignia","Rainbow Rose","Philosophies of Order","Fading Candle"]},{"name":{"en_US":"Sethos","zh_CN":"赛索斯"},"rarity":"4","weapon":"bow","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Cloudseam Scale","Trimmed Red Silk","Trishiraite","Philosophies of Praxis","Daka\'s Bell"]},{"name":{"en_US":"Clorinde","zh_CN":"克洛琳德"},"rarity":"5","weapon":"sword","element":"electro","ascensionMaterials":["Vajrada Amethyst Chunk","Fontemer Unihorn","Transoceanic Chunk","Lumitoile","Philosophies of Justice","Everamber"]},{"name":{"en_US":"Emilie","zh_CN":"艾梅莉埃"},"rarity":"5","weapon":"polearm","element":"dendro","ascensionMaterials":["Nagadus Emerald Chunk","Fragment of a Golden Melody","Mechanical Spur Gear","Lakelight Lily","Philosophies of Order","Silken Feather"]}]');
 ;// CONCATENATED MODULE: ./src/service/index.ts
 var __async = (__this, __arguments, generator) => {
   return new Promise((resolve, reject) => {
@@ -10734,6 +11568,7 @@ var __async = (__this, __arguments, generator) => {
   });
 };
 
+
 const getCharacter = (name) => __async(void 0, null, function* () {
   if (name) {
     const character = CharacterList.filter(
@@ -10742,6 +11577,9 @@ const getCharacter = (name) => __async(void 0, null, function* () {
     return character || null;
   }
   return null;
+});
+const getCharacters = () => __async(void 0, null, function* () {
+  return characters_namespaceObject;
 });
 
 ;// CONCATENATED MODULE: ./src/views/Characters/index.tsx
@@ -10804,7 +11642,7 @@ function Characters_Characters(props) {
 }
 
 // EXTERNAL MODULE: ../../node_modules/.pnpm/css-loader@6.11.0_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/less-loader@11.1.4_less@4.2.0_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/less-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/views/home/index.less
-var home = __webpack_require__(130);
+var home = __webpack_require__(5130);
 ;// CONCATENATED MODULE: ./src/views/home/index.less
 
       
@@ -10835,55 +11673,59 @@ var home_update = injectStylesIntoStyleTag_default()(home/* default */.A, home_o
        /* harmony default export */ const views_home = (home/* default */.A && home/* default */.A.locals ? home/* default */.A.locals : undefined);
 
 ;// CONCATENATED MODULE: ./src/views/home/index.tsx
-var home_defProp = Object.defineProperty;
-var __defProps = Object.defineProperties;
-var __getOwnPropDescs = Object.getOwnPropertyDescriptors;
-var home_getOwnPropSymbols = Object.getOwnPropertySymbols;
-var home_hasOwnProp = Object.prototype.hasOwnProperty;
-var home_propIsEnum = Object.prototype.propertyIsEnumerable;
-var home_defNormalProp = (obj, key, value) => key in obj ? home_defProp(obj, key, { enumerable: true, configurable: true, writable: true, value }) : obj[key] = value;
-var home_spreadValues = (a, b) => {
-  for (var prop in b || (b = {}))
-    if (home_hasOwnProp.call(b, prop))
-      home_defNormalProp(a, prop, b[prop]);
-  if (home_getOwnPropSymbols)
-    for (var prop of home_getOwnPropSymbols(b)) {
-      if (home_propIsEnum.call(b, prop))
-        home_defNormalProp(a, prop, b[prop]);
-    }
-  return a;
+var home_async = (__this, __arguments, generator) => {
+  return new Promise((resolve, reject) => {
+    var fulfilled = (value) => {
+      try {
+        step(generator.next(value));
+      } catch (e) {
+        reject(e);
+      }
+    };
+    var rejected = (value) => {
+      try {
+        step(generator.throw(value));
+      } catch (e) {
+        reject(e);
+      }
+    };
+    var step = (x) => x.done ? resolve(x.value) : Promise.resolve(x.value).then(fulfilled, rejected);
+    step((generator = generator.apply(__this, __arguments)).next());
+  });
 };
-var __spreadProps = (a, b) => __defProps(a, __getOwnPropDescs(b));
 
 
 
 
 
 function Home() {
-  const [list, setList] = react.useState([]);
+  const lang = localStorage.lang || "zh_CN";
+  const [characters, setCharacters] = react.useState([]);
   const nav = dist_useNavigate();
+  const init = () => home_async(this, null, function* () {
+    setCharacters(yield getCharacters());
+  });
   react.useEffect(() => {
-    const newList = [];
-    CharacterList.forEach((item) => {
-      const record = __spreadProps(home_spreadValues({}, item), {
-        name: item.info.filter((_) => _[0] === "name")[0]
-      });
-      newList.push(record);
-    });
-    setList(newList);
+    init();
   }, [CharacterList]);
-  return /* @__PURE__ */ react.createElement("div", null, /* @__PURE__ */ react.createElement("div", { className: "character-card-list" }, list.map((item, i) => {
-    return /* @__PURE__ */ react.createElement(
-      "div",
+  return /* @__PURE__ */ react.createElement("div", { className: "home" }, /* @__PURE__ */ react.createElement("div", { className: "characters" }, characters.map((item, i) => {
+    const {
+      name = {},
+      rarity,
+      weapon,
+      element,
+      ascensionMaterials = []
+    } = item;
+    return /* @__PURE__ */ react.createElement("div", { key: i, className: "character-item" }, /* @__PURE__ */ react.createElement(
+      "img",
       {
-        className: "card",
-        key: i,
+        src: __webpack_require__(6645)(`./${name.en_US}.webp`),
+        style: { cursor: "pointer" },
         onClick: () => {
-          nav(`/characters?name=${item.uid || ""}`);
+          nav(`/characters?name=${name.en_US || ""}`);
         }
-      },
-      /* @__PURE__ */ react.createElement(Img, { src: item.logo, size: 64 })
-    );
+      }
+    ));
   })));
 }
 
@@ -10902,9 +11744,9 @@ const routes = [
   }
 ];
 
-;// CONCATENATED MODULE: ./src/assets/image/Genshin_Impact.png
+;// CONCATENATED MODULE: ./src/assets/img/Genshin_Impact.png
 const Genshin_Impact_namespaceObject = __webpack_require__.p + "img/Genshin_Impact2bed0e06.png";
-;// CONCATENATED MODULE: ./src/assets/image/index.tsx
+;// CONCATENATED MODULE: ./src/assets/img/index.tsx
 
 
 ;// CONCATENATED MODULE: ./src/assets/index.tsx
@@ -10919,7 +11761,7 @@ function Header(props) {
 }
 
 // EXTERNAL MODULE: ../../node_modules/.pnpm/css-loader@6.11.0_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/less-loader@11.1.4_less@4.2.0_webpack@5.92.1_webpack-cli@5.1.4_/node_modules/less-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/layout/index.less
-var layout = __webpack_require__(772);
+var layout = __webpack_require__(1772);
 ;// CONCATENATED MODULE: ./src/layout/index.less
 
       
@@ -10969,6 +11811,8 @@ function App() {
   return /* @__PURE__ */ react.createElement(Layout, null, /* @__PURE__ */ react.createElement(dist_RouterProvider, { router: createHashRouter(routes) }));
 }
 (0,client/* createRoot */.H)(document.getElementById("root")).render(/* @__PURE__ */ react.createElement(App, null));
+
+})();
 
 /******/ })()
 ;
