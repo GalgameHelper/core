@@ -156,7 +156,7 @@ export default {
   output: {
     filename: '[name].[hash:8].js', // 打包的文件名
     // path: path.resolve(__dirname, '../docs')
-    path: path.resolve(__dirname, '../../GalgameHelper.github.io')
+    path: path.resolve(__dirname, '../../GalgameHelper.github.io/docs')
   },
   optimization: {
     minimize: true,
@@ -177,7 +177,7 @@ export default {
       patterns: [
         {
           from: path.resolve(__dirname, '../.nojekyll'),
-          to: path.resolve(__dirname, '../../GalgameHelper.github.io/.nojekyll'),
+          to: path.resolve(__dirname, '../../GalgameHelper.github.io/docs/.nojekyll'),
           toType: 'file'
         }
       ]
