@@ -1,0 +1,2832 @@
+[
+  [
+    "/img/ayaka_002_100.webp?x87195",
+    "Kamisato Ayaka",
+    "5",
+    "sword",
+    "cryo",
+    [
+      [
+        "Shivada Jade Chunk",
+        "/img/i_343_35.webp?x87195"
+      ],
+      [
+        "Perpetual Heart",
+        "/img/i_211_35.webp?x87195"
+      ],
+      [
+        "Kageuchi Handguard",
+        "/img/i_162_35.webp?x87195"
+      ],
+      [
+        "Sakura Bloom",
+        "/img/i_678_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Elegance",
+        "/img/i_418_35.webp?x87195"
+      ],
+      [
+        "Bloodjade Branch",
+        "/img/i_471_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/qin_003_100.webp?x87195",
+    "Jean",
+    "5",
+    "sword",
+    "anemo",
+    [
+      [
+        "Vayuda Turquoise Chunk",
+        "/img/i_353_35.webp?x87195"
+      ],
+      [
+        "Hurricane Seed",
+        "/img/i_205_35.webp?x87195"
+      ],
+      [
+        "Stained Mask",
+        "/img/i_32_35.webp?x87195"
+      ],
+      [
+        "Dandelion Seed",
+        "/img/i_603_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Resistance",
+        "/img/i_453_35.webp?x87195"
+      ],
+      [
+        "Dvalin's Plume",
+        "/img/i_461_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/playerboy_005_100.webp?x87195",
+    "Traveler",
+    "5",
+    "sword",
+    "none",
+    [
+      [
+        "Brilliant Diamond Chunk",
+        "/img/i_303_35.webp?x87195"
+      ],
+      [
+        "Stained Mask",
+        "/img/i_32_35.webp?x87195"
+      ],
+      [
+        "Windwheel Aster",
+        "/img/i_612_35.webp?x87195"
+      ],
+      [
+        "Guide to Ingenuity",
+        "/img/i_n104333_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Praxis",
+        "/img/i_n104337_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/lisa_006_100.webp?x87195",
+    "Lisa",
+    "4",
+    "catalyst",
+    "electro",
+    [
+      [
+        "Vajrada Amethyst Chunk",
+        "/img/i_333_35.webp?x87195"
+      ],
+      [
+        "Lightning Prism",
+        "/img/i_203_35.webp?x87195"
+      ],
+      [
+        "Slime Secretions",
+        "/img/i_22_35.webp?x87195"
+      ],
+      [
+        "Valberry",
+        "/img/i_610_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Ballad",
+        "/img/i_403_35.webp?x87195"
+      ],
+      [
+        "Dvalin's Claw",
+        "/img/i_462_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/playergirl_007_100.webp?x87195",
+    "Traveler",
+    "5",
+    "sword",
+    "none",
+    [
+      [
+        "Brilliant Diamond Chunk",
+        "/img/i_303_35.webp?x87195"
+      ],
+      [
+        "Stained Mask",
+        "/img/i_32_35.webp?x87195"
+      ],
+      [
+        "Windwheel Aster",
+        "/img/i_612_35.webp?x87195"
+      ],
+      [
+        "Guide to Ingenuity",
+        "/img/i_n104333_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Praxis",
+        "/img/i_n104337_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/barbara_014_100.webp?x87195",
+    "Barbara",
+    "4",
+    "catalyst",
+    "hydro",
+    [
+      [
+        "Varunada Lazurite Chunk",
+        "/img/i_323_35.webp?x87195"
+      ],
+      [
+        "Cleansing Heart",
+        "/img/i_202_35.webp?x87195"
+      ],
+      [
+        "Sealed Scroll",
+        "/img/i_42_35.webp?x87195"
+      ],
+      [
+        "Philanemo Mushroom",
+        "/img/i_607_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Freedom",
+        "/img/i_423_35.webp?x87195"
+      ],
+      [
+        "Ring of Boreas",
+        "/img/i_465_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/kaeya_015_100.webp?x87195",
+    "Kaeya",
+    "4",
+    "sword",
+    "cryo",
+    [
+      [
+        "Shivada Jade Chunk",
+        "/img/i_343_35.webp?x87195"
+      ],
+      [
+        "Hoarfrost Core",
+        "/img/i_204_35.webp?x87195"
+      ],
+      [
+        "Silver Raven Insignia",
+        "/img/i_122_35.webp?x87195"
+      ],
+      [
+        "Calla Lily",
+        "/img/i_600_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Ballad",
+        "/img/i_403_35.webp?x87195"
+      ],
+      [
+        "Spirit Locket of Boreas",
+        "/img/i_466_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/diluc_016_100.webp?x87195",
+    "Diluc",
+    "5",
+    "claymore",
+    "pyro",
+    [
+      [
+        "Agnidus Agate Chunk",
+        "/img/i_313_35.webp?x87195"
+      ],
+      [
+        "Everflame Seed",
+        "/img/i_201_35.webp?x87195"
+      ],
+      [
+        "Sergeant's Insignia",
+        "/img/i_112_35.webp?x87195"
+      ],
+      [
+        "Small Lamp Grass",
+        "/img/i_609_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Resistance",
+        "/img/i_453_35.webp?x87195"
+      ],
+      [
+        "Dvalin's Plume",
+        "/img/i_461_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/razor_020_100.webp?x87195",
+    "Razor",
+    "4",
+    "claymore",
+    "electro",
+    [
+      [
+        "Vajrada Amethyst Chunk",
+        "/img/i_333_35.webp?x87195"
+      ],
+      [
+        "Lightning Prism",
+        "/img/i_203_35.webp?x87195"
+      ],
+      [
+        "Stained Mask",
+        "/img/i_32_35.webp?x87195"
+      ],
+      [
+        "Wolfhook",
+        "/img/i_613_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Resistance",
+        "/img/i_453_35.webp?x87195"
+      ],
+      [
+        "Dvalin's Claw",
+        "/img/i_462_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/ambor_021_100.webp?x87195",
+    "Amber",
+    "4",
+    "bow",
+    "pyro",
+    [
+      [
+        "Agnidus Agate Chunk",
+        "/img/i_313_35.webp?x87195"
+      ],
+      [
+        "Everflame Seed",
+        "/img/i_201_35.webp?x87195"
+      ],
+      [
+        "Sharp Arrowhead",
+        "/img/i_52_35.webp?x87195"
+      ],
+      [
+        "Small Lamp Grass",
+        "/img/i_609_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Freedom",
+        "/img/i_423_35.webp?x87195"
+      ],
+      [
+        "Dvalin's Sigh",
+        "/img/i_463_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/venti_022_100.webp?x87195",
+    "Venti",
+    "5",
+    "bow",
+    "anemo",
+    [
+      [
+        "Vayuda Turquoise Chunk",
+        "/img/i_353_35.webp?x87195"
+      ],
+      [
+        "Hurricane Seed",
+        "/img/i_205_35.webp?x87195"
+      ],
+      [
+        "Slime Secretions",
+        "/img/i_22_35.webp?x87195"
+      ],
+      [
+        "Cecilia",
+        "/img/i_601_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Ballad",
+        "/img/i_403_35.webp?x87195"
+      ],
+      [
+        "Tail of Boreas",
+        "/img/i_464_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/xiangling_023_100.webp?x87195",
+    "Xiangling",
+    "4",
+    "polearm",
+    "pyro",
+    [
+      [
+        "Agnidus Agate Chunk",
+        "/img/i_313_35.webp?x87195"
+      ],
+      [
+        "Everflame Seed",
+        "/img/i_201_35.webp?x87195"
+      ],
+      [
+        "Slime Secretions",
+        "/img/i_22_35.webp?x87195"
+      ],
+      [
+        "Jueyun Chili",
+        "/img/i_605_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Diligence",
+        "/img/i_413_35.webp?x87195"
+      ],
+      [
+        "Dvalin's Claw",
+        "/img/i_462_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/beidou_024_100.webp?x87195",
+    "Beidou",
+    "4",
+    "claymore",
+    "electro",
+    [
+      [
+        "Vajrada Amethyst Chunk",
+        "/img/i_333_35.webp?x87195"
+      ],
+      [
+        "Lightning Prism",
+        "/img/i_203_35.webp?x87195"
+      ],
+      [
+        "Silver Raven Insignia",
+        "/img/i_122_35.webp?x87195"
+      ],
+      [
+        "Noctilucous Jade",
+        "/img/i_606_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Gold",
+        "/img/i_433_35.webp?x87195"
+      ],
+      [
+        "Dvalin's Sigh",
+        "/img/i_463_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/xingqiu_025_100.webp?x87195",
+    "Xingqiu",
+    "4",
+    "sword",
+    "hydro",
+    [
+      [
+        "Varunada Lazurite Chunk",
+        "/img/i_323_35.webp?x87195"
+      ],
+      [
+        "Cleansing Heart",
+        "/img/i_202_35.webp?x87195"
+      ],
+      [
+        "Stained Mask",
+        "/img/i_32_35.webp?x87195"
+      ],
+      [
+        "Silk Flower",
+        "/img/i_608_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Gold",
+        "/img/i_433_35.webp?x87195"
+      ],
+      [
+        "Tail of Boreas",
+        "/img/i_464_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/xiao_026_100.webp?x87195",
+    "Xiao",
+    "5",
+    "polearm",
+    "anemo",
+    [
+      [
+        "Vayuda Turquoise Chunk",
+        "/img/i_353_35.webp?x87195"
+      ],
+      [
+        "Juvenile Jade",
+        "/img/i_207_35.webp?x87195"
+      ],
+      [
+        "Slime Secretions",
+        "/img/i_22_35.webp?x87195"
+      ],
+      [
+        "Qingxin",
+        "/img/i_614_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Prosperity",
+        "/img/i_443_35.webp?x87195"
+      ],
+      [
+        "Shadow of the Warrior",
+        "/img/i_469_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/ningguang_027_100.webp?x87195",
+    "Ningguang",
+    "4",
+    "catalyst",
+    "geo",
+    [
+      [
+        "Prithiva Topaz Chunk",
+        "/img/i_363_35.webp?x87195"
+      ],
+      [
+        "Basalt Pillar",
+        "/img/i_206_35.webp?x87195"
+      ],
+      [
+        "Sergeant's Insignia",
+        "/img/i_112_35.webp?x87195"
+      ],
+      [
+        "Glaze Lily",
+        "/img/i_604_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Prosperity",
+        "/img/i_443_35.webp?x87195"
+      ],
+      [
+        "Spirit Locket of Boreas",
+        "/img/i_466_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/klee_029_100.webp?x87195",
+    "Klee",
+    "5",
+    "catalyst",
+    "pyro",
+    [
+      [
+        "Agnidus Agate Chunk",
+        "/img/i_313_35.webp?x87195"
+      ],
+      [
+        "Everflame Seed",
+        "/img/i_201_35.webp?x87195"
+      ],
+      [
+        "Sealed Scroll",
+        "/img/i_42_35.webp?x87195"
+      ],
+      [
+        "Philanemo Mushroom",
+        "/img/i_607_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Freedom",
+        "/img/i_423_35.webp?x87195"
+      ],
+      [
+        "Ring of Boreas",
+        "/img/i_465_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/zhongli_030_100.webp?x87195",
+    "Zhongli",
+    "5",
+    "polearm",
+    "geo",
+    [
+      [
+        "Prithiva Topaz Chunk",
+        "/img/i_363_35.webp?x87195"
+      ],
+      [
+        "Basalt Pillar",
+        "/img/i_206_35.webp?x87195"
+      ],
+      [
+        "Slime Secretions",
+        "/img/i_22_35.webp?x87195"
+      ],
+      [
+        "Cor Lapis",
+        "/img/i_602_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Gold",
+        "/img/i_433_35.webp?x87195"
+      ],
+      [
+        "Tusk of Monoceros Caeli",
+        "/img/i_467_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/fischl_031_100.webp?x87195",
+    "Fischl",
+    "4",
+    "bow",
+    "electro",
+    [
+      [
+        "Vajrada Amethyst Chunk",
+        "/img/i_333_35.webp?x87195"
+      ],
+      [
+        "Lightning Prism",
+        "/img/i_203_35.webp?x87195"
+      ],
+      [
+        "Sharp Arrowhead",
+        "/img/i_52_35.webp?x87195"
+      ],
+      [
+        "Small Lamp Grass",
+        "/img/i_609_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Ballad",
+        "/img/i_403_35.webp?x87195"
+      ],
+      [
+        "Spirit Locket of Boreas",
+        "/img/i_466_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/bennett_032_100.webp?x87195",
+    "Bennett",
+    "4",
+    "sword",
+    "pyro",
+    [
+      [
+        "Agnidus Agate Chunk",
+        "/img/i_313_35.webp?x87195"
+      ],
+      [
+        "Everflame Seed",
+        "/img/i_201_35.webp?x87195"
+      ],
+      [
+        "Silver Raven Insignia",
+        "/img/i_122_35.webp?x87195"
+      ],
+      [
+        "Windwheel Aster",
+        "/img/i_612_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Resistance",
+        "/img/i_453_35.webp?x87195"
+      ],
+      [
+        "Dvalin's Plume",
+        "/img/i_461_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/tartaglia_033_100.webp?x87195",
+    "Tartaglia",
+    "5",
+    "bow",
+    "hydro",
+    [
+      [
+        "Varunada Lazurite Chunk",
+        "/img/i_323_35.webp?x87195"
+      ],
+      [
+        "Cleansing Heart",
+        "/img/i_202_35.webp?x87195"
+      ],
+      [
+        "Sergeant's Insignia",
+        "/img/i_112_35.webp?x87195"
+      ],
+      [
+        "Starconch",
+        "/img/i_663_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Freedom",
+        "/img/i_423_35.webp?x87195"
+      ],
+      [
+        "Shard of a Foul Legacy",
+        "/img/i_468_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/noel_034_100.webp?x87195",
+    "Noelle",
+    "4",
+    "claymore",
+    "geo",
+    [
+      [
+        "Prithiva Topaz Chunk",
+        "/img/i_363_35.webp?x87195"
+      ],
+      [
+        "Basalt Pillar",
+        "/img/i_206_35.webp?x87195"
+      ],
+      [
+        "Stained Mask",
+        "/img/i_32_35.webp?x87195"
+      ],
+      [
+        "Valberry",
+        "/img/i_610_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Resistance",
+        "/img/i_453_35.webp?x87195"
+      ],
+      [
+        "Dvalin's Claw",
+        "/img/i_462_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/qiqi_035_100.webp?x87195",
+    "Qiqi",
+    "5",
+    "sword",
+    "cryo",
+    [
+      [
+        "Shivada Jade Chunk",
+        "/img/i_343_35.webp?x87195"
+      ],
+      [
+        "Hoarfrost Core",
+        "/img/i_204_35.webp?x87195"
+      ],
+      [
+        "Sealed Scroll",
+        "/img/i_42_35.webp?x87195"
+      ],
+      [
+        "Violetgrass",
+        "/img/i_611_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Prosperity",
+        "/img/i_443_35.webp?x87195"
+      ],
+      [
+        "Tail of Boreas",
+        "/img/i_464_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/chongyun_036_100.webp?x87195",
+    "Chongyun",
+    "4",
+    "claymore",
+    "cryo",
+    [
+      [
+        "Shivada Jade Chunk",
+        "/img/i_343_35.webp?x87195"
+      ],
+      [
+        "Hoarfrost Core",
+        "/img/i_204_35.webp?x87195"
+      ],
+      [
+        "Stained Mask",
+        "/img/i_32_35.webp?x87195"
+      ],
+      [
+        "Cor Lapis",
+        "/img/i_602_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Diligence",
+        "/img/i_413_35.webp?x87195"
+      ],
+      [
+        "Dvalin's Sigh",
+        "/img/i_463_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/ganyu_037_100.webp?x87195",
+    "Ganyu",
+    "5",
+    "bow",
+    "cryo",
+    [
+      [
+        "Shivada Jade Chunk",
+        "/img/i_343_35.webp?x87195"
+      ],
+      [
+        "Hoarfrost Core",
+        "/img/i_204_35.webp?x87195"
+      ],
+      [
+        "Shimmering Nectar",
+        "/img/i_132_35.webp?x87195"
+      ],
+      [
+        "Qingxin",
+        "/img/i_614_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Diligence",
+        "/img/i_413_35.webp?x87195"
+      ],
+      [
+        "Shadow of the Warrior",
+        "/img/i_469_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/albedo_038_100.webp?x87195",
+    "Albedo",
+    "5",
+    "sword",
+    "geo",
+    [
+      [
+        "Prithiva Topaz Chunk",
+        "/img/i_363_35.webp?x87195"
+      ],
+      [
+        "Basalt Pillar",
+        "/img/i_206_35.webp?x87195"
+      ],
+      [
+        "Sealed Scroll",
+        "/img/i_42_35.webp?x87195"
+      ],
+      [
+        "Cecilia",
+        "/img/i_601_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Ballad",
+        "/img/i_403_35.webp?x87195"
+      ],
+      [
+        "Tusk of Monoceros Caeli",
+        "/img/i_467_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/diona_039_100.webp?x87195",
+    "Diona",
+    "4",
+    "bow",
+    "cryo",
+    [
+      [
+        "Shivada Jade Chunk",
+        "/img/i_343_35.webp?x87195"
+      ],
+      [
+        "Hoarfrost Core",
+        "/img/i_204_35.webp?x87195"
+      ],
+      [
+        "Sharp Arrowhead",
+        "/img/i_52_35.webp?x87195"
+      ],
+      [
+        "Calla Lily",
+        "/img/i_600_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Freedom",
+        "/img/i_423_35.webp?x87195"
+      ],
+      [
+        "Shard of a Foul Legacy",
+        "/img/i_468_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/mona_041_100.webp?x87195",
+    "Mona",
+    "5",
+    "catalyst",
+    "hydro",
+    [
+      [
+        "Varunada Lazurite Chunk",
+        "/img/i_323_35.webp?x87195"
+      ],
+      [
+        "Cleansing Heart",
+        "/img/i_202_35.webp?x87195"
+      ],
+      [
+        "Shimmering Nectar",
+        "/img/i_132_35.webp?x87195"
+      ],
+      [
+        "Philanemo Mushroom",
+        "/img/i_607_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Resistance",
+        "/img/i_453_35.webp?x87195"
+      ],
+      [
+        "Ring of Boreas",
+        "/img/i_465_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/keqing_042_100.webp?x87195",
+    "Keqing",
+    "5",
+    "sword",
+    "electro",
+    [
+      [
+        "Vajrada Amethyst Chunk",
+        "/img/i_333_35.webp?x87195"
+      ],
+      [
+        "Lightning Prism",
+        "/img/i_203_35.webp?x87195"
+      ],
+      [
+        "Shimmering Nectar",
+        "/img/i_132_35.webp?x87195"
+      ],
+      [
+        "Cor Lapis",
+        "/img/i_602_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Prosperity",
+        "/img/i_443_35.webp?x87195"
+      ],
+      [
+        "Ring of Boreas",
+        "/img/i_465_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/sucrose_043_100.webp?x87195",
+    "Sucrose",
+    "4",
+    "catalyst",
+    "anemo",
+    [
+      [
+        "Vayuda Turquoise Chunk",
+        "/img/i_353_35.webp?x87195"
+      ],
+      [
+        "Hurricane Seed",
+        "/img/i_205_35.webp?x87195"
+      ],
+      [
+        "Shimmering Nectar",
+        "/img/i_132_35.webp?x87195"
+      ],
+      [
+        "Windwheel Aster",
+        "/img/i_612_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Freedom",
+        "/img/i_423_35.webp?x87195"
+      ],
+      [
+        "Spirit Locket of Boreas",
+        "/img/i_466_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/xinyan_044_100.webp?x87195",
+    "Xinyan",
+    "4",
+    "claymore",
+    "pyro",
+    [
+      [
+        "Agnidus Agate Chunk",
+        "/img/i_313_35.webp?x87195"
+      ],
+      [
+        "Everflame Seed",
+        "/img/i_201_35.webp?x87195"
+      ],
+      [
+        "Silver Raven Insignia",
+        "/img/i_122_35.webp?x87195"
+      ],
+      [
+        "Violetgrass",
+        "/img/i_611_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Gold",
+        "/img/i_433_35.webp?x87195"
+      ],
+      [
+        "Tusk of Monoceros Caeli",
+        "/img/i_467_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/rosaria_045_100.webp?x87195",
+    "Rosaria",
+    "4",
+    "polearm",
+    "cryo",
+    [
+      [
+        "Shivada Jade Chunk",
+        "/img/i_343_35.webp?x87195"
+      ],
+      [
+        "Hoarfrost Core",
+        "/img/i_204_35.webp?x87195"
+      ],
+      [
+        "Sergeant's Insignia",
+        "/img/i_112_35.webp?x87195"
+      ],
+      [
+        "Valberry",
+        "/img/i_610_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Ballad",
+        "/img/i_403_35.webp?x87195"
+      ],
+      [
+        "Shadow of the Warrior",
+        "/img/i_469_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/hutao_046_100.webp?x87195",
+    "Hu Tao",
+    "5",
+    "polearm",
+    "pyro",
+    [
+      [
+        "Agnidus Agate Chunk",
+        "/img/i_313_35.webp?x87195"
+      ],
+      [
+        "Juvenile Jade",
+        "/img/i_207_35.webp?x87195"
+      ],
+      [
+        "Shimmering Nectar",
+        "/img/i_132_35.webp?x87195"
+      ],
+      [
+        "Silk Flower",
+        "/img/i_608_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Diligence",
+        "/img/i_413_35.webp?x87195"
+      ],
+      [
+        "Shard of a Foul Legacy",
+        "/img/i_468_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/kazuha_047_100.webp?x87195",
+    "Kaedehara Kazuha",
+    "5",
+    "sword",
+    "anemo",
+    [
+      [
+        "Vayuda Turquoise Chunk",
+        "/img/i_353_35.webp?x87195"
+      ],
+      [
+        "Marionette Core",
+        "/img/i_210_35.webp?x87195"
+      ],
+      [
+        "Silver Raven Insignia",
+        "/img/i_122_35.webp?x87195"
+      ],
+      [
+        "Sea Ganoderma",
+        "/img/i_675_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Diligence",
+        "/img/i_413_35.webp?x87195"
+      ],
+      [
+        "Gilded Scale",
+        "/img/i_472_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/feiyan_048_100.webp?x87195",
+    "Yanfei",
+    "4",
+    "catalyst",
+    "pyro",
+    [
+      [
+        "Agnidus Agate Chunk",
+        "/img/i_313_35.webp?x87195"
+      ],
+      [
+        "Juvenile Jade",
+        "/img/i_207_35.webp?x87195"
+      ],
+      [
+        "Silver Raven Insignia",
+        "/img/i_122_35.webp?x87195"
+      ],
+      [
+        "Noctilucous Jade",
+        "/img/i_606_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Gold",
+        "/img/i_433_35.webp?x87195"
+      ],
+      [
+        "Bloodjade Branch",
+        "/img/i_471_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/yoimiya_049_100.webp?x87195",
+    "Yoimiya",
+    "5",
+    "bow",
+    "pyro",
+    [
+      [
+        "Agnidus Agate Chunk",
+        "/img/i_313_35.webp?x87195"
+      ],
+      [
+        "Smoldering Pearl",
+        "/img/i_212_35.webp?x87195"
+      ],
+      [
+        "Sealed Scroll",
+        "/img/i_42_35.webp?x87195"
+      ],
+      [
+        "Naku Weed",
+        "/img/i_681_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Transience",
+        "/img/i_408_35.webp?x87195"
+      ],
+      [
+        "Dragon Lord's Crown",
+        "/img/i_470_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/tohma_050_100.webp?x87195",
+    "Thoma",
+    "4",
+    "polearm",
+    "pyro",
+    [
+      [
+        "Agnidus Agate Chunk",
+        "/img/i_313_35.webp?x87195"
+      ],
+      [
+        "Smoldering Pearl",
+        "/img/i_212_35.webp?x87195"
+      ],
+      [
+        "Silver Raven Insignia",
+        "/img/i_122_35.webp?x87195"
+      ],
+      [
+        "Fluorescent Fungus",
+        "/img/i_688_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Transience",
+        "/img/i_408_35.webp?x87195"
+      ],
+      [
+        "Hellfire Butterfly",
+        "/img/i_481_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/eula_051_100.webp?x87195",
+    "Eula",
+    "5",
+    "claymore",
+    "cryo",
+    [
+      [
+        "Shivada Jade Chunk",
+        "/img/i_343_35.webp?x87195"
+      ],
+      [
+        "Crystalline Bloom",
+        "/img/i_208_35.webp?x87195"
+      ],
+      [
+        "Stained Mask",
+        "/img/i_32_35.webp?x87195"
+      ],
+      [
+        "Dandelion Seed",
+        "/img/i_603_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Resistance",
+        "/img/i_453_35.webp?x87195"
+      ],
+      [
+        "Dragon Lord's Crown",
+        "/img/i_470_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/shougun_052_100.webp?x87195",
+    "Raiden Shogun",
+    "5",
+    "polearm",
+    "electro",
+    [
+      [
+        "Vajrada Amethyst Chunk",
+        "/img/i_333_35.webp?x87195"
+      ],
+      [
+        "Storm Beads",
+        "/img/i_214_35.webp?x87195"
+      ],
+      [
+        "Kageuchi Handguard",
+        "/img/i_162_35.webp?x87195"
+      ],
+      [
+        "Amakumo Fruit",
+        "/img/i_686_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Light",
+        "/img/i_428_35.webp?x87195"
+      ],
+      [
+        "Molten Moment",
+        "/img/i_480_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/sayu_053_100.webp?x87195",
+    "Sayu",
+    "4",
+    "claymore",
+    "anemo",
+    [
+      [
+        "Vayuda Turquoise Chunk",
+        "/img/i_353_35.webp?x87195"
+      ],
+      [
+        "Marionette Core",
+        "/img/i_210_35.webp?x87195"
+      ],
+      [
+        "Shimmering Nectar",
+        "/img/i_132_35.webp?x87195"
+      ],
+      [
+        "Crystal Marrow",
+        "/img/i_679_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Light",
+        "/img/i_428_35.webp?x87195"
+      ],
+      [
+        "Gilded Scale",
+        "/img/i_472_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/kokomi_054_100.webp?x87195",
+    "Sangonomiya Kokomi",
+    "5",
+    "catalyst",
+    "hydro",
+    [
+      [
+        "Varunada Lazurite Chunk",
+        "/img/i_323_35.webp?x87195"
+      ],
+      [
+        "Dew of Repudiation",
+        "/img/i_213_35.webp?x87195"
+      ],
+      [
+        "Spectral Heart",
+        "/img/i_186_35.webp?x87195"
+      ],
+      [
+        "Sango Pearl",
+        "/img/i_685_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Transience",
+        "/img/i_408_35.webp?x87195"
+      ],
+      [
+        "Hellfire Butterfly",
+        "/img/i_481_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/gorou_055_100.webp?x87195",
+    "Gorou",
+    "4",
+    "bow",
+    "geo",
+    [
+      [
+        "Prithiva Topaz Chunk",
+        "/img/i_363_35.webp?x87195"
+      ],
+      [
+        "Perpetual Heart",
+        "/img/i_211_35.webp?x87195"
+      ],
+      [
+        "Spectral Heart",
+        "/img/i_186_35.webp?x87195"
+      ],
+      [
+        "Sango Pearl",
+        "/img/i_685_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Light",
+        "/img/i_428_35.webp?x87195"
+      ],
+      [
+        "Molten Moment",
+        "/img/i_480_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/sara_056_100.webp?x87195",
+    "Kujou Sara",
+    "4",
+    "bow",
+    "electro",
+    [
+      [
+        "Vajrada Amethyst Chunk",
+        "/img/i_333_35.webp?x87195"
+      ],
+      [
+        "Storm Beads",
+        "/img/i_214_35.webp?x87195"
+      ],
+      [
+        "Stained Mask",
+        "/img/i_32_35.webp?x87195"
+      ],
+      [
+        "Dendrobium",
+        "/img/i_680_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Elegance",
+        "/img/i_418_35.webp?x87195"
+      ],
+      [
+        "Ashen Heart",
+        "/img/i_482_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/itto_057_100.webp?x87195",
+    "Arataki Itto",
+    "5",
+    "claymore",
+    "geo",
+    [
+      [
+        "Prithiva Topaz Chunk",
+        "/img/i_363_35.webp?x87195"
+      ],
+      [
+        "Riftborn Regalia",
+        "/img/i_215_35.webp?x87195"
+      ],
+      [
+        "Slime Secretions",
+        "/img/i_22_35.webp?x87195"
+      ],
+      [
+        "Onikabuto",
+        "/img/i_677_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Elegance",
+        "/img/i_418_35.webp?x87195"
+      ],
+      [
+        "Ashen Heart",
+        "/img/i_482_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/yae_058_100.webp?x87195",
+    "Yae Miko",
+    "5",
+    "catalyst",
+    "electro",
+    [
+      [
+        "Vajrada Amethyst Chunk",
+        "/img/i_333_35.webp?x87195"
+      ],
+      [
+        "Dragonheir's False Fin",
+        "/img/i_216_35.webp?x87195"
+      ],
+      [
+        "Kageuchi Handguard",
+        "/img/i_162_35.webp?x87195"
+      ],
+      [
+        "Sea Ganoderma",
+        "/img/i_675_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Light",
+        "/img/i_428_35.webp?x87195"
+      ],
+      [
+        "The Meaning of Aeons",
+        "/img/i_485_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/heizo_059_100.webp?x87195",
+    "Shikanoin Heizou",
+    "4",
+    "catalyst",
+    "anemo",
+    [
+      [
+        "Vayuda Turquoise Chunk",
+        "/img/i_353_35.webp?x87195"
+      ],
+      [
+        "Runic Fang",
+        "/img/i_486_35.webp?x87195"
+      ],
+      [
+        "Silver Raven Insignia",
+        "/img/i_122_35.webp?x87195"
+      ],
+      [
+        "Onikabuto",
+        "/img/i_677_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Transience",
+        "/img/i_408_35.webp?x87195"
+      ],
+      [
+        "The Meaning of Aeons",
+        "/img/i_485_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/yelan_060_100.webp?x87195",
+    "Yelan",
+    "5",
+    "bow",
+    "hydro",
+    [
+      [
+        "Varunada Lazurite Chunk",
+        "/img/i_323_35.webp?x87195"
+      ],
+      [
+        "Runic Fang",
+        "/img/i_486_35.webp?x87195"
+      ],
+      [
+        "Sergeant's Insignia",
+        "/img/i_112_35.webp?x87195"
+      ],
+      [
+        "Starconch",
+        "/img/i_663_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Prosperity",
+        "/img/i_443_35.webp?x87195"
+      ],
+      [
+        "Gilded Scale",
+        "/img/i_472_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/momoka_061_100.webp?x87195",
+    "Kirara",
+    "4",
+    "sword",
+    "dendro",
+    [
+      [
+        "Nagadus Emerald Chunk",
+        "/img/i_373_35.webp?x87195"
+      ],
+      [
+        "Evergloom Ring",
+        "/img/i_n113045_35.webp?x87195"
+      ],
+      [
+        "Spectral Heart",
+        "/img/i_186_35.webp?x87195"
+      ],
+      [
+        "Amakumo Fruit",
+        "/img/i_686_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Transience",
+        "/img/i_408_35.webp?x87195"
+      ],
+      [
+        "Everamber",
+        "/img/i_n113048_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/aloy_062_100.webp?x87195",
+    "Aloy",
+    "4",
+    "bow",
+    "cryo",
+    [
+      [
+        "Shivada Jade Chunk",
+        "/img/i_343_35.webp?x87195"
+      ],
+      [
+        "Crystalline Bloom",
+        "/img/i_208_35.webp?x87195"
+      ],
+      [
+        "Spectral Heart",
+        "/img/i_186_35.webp?x87195"
+      ],
+      [
+        "Crystal Marrow",
+        "/img/i_679_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Freedom",
+        "/img/i_423_35.webp?x87195"
+      ],
+      [
+        "Molten Moment",
+        "/img/i_480_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/shenhe_063_100.webp?x87195",
+    "Shenhe",
+    "5",
+    "polearm",
+    "cryo",
+    [
+      [
+        "Shivada Jade Chunk",
+        "/img/i_343_35.webp?x87195"
+      ],
+      [
+        "Dragonheir's False Fin",
+        "/img/i_216_35.webp?x87195"
+      ],
+      [
+        "Shimmering Nectar",
+        "/img/i_132_35.webp?x87195"
+      ],
+      [
+        "Qingxin",
+        "/img/i_614_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Prosperity",
+        "/img/i_443_35.webp?x87195"
+      ],
+      [
+        "Hellfire Butterfly",
+        "/img/i_481_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/yunjin_064_100.webp?x87195",
+    "Yun Jin",
+    "4",
+    "polearm",
+    "geo",
+    [
+      [
+        "Prithiva Topaz Chunk",
+        "/img/i_363_35.webp?x87195"
+      ],
+      [
+        "Riftborn Regalia",
+        "/img/i_215_35.webp?x87195"
+      ],
+      [
+        "Stained Mask",
+        "/img/i_32_35.webp?x87195"
+      ],
+      [
+        "Glaze Lily",
+        "/img/i_604_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Diligence",
+        "/img/i_413_35.webp?x87195"
+      ],
+      [
+        "Ashen Heart",
+        "/img/i_482_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/shinobu_065_100.webp?x87195",
+    "Kuki Shinobu",
+    "4",
+    "sword",
+    "electro",
+    [
+      [
+        "Vajrada Amethyst Chunk",
+        "/img/i_333_35.webp?x87195"
+      ],
+      [
+        "Runic Fang",
+        "/img/i_486_35.webp?x87195"
+      ],
+      [
+        "Spectral Heart",
+        "/img/i_186_35.webp?x87195"
+      ],
+      [
+        "Naku Weed",
+        "/img/i_681_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Elegance",
+        "/img/i_418_35.webp?x87195"
+      ],
+      [
+        "Tears of the Calamitous God",
+        "/img/i_484_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/ayato_066_100.webp?x87195",
+    "Kamisato Ayato",
+    "5",
+    "sword",
+    "hydro",
+    [
+      [
+        "Varunada Lazurite Chunk",
+        "/img/i_323_35.webp?x87195"
+      ],
+      [
+        "Dew of Repudiation",
+        "/img/i_213_35.webp?x87195"
+      ],
+      [
+        "Kageuchi Handguard",
+        "/img/i_162_35.webp?x87195"
+      ],
+      [
+        "Sakura Bloom",
+        "/img/i_678_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Elegance",
+        "/img/i_418_35.webp?x87195"
+      ],
+      [
+        "Mudra of the Malefic General",
+        "/img/i_483_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/collei_067_100.webp?x87195",
+    "Collei",
+    "4",
+    "bow",
+    "dendro",
+    [
+      [
+        "Nagadus Emerald Chunk",
+        "/img/i_373_35.webp?x87195"
+      ],
+      [
+        "Majestic Hooked Beak",
+        "/img/i_n113036_35.webp?x87195"
+      ],
+      [
+        "Sharp Arrowhead",
+        "/img/i_52_35.webp?x87195"
+      ],
+      [
+        "Rukkhashava Mushrooms",
+        "/img/i_n101213_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Praxis",
+        "/img/i_n104337_35.webp?x87195"
+      ],
+      [
+        "Tears of the Calamitous God",
+        "/img/i_484_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/dori_068_100.webp?x87195",
+    "Dori",
+    "4",
+    "claymore",
+    "electro",
+    [
+      [
+        "Vajrada Amethyst Chunk",
+        "/img/i_333_35.webp?x87195"
+      ],
+      [
+        "Thunderclap Fruitcore",
+        "/img/i_n113037_35.webp?x87195"
+      ],
+      [
+        "Trimmed Red Silk",
+        "/img/i_n112066_35.webp?x87195"
+      ],
+      [
+        "Kalpalata Lotus",
+        "/img/i_n101217_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Ingenuity",
+        "/img/i_n104334_35.webp?x87195"
+      ],
+      [
+        "Bloodjade Branch",
+        "/img/i_471_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/tighnari_069_100.webp?x87195",
+    "Tighnari",
+    "5",
+    "bow",
+    "dendro",
+    [
+      [
+        "Nagadus Emerald Chunk",
+        "/img/i_373_35.webp?x87195"
+      ],
+      [
+        "Majestic Hooked Beak",
+        "/img/i_n113036_35.webp?x87195"
+      ],
+      [
+        "Luminescent Pollen",
+        "/img/i_n112060_35.webp?x87195"
+      ],
+      [
+        "Nilotpala Lotus",
+        "/img/i_n101215_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Admonition",
+        "/img/i_n104331_35.webp?x87195"
+      ],
+      [
+        "The Meaning of Aeons",
+        "/img/i_485_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/nilou_070_100.webp?x87195",
+    "Nilou",
+    "5",
+    "sword",
+    "hydro",
+    [
+      [
+        "Varunada Lazurite Chunk",
+        "/img/i_323_35.webp?x87195"
+      ],
+      [
+        "Perpetual Caliber",
+        "/img/i_n113038_35.webp?x87195"
+      ],
+      [
+        "Luminescent Pollen",
+        "/img/i_n112060_35.webp?x87195"
+      ],
+      [
+        "Padisarah",
+        "/img/i_n101214_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Praxis",
+        "/img/i_n104337_35.webp?x87195"
+      ],
+      [
+        "Tears of the Calamitous God",
+        "/img/i_484_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/cyno_071_100.webp?x87195",
+    "Cyno",
+    "5",
+    "polearm",
+    "electro",
+    [
+      [
+        "Vajrada Amethyst Chunk",
+        "/img/i_333_35.webp?x87195"
+      ],
+      [
+        "Thunderclap Fruitcore",
+        "/img/i_n113037_35.webp?x87195"
+      ],
+      [
+        "Sealed Scroll",
+        "/img/i_42_35.webp?x87195"
+      ],
+      [
+        "Scarab",
+        "/img/i_n101225_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Admonition",
+        "/img/i_n104331_35.webp?x87195"
+      ],
+      [
+        "Mudra of the Malefic General",
+        "/img/i_483_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/candace_072_100.webp?x87195",
+    "Candace",
+    "4",
+    "polearm",
+    "hydro",
+    [
+      [
+        "Varunada Lazurite Chunk",
+        "/img/i_323_35.webp?x87195"
+      ],
+      [
+        "Light Guiding Tetrahedron",
+        "/img/i_n113039_35.webp?x87195"
+      ],
+      [
+        "Trimmed Red Silk",
+        "/img/i_n112066_35.webp?x87195"
+      ],
+      [
+        "Henna Berry",
+        "/img/i_n101220_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Admonition",
+        "/img/i_n104331_35.webp?x87195"
+      ],
+      [
+        "Tears of the Calamitous God",
+        "/img/i_484_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/nahida_073_100.webp?x87195",
+    "Nahida",
+    "5",
+    "catalyst",
+    "dendro",
+    [
+      [
+        "Nagadus Emerald Chunk",
+        "/img/i_373_35.webp?x87195"
+      ],
+      [
+        "Quelled Creeper",
+        "/img/i_n113040_35.webp?x87195"
+      ],
+      [
+        "Luminescent Pollen",
+        "/img/i_n112060_35.webp?x87195"
+      ],
+      [
+        "Kalpalata Lotus",
+        "/img/i_n101217_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Ingenuity",
+        "/img/i_n104334_35.webp?x87195"
+      ],
+      [
+        "Puppet Strings",
+        "/img/i_n113041_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/layla_074_100.webp?x87195",
+    "Layla",
+    "4",
+    "sword",
+    "cryo",
+    [
+      [
+        "Shivada Jade Chunk",
+        "/img/i_343_35.webp?x87195"
+      ],
+      [
+        "Perpetual Caliber",
+        "/img/i_n113038_35.webp?x87195"
+      ],
+      [
+        "Sealed Scroll",
+        "/img/i_42_35.webp?x87195"
+      ],
+      [
+        "Nilotpala Lotus",
+        "/img/i_n101215_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Ingenuity",
+        "/img/i_n104334_35.webp?x87195"
+      ],
+      [
+        "Mirror of Mushin",
+        "/img/i_n113042_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/wanderer_075_100.webp?x87195",
+    "Wanderer",
+    "5",
+    "catalyst",
+    "anemo",
+    [
+      [
+        "Vayuda Turquoise Chunk",
+        "/img/i_353_35.webp?x87195"
+      ],
+      [
+        "Perpetual Caliber",
+        "/img/i_n113038_35.webp?x87195"
+      ],
+      [
+        "Kageuchi Handguard",
+        "/img/i_162_35.webp?x87195"
+      ],
+      [
+        "Rukkhashava Mushrooms",
+        "/img/i_n101213_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Praxis",
+        "/img/i_n104337_35.webp?x87195"
+      ],
+      [
+        "Daka's Bell",
+        "/img/i_n113043_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/faruzan_076_100.webp?x87195",
+    "Faruzan",
+    "4",
+    "bow",
+    "anemo",
+    [
+      [
+        "Vayuda Turquoise Chunk",
+        "/img/i_353_35.webp?x87195"
+      ],
+      [
+        "Light Guiding Tetrahedron",
+        "/img/i_n113039_35.webp?x87195"
+      ],
+      [
+        "Trimmed Red Silk",
+        "/img/i_n112066_35.webp?x87195"
+      ],
+      [
+        "Henna Berry",
+        "/img/i_n101220_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Admonition",
+        "/img/i_n104331_35.webp?x87195"
+      ],
+      [
+        "Puppet Strings",
+        "/img/i_n113041_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/yaoyao_077_100.webp?x87195",
+    "Yaoyao",
+    "4",
+    "polearm",
+    "dendro",
+    [
+      [
+        "Nagadus Emerald Chunk",
+        "/img/i_373_35.webp?x87195"
+      ],
+      [
+        "Quelled Creeper",
+        "/img/i_n113040_35.webp?x87195"
+      ],
+      [
+        "Slime Secretions",
+        "/img/i_22_35.webp?x87195"
+      ],
+      [
+        "Jueyun Chili",
+        "/img/i_605_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Diligence",
+        "/img/i_413_35.webp?x87195"
+      ],
+      [
+        "Daka's Bell",
+        "/img/i_n113043_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/alhatham_078_100.webp?x87195",
+    "Alhaitham",
+    "5",
+    "sword",
+    "dendro",
+    [
+      [
+        "Nagadus Emerald Chunk",
+        "/img/i_373_35.webp?x87195"
+      ],
+      [
+        "Pseudo-Stamens",
+        "/img/i_n113044_35.webp?x87195"
+      ],
+      [
+        "Trimmed Red Silk",
+        "/img/i_n112066_35.webp?x87195"
+      ],
+      [
+        "Sand Grease Pupa",
+        "/img/i_n101222_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Ingenuity",
+        "/img/i_n104334_35.webp?x87195"
+      ],
+      [
+        "Mirror of Mushin",
+        "/img/i_n113042_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/dehya_079_100.webp?x87195",
+    "Dehya",
+    "5",
+    "claymore",
+    "pyro",
+    [
+      [
+        "Agnidus Agate Chunk",
+        "/img/i_313_35.webp?x87195"
+      ],
+      [
+        "Light Guiding Tetrahedron",
+        "/img/i_n113039_35.webp?x87195"
+      ],
+      [
+        "Trimmed Red Silk",
+        "/img/i_n112066_35.webp?x87195"
+      ],
+      [
+        "Sand Grease Pupa",
+        "/img/i_n101222_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Praxis",
+        "/img/i_n104337_35.webp?x87195"
+      ],
+      [
+        "Puppet Strings",
+        "/img/i_n113041_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/mika_080_100.webp?x87195",
+    "Mika",
+    "4",
+    "polearm",
+    "cryo",
+    [
+      [
+        "Shivada Jade Chunk",
+        "/img/i_343_35.webp?x87195"
+      ],
+      [
+        "Pseudo-Stamens",
+        "/img/i_n113044_35.webp?x87195"
+      ],
+      [
+        "Sergeant's Insignia",
+        "/img/i_112_35.webp?x87195"
+      ],
+      [
+        "Wolfhook",
+        "/img/i_613_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Ballad",
+        "/img/i_403_35.webp?x87195"
+      ],
+      [
+        "Mirror of Mushin",
+        "/img/i_n113042_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/kaveh_081_100.webp?x87195",
+    "Kaveh",
+    "4",
+    "claymore",
+    "dendro",
+    [
+      [
+        "Nagadus Emerald Chunk",
+        "/img/i_373_35.webp?x87195"
+      ],
+      [
+        "Quelled Creeper",
+        "/img/i_n113040_35.webp?x87195"
+      ],
+      [
+        "Luminescent Pollen",
+        "/img/i_n112060_35.webp?x87195"
+      ],
+      [
+        "Mourning Flower",
+        "/img/i_n101223_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Ingenuity",
+        "/img/i_n104334_35.webp?x87195"
+      ],
+      [
+        "Primordial Greenbloom",
+        "/img/i_n113047_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/baizhuer_082_100.webp?x87195",
+    "Baizhu",
+    "5",
+    "catalyst",
+    "dendro",
+    [
+      [
+        "Nagadus Emerald Chunk",
+        "/img/i_373_35.webp?x87195"
+      ],
+      [
+        "Evergloom Ring",
+        "/img/i_n113045_35.webp?x87195"
+      ],
+      [
+        "Luminescent Pollen",
+        "/img/i_n112060_35.webp?x87195"
+      ],
+      [
+        "Violetgrass",
+        "/img/i_611_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Gold",
+        "/img/i_433_35.webp?x87195"
+      ],
+      [
+        "Worldspan Fern",
+        "/img/i_n113046_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/linette_083_100.webp?x87195",
+    "Lynette",
+    "4",
+    "sword",
+    "anemo",
+    [
+      [
+        "Vayuda Turquoise Chunk",
+        "/img/i_353_35.webp?x87195"
+      ],
+      [
+        "Artificed Spare Clockwork Component — Coppelia",
+        "/img/i_n113049_35.webp?x87195"
+      ],
+      [
+        "Mechanical Spur Gear",
+        "/img/i_n112084_35.webp?x87195"
+      ],
+      [
+        "Lumidouce Bell",
+        "/img/i_n101235_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Order",
+        "/img/i_n104346_35.webp?x87195"
+      ],
+      [
+        "Everamber",
+        "/img/i_n113048_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/liney_084_100.webp?x87195",
+    "Lyney",
+    "5",
+    "bow",
+    "pyro",
+    [
+      [
+        "Agnidus Agate Chunk",
+        "/img/i_313_35.webp?x87195"
+      ],
+      [
+        "Emperor's Resolution",
+        "/img/i_n113051_35.webp?x87195"
+      ],
+      [
+        "Sergeant's Insignia",
+        "/img/i_112_35.webp?x87195"
+      ],
+      [
+        "Rainbow Rose",
+        "/img/i_n101236_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Equity",
+        "/img/i_n104340_35.webp?x87195"
+      ],
+      [
+        "Primordial Greenbloom",
+        "/img/i_n113047_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/freminet_085_100.webp?x87195",
+    "Freminet",
+    "4",
+    "claymore",
+    "cryo",
+    [
+      [
+        "Shivada Jade Chunk",
+        "/img/i_343_35.webp?x87195"
+      ],
+      [
+        "Artificed Spare Clockwork Component — Coppelius",
+        "/img/i_n113050_35.webp?x87195"
+      ],
+      [
+        "Transoceanic Chunk",
+        "/img/i_n112081_35.webp?x87195"
+      ],
+      [
+        "Romaritime Flower",
+        "/img/i_n101233_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Justice",
+        "/img/i_n104343_35.webp?x87195"
+      ],
+      [
+        "Worldspan Fern",
+        "/img/i_n113046_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/wriothesley_086_100.webp?x87195",
+    "Wriothesley",
+    "5",
+    "catalyst",
+    "cryo",
+    [
+      [
+        "Shivada Jade Chunk",
+        "/img/i_343_35.webp?x87195"
+      ],
+      [
+        "",
+        "/img/i_n113052_35.webp?x87195"
+      ],
+      [
+        "Mechanical Spur Gear",
+        "/img/i_n112084_35.webp?x87195"
+      ],
+      [
+        "Subdetection Unit",
+        "/img/i_n101239_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Order",
+        "/img/i_n104346_35.webp?x87195"
+      ],
+      [
+        "Primordial Greenbloom",
+        "/img/i_n113047_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/neuvillette_087_100.webp?x87195",
+    "Neuvillette",
+    "5",
+    "catalyst",
+    "hydro",
+    [
+      [
+        "Varunada Lazurite Chunk",
+        "/img/i_323_35.webp?x87195"
+      ],
+      [
+        "Fontemer Unihorn",
+        "/img/i_n113053_35.webp?x87195"
+      ],
+      [
+        "Transoceanic Chunk",
+        "/img/i_n112081_35.webp?x87195"
+      ],
+      [
+        "Lumitoile",
+        "/img/i_n101237_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Equity",
+        "/img/i_n104340_35.webp?x87195"
+      ],
+      [
+        "Everamber",
+        "/img/i_n113048_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/charlotte_088_100.webp?x87195",
+    "Charlotte",
+    "4",
+    "catalyst",
+    "cryo",
+    [
+      [
+        "Shivada Jade Chunk",
+        "/img/i_343_35.webp?x87195"
+      ],
+      [
+        "",
+        "/img/i_n113052_35.webp?x87195"
+      ],
+      [
+        "Mechanical Spur Gear",
+        "/img/i_n112084_35.webp?x87195"
+      ],
+      [
+        "Beryl Conch",
+        "/img/i_n101232_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Justice",
+        "/img/i_n104343_35.webp?x87195"
+      ],
+      [
+        "Lightless Silk String",
+        "/img/i_n113054_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/furina_089_100.webp?x87195",
+    "Furina",
+    "5",
+    "sword",
+    "hydro",
+    [
+      [
+        "Varunada Lazurite Chunk",
+        "/img/i_323_35.webp?x87195"
+      ],
+      [
+        "Water That Failed To Transcend",
+        "/img/i_n113057_35.webp?x87195"
+      ],
+      [
+        "Shimmering Nectar",
+        "/img/i_132_35.webp?x87195"
+      ],
+      [
+        "Lakelight Lily",
+        "/img/i_n101238_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Justice",
+        "/img/i_n104343_35.webp?x87195"
+      ],
+      [
+        "Lightless Mass",
+        "/img/i_n113056_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/chevreuse_090_100.webp?x87195",
+    "Chevreuse",
+    "4",
+    "polearm",
+    "pyro",
+    [
+      [
+        "Agnidus Agate Chunk",
+        "/img/i_313_35.webp?x87195"
+      ],
+      [
+        "Fontemer Unihorn",
+        "/img/i_n113053_35.webp?x87195"
+      ],
+      [
+        "Mechanical Spur Gear",
+        "/img/i_n112084_35.webp?x87195"
+      ],
+      [
+        "Lumidouce Bell",
+        "/img/i_n101235_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Order",
+        "/img/i_n104346_35.webp?x87195"
+      ],
+      [
+        "Lightless Eye of the Maelstrom",
+        "/img/i_n113055_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/navia_091_100.webp?x87195",
+    "Navia",
+    "5",
+    "claymore",
+    "geo",
+    [
+      [
+        "Prithiva Topaz Chunk",
+        "/img/i_363_35.webp?x87195"
+      ],
+      [
+        "Artificed Spare Clockwork Component — Coppelius",
+        "/img/i_n113050_35.webp?x87195"
+      ],
+      [
+        "Transoceanic Chunk",
+        "/img/i_n112081_35.webp?x87195"
+      ],
+      [
+        "Spring of the First Dewdrop",
+        "/img/i_n101240_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Equity",
+        "/img/i_n104340_35.webp?x87195"
+      ],
+      [
+        "Lightless Silk String",
+        "/img/i_n113054_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/gaming_092_100.webp?x87195",
+    "Gaming",
+    "4",
+    "claymore",
+    "pyro",
+    [
+      [
+        "Agnidus Agate Chunk",
+        "/img/i_313_35.webp?x87195"
+      ],
+      [
+        "Emperor's Resolution",
+        "/img/i_n113051_35.webp?x87195"
+      ],
+      [
+        "Slime Secretions",
+        "/img/i_22_35.webp?x87195"
+      ],
+      [
+        "Starconch",
+        "/img/i_663_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Prosperity",
+        "/img/i_443_35.webp?x87195"
+      ],
+      [
+        "Lightless Mass",
+        "/img/i_n113056_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/liuyun_093_100.webp?x87195",
+    "Xianyun",
+    "5",
+    "catalyst",
+    "anemo",
+    [
+      [
+        "Vayuda Turquoise Chunk",
+        "/img/i_353_35.webp?x87195"
+      ],
+      [
+        "Cloudseam Scale",
+        "/img/i_n113058_35.webp?x87195"
+      ],
+      [
+        "Sealed Scroll",
+        "/img/i_42_35.webp?x87195"
+      ],
+      [
+        "Clearwater Jade",
+        "/img/i_n101241_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Gold",
+        "/img/i_433_35.webp?x87195"
+      ],
+      [
+        "Lightless Eye of the Maelstrom",
+        "/img/i_n113055_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/chiori_094_100.webp?x87195",
+    "Chiori",
+    "5",
+    "sword",
+    "geo",
+    [
+      [
+        "Prithiva Topaz Chunk",
+        "/img/i_363_35.webp?x87195"
+      ],
+      [
+        "Artificed Spare Clockwork Component — Coppelia",
+        "/img/i_n113049_35.webp?x87195"
+      ],
+      [
+        "Spectral Heart",
+        "/img/i_186_35.webp?x87195"
+      ],
+      [
+        "Dendrobium",
+        "/img/i_680_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Light",
+        "/img/i_428_35.webp?x87195"
+      ],
+      [
+        "Lightless Silk String",
+        "/img/i_n113054_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/sigewinne_095_100.webp?x87195",
+    "Sigewinne",
+    "5",
+    "bow",
+    "hydro",
+    [
+      [
+        "Varunada Lazurite Chunk",
+        "/img/i_323_35.webp?x87195"
+      ],
+      [
+        "Water That Failed To Transcend",
+        "/img/i_n113057_35.webp?x87195"
+      ],
+      [
+        "Transoceanic Chunk",
+        "/img/i_n112081_35.webp?x87195"
+      ],
+      [
+        "Romaritime Flower",
+        "/img/i_n101233_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Equity",
+        "/img/i_n104340_35.webp?x87195"
+      ],
+      [
+        "Lightless Eye of the Maelstrom",
+        "/img/i_n113055_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/arlecchino_096_100.webp?x87195",
+    "Arlecchino",
+    "5",
+    "polearm",
+    "pyro",
+    [
+      [
+        "Agnidus Agate Chunk",
+        "/img/i_313_35.webp?x87195"
+      ],
+      [
+        "Fragment of a Golden Melody",
+        "/img/i_n113059_35.webp?x87195"
+      ],
+      [
+        "Sergeant's Insignia",
+        "/img/i_112_35.webp?x87195"
+      ],
+      [
+        "Rainbow Rose",
+        "/img/i_n101236_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Order",
+        "/img/i_n104346_35.webp?x87195"
+      ],
+      [
+        "Fading Candle",
+        "/img/i_n113060_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/sethos_097_100.webp?x87195",
+    "Sethos",
+    "4",
+    "bow",
+    "electro",
+    [
+      [
+        "Vajrada Amethyst Chunk",
+        "/img/i_333_35.webp?x87195"
+      ],
+      [
+        "Cloudseam Scale",
+        "/img/i_n113058_35.webp?x87195"
+      ],
+      [
+        "Trimmed Red Silk",
+        "/img/i_n112066_35.webp?x87195"
+      ],
+      [
+        "Trishiraite",
+        "/img/i_n101224_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Praxis",
+        "/img/i_n104337_35.webp?x87195"
+      ],
+      [
+        "Daka's Bell",
+        "/img/i_n113043_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/clorinde_098_100.webp?x87195",
+    "Clorinde",
+    "5",
+    "sword",
+    "electro",
+    [
+      [
+        "Vajrada Amethyst Chunk",
+        "/img/i_333_35.webp?x87195"
+      ],
+      [
+        "Fontemer Unihorn",
+        "/img/i_n113053_35.webp?x87195"
+      ],
+      [
+        "Transoceanic Chunk",
+        "/img/i_n112081_35.webp?x87195"
+      ],
+      [
+        "Lumitoile",
+        "/img/i_n101237_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Justice",
+        "/img/i_n104343_35.webp?x87195"
+      ],
+      [
+        "Everamber",
+        "/img/i_n113048_35.webp?x87195"
+      ]
+    ]
+  ],
+  [
+    "/img/emilie_099_100.webp?x87195",
+    "Emilie",
+    "5",
+    "polearm",
+    "dendro",
+    [
+      [
+        "Nagadus Emerald Chunk",
+        "/img/i_373_35.webp?x87195"
+      ],
+      [
+        "Fragment of a Golden Melody",
+        "/img/i_n113059_35.webp?x87195"
+      ],
+      [
+        "Mechanical Spur Gear",
+        "/img/i_n112084_35.webp?x87195"
+      ],
+      [
+        "Lakelight Lily",
+        "/img/i_n101238_35.webp?x87195"
+      ],
+      [
+        "Philosophies of Order",
+        "/img/i_n104346_35.webp?x87195"
+      ],
+      [
+        "Silken Feather",
+        "/img/i_n113061_35.webp?x87195"
+      ]
+    ]
+  ]
+]

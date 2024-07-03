@@ -1,0 +1,562 @@
+[
+ {
+  "en_US": "Shivada Jade Chunk",
+  "zh_CN": "哀叙冰玉块"
+ },
+ {
+  "en_US": "Perpetual Heart",
+  "zh_CN": "恒常机关之心"
+ },
+ {
+  "en_US": "Kageuchi Handguard",
+  "zh_CN": "影打刀镡"
+ },
+ {
+  "en_US": "Sakura Bloom",
+  "zh_CN": "绯樱绣球"
+ },
+ {
+  "en_US": "Philosophies of Elegance",
+  "zh_CN": "「风雅」的哲学"
+ },
+ {
+  "en_US": "Bloodjade Branch",
+  "zh_CN": "血玉之枝"
+ },
+ {
+  "en_US": "Vayuda Turquoise Chunk",
+  "zh_CN": "自在松石块"
+ },
+ {
+  "en_US": "Hurricane Seed",
+  "zh_CN": "飓风之种"
+ },
+ {
+  "en_US": "Stained Mask",
+  "zh_CN": "污秽的面具"
+ },
+ {
+  "en_US": "Dandelion Seed",
+  "zh_CN": "蒲公英籽"
+ },
+ {
+  "en_US": "Philosophies of Resistance",
+  "zh_CN": "「抗争」的哲学"
+ },
+ {
+  "en_US": "Dvalin's Plume",
+  "zh_CN": "东风之翎"
+ },
+ {
+  "en_US": "Brilliant Diamond Chunk",
+  "zh_CN": "璀璨原钻块"
+ },
+ {
+  "en_US": "Windwheel Aster",
+  "zh_CN": "风车菊"
+ },
+ {
+  "en_US": "Guide to Ingenuity",
+  "zh_CN": "「巧思」的指引"
+ },
+ {
+  "en_US": "Philosophies of Praxis",
+  "zh_CN": "「笃行」的哲学"
+ },
+ {
+  "en_US": "Vajrada Amethyst Chunk",
+  "zh_CN": "最胜紫晶块"
+ },
+ {
+  "en_US": "Lightning Prism",
+  "zh_CN": "雷光棱镜"
+ },
+ {
+  "en_US": "Slime Secretions",
+  "zh_CN": "史莱姆清"
+ },
+ {
+  "en_US": "Valberry",
+  "zh_CN": "落落莓"
+ },
+ {
+  "en_US": "Philosophies of Ballad",
+  "zh_CN": "「诗文」的哲学"
+ },
+ {
+  "en_US": "Dvalin's Claw",
+  "zh_CN": "东风之爪"
+ },
+ {
+  "en_US": "Varunada Lazurite Chunk",
+  "zh_CN": "涤净青金块"
+ },
+ {
+  "en_US": "Cleansing Heart",
+  "zh_CN": "净水之心"
+ },
+ {
+  "en_US": "Sealed Scroll",
+  "zh_CN": "封魔绘卷"
+ },
+ {
+  "en_US": "Philanemo Mushroom",
+  "zh_CN": "慕风蘑菇"
+ },
+ {
+  "en_US": "Philosophies of Freedom",
+  "zh_CN": "「自由」的哲学"
+ },
+ {
+  "en_US": "Ring of Boreas",
+  "zh_CN": "北风之环"
+ },
+ {
+  "en_US": "Hoarfrost Core",
+  "zh_CN": "极寒之核"
+ },
+ {
+  "en_US": "Silver Raven Insignia",
+  "zh_CN": "藏银鸦印"
+ },
+ {
+  "en_US": "Calla Lily",
+  "zh_CN": "嘟嘟莲"
+ },
+ {
+  "en_US": "Spirit Locket of Boreas",
+  "zh_CN": "北风的魂匣"
+ },
+ {
+  "en_US": "Agnidus Agate Chunk",
+  "zh_CN": "燃愿玛瑙块"
+ },
+ {
+  "en_US": "Everflame Seed",
+  "zh_CN": "常燃火种"
+ },
+ {
+  "en_US": "Sergeant's Insignia",
+  "zh_CN": "士官的徽记"
+ },
+ {
+  "en_US": "Small Lamp Grass",
+  "zh_CN": "小灯草"
+ },
+ {
+  "en_US": "Wolfhook",
+  "zh_CN": "钩钩果"
+ },
+ {
+  "en_US": "Sharp Arrowhead",
+  "zh_CN": "锐利的箭簇"
+ },
+ {
+  "en_US": "Dvalin's Sigh",
+  "zh_CN": "东风的吐息"
+ },
+ {
+  "en_US": "Cecilia",
+  "zh_CN": "塞西莉亚花"
+ },
+ {
+  "en_US": "Tail of Boreas",
+  "zh_CN": "北风之尾"
+ },
+ {
+  "en_US": "Jueyun Chili",
+  "zh_CN": "绝云椒椒"
+ },
+ {
+  "en_US": "Philosophies of Diligence",
+  "zh_CN": "「勤劳」的哲学"
+ },
+ {
+  "en_US": "Noctilucous Jade",
+  "zh_CN": "夜泊石"
+ },
+ {
+  "en_US": "Philosophies of Gold",
+  "zh_CN": "「黄金」的哲学"
+ },
+ {
+  "en_US": "Silk Flower",
+  "zh_CN": "霓裳花"
+ },
+ {
+  "en_US": "Juvenile Jade",
+  "zh_CN": "未熟之玉"
+ },
+ {
+  "en_US": "Qingxin",
+  "zh_CN": "清心"
+ },
+ {
+  "en_US": "Philosophies of Prosperity",
+  "zh_CN": "「繁荣」的哲学"
+ },
+ {
+  "en_US": "Shadow of the Warrior",
+  "zh_CN": "武炼之魂·孤影"
+ },
+ {
+  "en_US": "Prithiva Topaz Chunk",
+  "zh_CN": "坚牢黄玉块"
+ },
+ {
+  "en_US": "Basalt Pillar",
+  "zh_CN": "玄岩之塔"
+ },
+ {
+  "en_US": "Glaze Lily",
+  "zh_CN": "琉璃百合"
+ },
+ {
+  "en_US": "Cor Lapis",
+  "zh_CN": "石珀"
+ },
+ {
+  "en_US": "Tusk of Monoceros Caeli",
+  "zh_CN": "吞天之鲸·只角"
+ },
+ {
+  "en_US": "Starconch",
+  "zh_CN": "星螺"
+ },
+ {
+  "en_US": "Shard of a Foul Legacy",
+  "zh_CN": "魔王之刃·残片"
+ },
+ {
+  "en_US": "Violetgrass",
+  "zh_CN": "琉璃袋"
+ },
+ {
+  "en_US": "Shimmering Nectar",
+  "zh_CN": "微光花蜜"
+ },
+ {
+  "en_US": "Marionette Core",
+  "zh_CN": "魔偶机心"
+ },
+ {
+  "en_US": "Sea Ganoderma",
+  "zh_CN": "海灵芝"
+ },
+ {
+  "en_US": "Gilded Scale",
+  "zh_CN": "鎏金之鳞"
+ },
+ {
+  "en_US": "Smoldering Pearl",
+  "zh_CN": "阴燃之珠"
+ },
+ {
+  "en_US": "Naku Weed",
+  "zh_CN": "鸣草"
+ },
+ {
+  "en_US": "Philosophies of Transience",
+  "zh_CN": "「浮世」的哲学"
+ },
+ {
+  "en_US": "Dragon Lord's Crown",
+  "zh_CN": "龙王之冕"
+ },
+ {
+  "en_US": "Fluorescent Fungus",
+  "zh_CN": "幽灯蕈"
+ },
+ {
+  "en_US": "Hellfire Butterfly",
+  "zh_CN": "狱火之蝶"
+ },
+ {
+  "en_US": "Crystalline Bloom",
+  "zh_CN": "晶凝之华"
+ },
+ {
+  "en_US": "Storm Beads",
+  "zh_CN": "雷霆数珠"
+ },
+ {
+  "en_US": "Amakumo Fruit",
+  "zh_CN": "天云草实"
+ },
+ {
+  "en_US": "Philosophies of Light",
+  "zh_CN": "「天光」的哲学"
+ },
+ {
+  "en_US": "Molten Moment",
+  "zh_CN": "熔毁之刻"
+ },
+ {
+  "en_US": "Crystal Marrow",
+  "zh_CN": "晶化骨髓"
+ },
+ {
+  "en_US": "Dew of Repudiation",
+  "zh_CN": "排异之露"
+ },
+ {
+  "en_US": "Spectral Heart",
+  "zh_CN": "浮游幽核"
+ },
+ {
+  "en_US": "Sango Pearl",
+  "zh_CN": "珊瑚真珠"
+ },
+ {
+  "en_US": "Dendrobium",
+  "zh_CN": "血斛"
+ },
+ {
+  "en_US": "Ashen Heart",
+  "zh_CN": "灰烬之心"
+ },
+ {
+  "en_US": "Riftborn Regalia",
+  "zh_CN": "兽境王器"
+ },
+ {
+  "en_US": "Onikabuto",
+  "zh_CN": "鬼兜虫"
+ },
+ {
+  "en_US": "Dragonheir's False Fin",
+  "zh_CN": "龙嗣伪鳍"
+ },
+ {
+  "en_US": "The Meaning of Aeons",
+  "zh_CN": "万劫之真意"
+ },
+ {
+  "en_US": "Runic Fang",
+  "zh_CN": "符纹之齿"
+ },
+ {
+  "en_US": "Nagadus Emerald Chunk",
+  "zh_CN": "生长碧翡块"
+ },
+ {
+  "en_US": "Evergloom Ring",
+  "zh_CN": "常暗圆环"
+ },
+ {
+  "en_US": "Everamber",
+  "zh_CN": "亘古树海之一瞬"
+ },
+ {
+  "en_US": "Tears of the Calamitous God",
+  "zh_CN": "祸神之禊泪"
+ },
+ {
+  "en_US": "Mudra of the Malefic General",
+  "zh_CN": "凶将之手眼"
+ },
+ {
+  "en_US": "Majestic Hooked Beak",
+  "zh_CN": "蕈王钩喙"
+ },
+ {
+  "en_US": "Rukkhashava Mushrooms",
+  "zh_CN": "树王圣体菇"
+ },
+ {
+  "en_US": "Thunderclap Fruitcore",
+  "zh_CN": "藏雷野实"
+ },
+ {
+  "en_US": "Trimmed Red Silk",
+  "zh_CN": "镶边红绸"
+ },
+ {
+  "en_US": "Kalpalata Lotus",
+  "zh_CN": "劫波莲"
+ },
+ {
+  "en_US": "Philosophies of Ingenuity",
+  "zh_CN": "「巧思」的哲学"
+ },
+ {
+  "en_US": "Luminescent Pollen",
+  "zh_CN": "荧光孢粉"
+ },
+ {
+  "en_US": "Nilotpala Lotus",
+  "zh_CN": "月莲"
+ },
+ {
+  "en_US": "Philosophies of Admonition",
+  "zh_CN": "「诤言」的哲学"
+ },
+ {
+  "en_US": "Perpetual Caliber",
+  "zh_CN": "永续机芯"
+ },
+ {
+  "en_US": "Padisarah",
+  "zh_CN": "帕蒂沙兰"
+ },
+ {
+  "en_US": "Scarab",
+  "zh_CN": "圣金虫"
+ },
+ {
+  "en_US": "Light Guiding Tetrahedron",
+  "zh_CN": "导光四面体"
+ },
+ {
+  "en_US": "Henna Berry",
+  "zh_CN": "赤念果"
+ },
+ {
+  "en_US": "Quelled Creeper",
+  "zh_CN": "灭诤草蔓"
+ },
+ {
+  "en_US": "Puppet Strings",
+  "zh_CN": "傀儡的悬丝"
+ },
+ {
+  "en_US": "Mirror of Mushin",
+  "zh_CN": "无心的渊镜"
+ },
+ {
+  "en_US": "Daka's Bell",
+  "zh_CN": "空行的虚铃"
+ },
+ {
+  "en_US": "Pseudo-Stamens",
+  "zh_CN": "苍砾蕊羽"
+ },
+ {
+  "en_US": "Sand Grease Pupa",
+  "zh_CN": "沙脂蛹"
+ },
+ {
+  "en_US": "Mourning Flower",
+  "zh_CN": "悼灵花"
+ },
+ {
+  "en_US": "Primordial Greenbloom",
+  "zh_CN": "原初绿洲之初绽"
+ },
+ {
+  "en_US": "Worldspan Fern",
+  "zh_CN": "生长天地之蕨草"
+ },
+ {
+  "en_US": "Artificed Spare Clockwork Component — Coppelia",
+  "zh_CN": "奇械发条备件·歌裴莉娅"
+ },
+ {
+  "en_US": "Mechanical Spur Gear",
+  "zh_CN": "机关正齿轮"
+ },
+ {
+  "en_US": "Lumidouce Bell",
+  "zh_CN": "柔灯铃"
+ },
+ {
+  "en_US": "Philosophies of Order",
+  "zh_CN": "「秩序」的哲学"
+ },
+ {
+  "en_US": "Emperor's Resolution",
+  "zh_CN": "帝皇的决断"
+ },
+ {
+  "en_US": "Rainbow Rose",
+  "zh_CN": "虹彩蔷薇"
+ },
+ {
+  "en_US": "Philosophies of Equity",
+  "zh_CN": "「公平」的哲学"
+ },
+ {
+  "en_US": "Artificed Spare Clockwork Component — Coppelius",
+  "zh_CN": "奇械发条备件·科培琉司"
+ },
+ {
+  "en_US": "Transoceanic Chunk",
+  "zh_CN": "异海之块"
+ },
+ {
+  "en_US": "Romaritime Flower",
+  "zh_CN": "海露花"
+ },
+ {
+  "en_US": "Philosophies of Justice",
+  "zh_CN": "「正义」的哲学"
+ },
+ {
+  "en_US": "",
+  "zh_CN": "「图比昂装置」"
+ },
+ {
+  "en_US": "Subdetection Unit",
+  "zh_CN": "子探测单元"
+ },
+ {
+  "en_US": "Fontemer Unihorn",
+  "zh_CN": "原海麟角"
+ },
+ {
+  "en_US": "Lumitoile",
+  "zh_CN": "幽光星星"
+ },
+ {
+  "en_US": "Beryl Conch",
+  "zh_CN": "苍晶螺"
+ },
+ {
+  "en_US": "Lightless Silk String",
+  "zh_CN": "无光丝线"
+ },
+ {
+  "en_US": "Water That Failed To Transcend",
+  "zh_CN": "未能达成超越之水"
+ },
+ {
+  "en_US": "Lakelight Lily",
+  "zh_CN": "湖光铃兰"
+ },
+ {
+  "en_US": "Lightless Mass",
+  "zh_CN": "无光质块"
+ },
+ {
+  "en_US": "Lightless Eye of the Maelstrom",
+  "zh_CN": "无光涡眼"
+ },
+ {
+  "en_US": "Spring of the First Dewdrop",
+  "zh_CN": "初露之源"
+ },
+ {
+  "en_US": "Cloudseam Scale",
+  "zh_CN": "凝云鳞甲"
+ },
+ {
+  "en_US": "Clearwater Jade",
+  "zh_CN": "清水玉"
+ },
+ {
+  "en_US": "Fragment of a Golden Melody",
+  "zh_CN": "金色旋律的断章"
+ },
+ {
+  "en_US": "Fading Candle",
+  "zh_CN": "残火灯烛"
+ },
+ {
+  "en_US": "Trishiraite",
+  "zh_CN": "万相石"
+ },
+ {
+  "en_US": "Silken Feather",
+  "zh_CN": "丝织之羽"
+ }
+]
