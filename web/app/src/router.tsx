@@ -1,15 +1,29 @@
 import React from 'react'
 import { RouteObject, Link } from 'react-router-dom'
-import { Characters } from './views/Characters'
+import { CharacterInfo } from './views/Character-Info'
 import { Home } from './views/home'
+import { CharacterList } from './views/Character-List'
+import { Layout } from './layout'
 
 export const routes: RouteObject[] = [
   {
     path: '/',
-    element: <Home />
-  },
-  {
-    path: '/characters',
-    element: <Characters />
-  },
+    element: <Layout />,
+    children: [
+      {
+        path: '/Genshin_Impact',
+        element: <Home />
+      },
+      {
+        path: '/Genshin_Impact/character/list',
+        element: <CharacterList />
+      },
+      {
+        path: '/Genshin_Impact/character/info',
+        element: <CharacterInfo />
+      }
+    ]
+  }
 ]
+
+// Genshin_Impact

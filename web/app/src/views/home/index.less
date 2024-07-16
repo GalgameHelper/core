@@ -1,39 +1,25 @@
+.flex() {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
 .home {
-
-  .character-card-list {
-    display: flex;
-    padding: 24px;
-    gap: 10px;
-
-    .card {
-      cursor: pointer;
-    }
+  .modules {
+    .flex();
+    padding-top: 30px;
   }
 
-  .characters {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 8px;
-
+  .module {
+    .flex();
+    width: 300px;
+    height: 80px;
+    background: #333;
     border-radius: 12px;
-    padding: 12px;
-
-    .character-item {
-      display: flex;
-      flex-wrap: wrap;
-      padding: 16px;
-      border-radius: 32px;
-
-      gap: 10px;
-      background-color: rgba(255, 255, 255, .15);
-      box-shadow: 0 0 3px rgba(255, 255, 255, .1);
-
-      img {
-        width: 100px;
-        height: 100px;
-      }
-    }
+    text-shadow: #999;
+    font-weight: bold;
+    box-shadow: 0 0 3px #333;
   }
 }

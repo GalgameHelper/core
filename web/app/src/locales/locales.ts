@@ -1,6 +1,7 @@
 import { ObjectType } from '0type';
 
 export const locales: ObjectType<string> = {
+  'ascension-materials':'突破材料',
   sex: '性别',
   'sex.en_US': 'Sex',
   race: '种族',
