@@ -9,14 +9,14 @@ export interface ComponentProps {
 }
 export type URLType = string | any
 
-export type NameType = {
+export type I18nField = {
   zh_CN: string
   en_US: string
   [key: string]: any
 }
 
 export interface CharacterType {
-  name: NameType
+  name: I18nField
   rarity: string
   weapon: string
   element: string
@@ -31,3 +31,5 @@ export interface CharacterType {
   // ][]
   [key: string]: any
 }
+
+export type ArtifactSetType = [I18nField, I18nField]

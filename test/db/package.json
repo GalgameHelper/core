@@ -7,6 +7,7 @@
   "scripts": {
     "start": "nodemon ./src/index.js",
     "wash": "nodemon ./src/wash.js",
+    "wash.AS": "nodemon ./src/Artifact-Set/index.js",
     "rep": "nodemon ./src/rep.js"
   },
   "keywords": [],

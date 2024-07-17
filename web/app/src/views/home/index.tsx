@@ -20,7 +20,12 @@ export function Home() {
       url: '/Genshin_Impact/ascension_material/list',
       logo: require('@/assets/img/logo/ascension-material.webp'),
       name: '突破材料'
-    }
+    },
+    {
+      url: '/Genshin_Impact/artifact_set/list',
+      logo: require('@/assets/img/logo/artifact-set.webp'),
+      name: '圣遗物'
+    },
   ]
 
   return (

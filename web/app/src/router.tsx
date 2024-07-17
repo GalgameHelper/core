@@ -5,6 +5,7 @@ import { Home } from './views/home'
 import { CharacterList } from './views/Character-List'
 import { Layout } from './layout'
 import { AscensionMaterials } from './views/ascension-materials'
+import { ArtifactSet } from './views/Artifact-Set'
 
 export const routes: RouteObject[] = [
   {
@@ -26,7 +27,11 @@ export const routes: RouteObject[] = [
       {
         path: '/Genshin_Impact/ascension_material/list',
         element: <AscensionMaterials />
-      }
+      },
+      {
+        path: '/Genshin_Impact/artifact_set/list',
+        element: <ArtifactSet />
+      },
     ]
   }
 ]

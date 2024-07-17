@@ -1,0 +1,29 @@
+.artifactSet-list {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 10px;
+  padding: 10px 24px;
+
+  span {
+    display: flex;
+    gap: 5px;
+    background: #333;
+    border-radius: 12px;
+    text-shadow: #999;
+    font-weight: bold;
+    box-shadow: 0 0 3px #333;
+    padding: 12px 20px;
+  }
+
+  .name {
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .desc {
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+}
