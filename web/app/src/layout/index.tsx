@@ -1,4 +1,3 @@
-import { ComponentProps } from '@/type'
 import React from 'react'
 import { Header } from './header'
 import './index.less'

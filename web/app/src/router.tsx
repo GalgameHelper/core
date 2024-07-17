@@ -4,6 +4,7 @@ import { CharacterInfo } from './views/Character-Info'
 import { Home } from './views/home'
 import { CharacterList } from './views/Character-List'
 import { Layout } from './layout'
+import { AscensionMaterials } from './views/ascension-materials'
 
 export const routes: RouteObject[] = [
   {
@@ -21,6 +22,10 @@ export const routes: RouteObject[] = [
       {
         path: '/Genshin_Impact/character/info',
         element: <CharacterInfo />
+      },
+      {
+        path: '/Genshin_Impact/ascension_material/list',
+        element: <AscensionMaterials />
       }
     ]
   }

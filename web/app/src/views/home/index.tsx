@@ -10,15 +10,33 @@ export function Home() {
     nav('/Genshin_Impact')
   }, [])
 
+  const conf = [
+    {
+      url: '/Genshin_Impact/character/list',
+      logo: require('@/assets/img/logo/character.webp'),
+      name: '角色'
+    },
+    {
+      url: '/Genshin_Impact/ascension_material/list',
+      logo: require('@/assets/img/logo/ascension-material.webp'),
+      name: '突破材料'
+    }
+  ]
+
   return (
     <div className='home'>
       <div className='modules'>
-        <div
-          className='module character-list'
-          onClick={() => nav('/Genshin_Impact/character/list')}>
-          <Img src={require('@/assets/img/other/char_35.webp')} />
-          角色
-        </div>
+        {conf.map((item, i) => {
+          return (
+            <div
+              key={i}
+              className='module character-list'
+              onClick={() => nav(item.url)}>
+              <Img src={item.logo} />
+              {item.name}
+            </div>
+          )
+        })}
       </div>
     </div>
   )

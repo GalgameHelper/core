@@ -10,7 +10,11 @@ export interface HeaderProps extends ComponentProps {
 
 export function Header(props: HeaderProps) {
   const nav = useNavigate()
-
+  React.useEffect(() => {
+    if (location.href.indexOf('#') === -1) {
+      nav('/Genshin_Impact')
+    }
+  }, [])
   return (
     <Flex className='app-header'>
       <Img
