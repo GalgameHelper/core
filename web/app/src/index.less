@@ -1,6 +1,7 @@
 body {
   color: #efefef;
   background-color: #0D1117;
+  zoom: 0.8;
 }
 
 * {
@@ -14,4 +15,27 @@ body {
     padding: 0;
     box-sizing: border-box;
   }
+}
+
+/* 针对Webkit内核的浏览器 */
+::-webkit-scrollbar {
+  /* 设置滚动条的宽度 */
+  width: 8px;
+}
+
+/* 滚动条轨道 - 背景颜色/白底 */
+::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: 10px;
+}
+
+/* 滚动条的滑块部分 */
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, .4);
+  border-radius: 10px;
+}
+
+/* 当鼠标悬停在滚动条滑块上时改变颜色 */
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, .8);
 }

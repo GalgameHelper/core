@@ -9,11 +9,7 @@ import { CharacterType } from '@/type'
 import { getCharacter } from '@/service'
 import { isEffectArray, isString } from 'asura-eye'
 
-export interface CharacterInfoProps {
-  [key: string]: any
-}
-
-export function CharacterInfo(props: CharacterInfoProps) {
+export function CharacterInfo() {
   const [search] = useSearchParams()
   const lang = localStorage.lang || 'zh_CN'
   const [

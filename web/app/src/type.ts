@@ -33,3 +33,14 @@ export interface CharacterType {
 }
 
 export type ArtifactSetType = [I18nField, I18nField]
+
+export interface WeaponsType {
+  name: I18nField
+  rarity: string
+  atk: string
+  sub: string
+  value: string
+  affix: I18nField
+  ascensionMaterials: string[]
+  type: string
+}

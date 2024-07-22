@@ -26,6 +26,16 @@ export function Home() {
       logo: require('@/assets/img/logo/artifact-set.webp'),
       name: '圣遗物'
     },
+    {
+      url: '/Genshin_Impact/weapon/list',
+      logo: require('@/assets/img/logo/weapon.webp'),
+      name: '武器'
+    },
+    // {
+    //   url: '/Genshin_Impact/medicine/list',
+    //   logo: require('@/assets/img/logo/shop.png'),
+    //   name: '药方'
+    // },
   ]
 
   return (

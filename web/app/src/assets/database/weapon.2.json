@@ -1,0 +1,3730 @@
+[
+  {
+    "name": {
+      "zh_CN": "猎弓",
+      "en_US": "Hunter's Bow"
+    },
+    "rarity": "1",
+    "atk": "23.25",
+    "sub": "",
+    "value": "",
+    "affix": {
+      "zh_CN": "",
+      "en_US": ""
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "历练的猎弓",
+      "en_US": "Seasoned Hunter's Bow"
+    },
+    "rarity": "2",
+    "atk": "32.93",
+    "sub": "",
+    "value": "",
+    "affix": {
+      "zh_CN": "",
+      "en_US": ""
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "鸦羽弓",
+      "en_US": "Raven Bow"
+    },
+    "rarity": "3",
+    "atk": "39.88",
+    "sub": "EM",
+    "value": "20.4",
+    "affix": {
+      "zh_CN": "对处于水元素或火元素影响下的敌人，造成的伤害提高12%。",
+      "en_US": "Increases DMG against opponents affected by Hydro or Pyro by 12%."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Firm Arrowhead"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "神射手之誓",
+      "en_US": "Sharpshooter's Oath"
+    },
+    "rarity": "3",
+    "atk": "38.74",
+    "sub": "CrD%",
+    "value": "10.2%",
+    "affix": {
+      "zh_CN": "针对要害造成的伤害提升24%。",
+      "en_US": "Increases DMG against weak spots by 24%."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Slime Condensate"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "反曲弓",
+      "en_US": "Recurve Bow"
+    },
+    "rarity": "3",
+    "atk": "37.61",
+    "sub": "HP%",
+    "value": "10.21%",
+    "affix": {
+      "zh_CN": "击败敌人时，恢复8%生命值。",
+      "en_US": "Defeating an opponent restores 8% HP."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Divining Scroll"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "弹弓",
+      "en_US": "Slingshot"
+    },
+    "rarity": "3",
+    "atk": "37.61",
+    "sub": "CrR%",
+    "value": "6.8%",
+    "affix": {
+      "zh_CN": "普通攻击与重击的箭矢若在发射后的0.3秒内击中敌人，则造成的伤害增加36%；否则，造成的伤害下降10%。",
+      "en_US": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 36%. Otherwise, decreases DMG by 10%."
+    },
+    "ascensionMaterials": [
+      "Luminous Sands from Guyun",
+      "Hunter's Sacrificial Knife",
+      "Damaged Mask"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "信使",
+      "en_US": "Messenger"
+    },
+    "rarity": "3",
+    "atk": "39.88",
+    "sub": "CrD%",
+    "value": "6.8%",
+    "affix": {
+      "zh_CN": "重击若命中要害，则额外造成100%攻击力的伤害，该伤害必定暴击。此效果每10秒只能触发一次。",
+      "en_US": "Charged Attack hits on weak points deal an additional 100% ATK DMG as CRIT DMG. Can only occur once every 10s."
+    },
+    "ascensionMaterials": [
+      "Mist Veiled Lead Elixir",
+      "Mist Grass Pollen",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "黑檀弓",
+      "en_US": "Ebony Bow"
+    },
+    "rarity": "3",
+    "atk": "38.74",
+    "sub": "Atk%",
+    "value": "7.66%",
+    "affix": {
+      "zh_CN": "对遗迹机关类敌人：造成的伤害提高40%。",
+      "en_US": "Increases DMG against mechanoid Ruin opponents by 40%."
+    },
+    "ascensionMaterials": [
+      "Mora"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "西风猎弓",
+      "en_US": "Favonius Warbow"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "ER%",
+    "value": "13.33%",
+    "affix": {
+      "zh_CN": "攻击造成暴击时，有60%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每12秒只能触发一次。",
+      "en_US": "CRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Whopperflower Nectar"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "绝弦",
+      "en_US": "The Stringless"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "EM",
+    "value": "36",
+    "affix": {
+      "zh_CN": "元素战技与元素爆发的伤害提高24%。",
+      "en_US": "Increases Elemental Skill and Elemental Burst DMG by 24%."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Firm Arrowhead"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "祭礼弓",
+      "en_US": "Sacrificial Bow"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "ER%",
+    "value": "6.67%",
+    "affix": {
+      "zh_CN": "元素战技造成伤害时，有40%的概率重置该技能的冷却时间，该效果每30秒只能触发一次。",
+      "en_US": "After damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Slime Condensate"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "宗室长弓",
+      "en_US": "Royal Bow"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "攻击造成伤害时，暴击率提升8%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+      "en_US": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT Hit removes all stacks."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Divining Scroll"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "弓藏",
+      "en_US": "Rust"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "普通攻击造成的伤害提升40%，重击造成的伤害下降10%。",
+      "en_US": "Increases Normal Attack DMG by 40% but decreases Charged Attack DMG by 10%."
+    },
+    "ascensionMaterials": [
+      "Luminous Sands from Guyun",
+      "Hunter's Sacrificial Knife",
+      "Damaged Mask"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "试作澹月",
+      "en_US": "Prototype Crescent"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "重击若命中要害，则提升10%移动速度与36%攻击力，持续10秒。",
+      "en_US": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by 36% for 10s."
+    },
+    "ascensionMaterials": [
+      "Mist Veiled Lead Elixir",
+      "Mist Grass Pollen",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "钢轮弓",
+      "en_US": "Compound Bow"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "Phys%",
+    "value": "15.01%",
+    "affix": {
+      "zh_CN": "普通攻击与重击命中时，提升4%攻击力与1.2%普通攻击速度。该效果持续6秒，最多可以叠加4层，每0.3秒只能触发一次。",
+      "en_US": "Normal Attack and Charged Attack hits increase ATK by 4% and Normal ATK SPD by 1.2% for 6s. Max 4 stacks. Can only occur once every 0.3s."
+    },
+    "ascensionMaterials": [
+      "Grain of Aerosiderite",
+      "Fragile Bone Shard",
+      "Recruit's Insignia"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "黑岩战弓",
+      "en_US": "Blackcliff Warbow"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "CrD%",
+    "value": "8%",
+    "affix": {
+      "zh_CN": "击败敌人后，攻击力提升12%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
+      "en_US": "After defeating an enemy, ATK is increased by 12% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+    },
+    "ascensionMaterials": [
+      "Luminous Sands from Guyun",
+      "Hunter's Sacrificial Knife",
+      "Whopperflower Nectar"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "苍翠猎弓",
+      "en_US": "The Viridescent Hunt"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "CrR%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "普通攻击与重击命中时，有50%几率生成一个风之眼，持续吸引周围敌人，并对其中的敌人每0.5秒造成40%攻击的伤害。该效果持续4秒，每14秒至多触发一次。",
+      "en_US": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 40% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 14s."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Firm Arrowhead"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "暗巷猎手",
+      "en_US": "Alley Hunter"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Atk%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "装备该武器的角色处于队伍后台时，每1秒角色造成的伤害提升2%，最多通过这种方式获得20%的伤害提升；在场上超过4秒后，上述伤害提升效果每1秒会流失4%，直到降低至0%。",
+      "en_US": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by 2% every second up to a max of 20%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by 4% per second until it reaches 0%."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Slime Condensate"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "落霞",
+      "en_US": "Fading Twilight"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "ER%",
+    "value": "6.67%",
+    "affix": {
+      "zh_CN": "具有夕暮、流霞、朝晖三种状态，分别能使造成的伤害提升6%/10%/14%。攻击命中敌人后，将转换为下一种状态，每7秒至多转换一次状态。装备该武器的角色处于队伍后台时该效果依旧能触发转换。",
+      "en_US": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by 6%/10%/14% respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field."
+    },
+    "ascensionMaterials": [
+      "Grain of Aerosiderite",
+      "Hunter's Sacrificial Knife",
+      "Divining Scroll"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "幽夜华尔兹",
+      "en_US": "Mitternachts Waltz"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Phys%",
+    "value": "11.26%",
+    "affix": {
+      "zh_CN": "普通攻击命中敌人后的5秒内，元素战技造成的伤害提升20%；元素战技命中敌人后的5秒内，普通攻击造成的伤害提升20%。",
+      "en_US": "Normal Attack hits on opponents increase Elemental Skill DMG by 20% for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by 20% for 5s."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "风花之颂",
+      "en_US": "Windblume Ode"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "EM",
+    "value": "36",
+    "affix": {
+      "zh_CN": "施放元素战技时，获得风之花的悠古愿望加持，攻击力提升16%，持续6秒。",
+      "en_US": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by 16% for 6s."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Dead Ley Line Branch",
+      "Whopperflower Nectar"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "破魔之弓",
+      "en_US": "Hamayumi"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "Atk%",
+    "value": "12%",
+    "affix": {
+      "zh_CN": "普通攻击造成的伤害提升16%，重击造成的伤害提升12%。当装备该武器的角色元素能量等于100%时，这个效果提升100%。",
+      "en_US": "Increases Normal Attack DMG by 16% and Charged Attack DMG by 12%. When the equipping character's Energy reaches 100%, this effect is increased by 100%."
+    },
+    "ascensionMaterials": [
+      "Narukami's Wisdom",
+      "Dismal Prism",
+      "Firm Arrowhead"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "掠食者",
+      "en_US": "Predator"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "仅在以下平台生效：\"PlayStation Network\"对敌人造成冰元素伤害后，普通攻击与重击造成的伤害提高10%，该效果持续6秒，至多叠加2次；此外，埃洛伊装备掠食者时，攻击力提升66点。",
+      "en_US": "Effective only on the following platform: \"PlayStation Network\"Dealing Cryo DMG to opponents increases this character's Normal and Charged Attack DMG by 10% for 6s. This effect can have a maximum of 2 stacks. Additionally, when Aloy equips Predator, ATK is increased by 66."
+    },
+    "ascensionMaterials": [
+      "Narukami's Wisdom",
+      "Dismal Prism",
+      "Firm Arrowhead"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "曚云之月",
+      "en_US": "Mouun's Moon"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Atk%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.12%，通过这种方式，元素爆发造成的伤害至多提高40%。",
+      "en_US": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.12%. A maximum of 40% increased Elemental Burst DMG can be achieved this way."
+    },
+    "ascensionMaterials": [
+      "Narukami's Wisdom",
+      "Dismal Prism",
+      "Spectral Husk"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "王下近侍",
+      "en_US": "King's Squire"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "Atk%",
+    "value": "12%",
+    "affix": {
+      "zh_CN": "施放元素战技或元素爆发时，将获得「森林教诲」的效果，元素精通提升60点，持续12秒。该效果将在切换角色时移除。森林教诲的持续时间结束或被移除时，将对附近一名敌人造成100%攻击力的伤害。森林教诲每20秒至多触发一次。",
+      "en_US": "Obtain the Teachings of the Forest effect when unleashing Elemental Skills and Bursts, increasing Elemental Mastery by 60 for 12s. This effect will be removed when switching characters. When the Teachings of the Forest effect ends or is removed, it will deal 100% of ATK as DMG to 1 nearby opponent. The Teachings of the Forest effect can be triggered once every 20s."
+    },
+    "ascensionMaterials": [
+      "Echo of Scorching Might",
+      "Inactivated Fungal Nucleus",
+      "Firm Arrowhead"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "竭泽",
+      "en_US": "End of the Line"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "ER%",
+    "value": "10%",
+    "affix": {
+      "zh_CN": "施放元素战技后，将触发「沿洄」效果，在攻击命中敌人时造成80%攻击力的范围伤害，该效果将在15秒或触发3次范围伤害后移除。每2秒至多通过这种方式造成一次范围伤害，每12秒至多触发一次沿洄。",
+      "en_US": "Triggers the Flowrider effect after using an Elemental Skill, dealing 80% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
+    },
+    "ascensionMaterials": [
+      "Echo of Scorching Might",
+      "Inactivated Fungal Nucleus",
+      "Fungal Spores"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "鹮穿之喙",
+      "en_US": "Ibis Piercer"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Atk%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "重击命中敌人后的6秒内，角色元素精通提升40点。该效果至多叠加2层，每0.5秒至多触发一次。",
+      "en_US": "The character's Elemental Mastery will increase by 40 within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s."
+    },
+    "ascensionMaterials": [
+      "Copper Talisman of the Forest Dew",
+      "A Flower Yet to Bloom",
+      "Faded Red Satin"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "烈阳之嗣",
+      "en_US": "Scion of the Blazing Sun"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "CrR%",
+    "value": "4%",
+    "affix": {
+      "zh_CN": "重击命中敌人后，会向命中的敌人降下阳炎矢，造成攻击力60%的伤害，并为受到阳炎矢伤害的敌人施加持续10秒的灼心效果。装备者的重击对处于灼心状态下的敌人造成的伤害提升28%。阳炎矢每10秒至多触发一次。",
+      "en_US": "After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing 60% ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take 28% more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s."
+    },
+    "ascensionMaterials": [
+      "Echo of Scorching Might",
+      "A Flower Yet to Bloom",
+      "Fungal Spores"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "静谧之曲",
+      "en_US": "Song of Stillness"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "受到治疗后，造成的伤害提升16%，持续8秒。角色处于队伍后台也能触发。",
+      "en_US": "After the wielder is healed, they will deal 16% more DMG for 8s. This can be triggered even when the character is not on the field."
+    },
+    "ascensionMaterials": [
+      "Fragment of an Ancient Chord",
+      "Drop of Tainted Water",
+      "Firm Arrowhead"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "筑云",
+      "en_US": "Cloudforged"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "EM",
+    "value": "36",
+    "affix": {
+      "zh_CN": "元素能量减少后，装备者的元素精通提升40点。该效果持续18秒，至多叠加2层。",
+      "en_US": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by 40 for 18s. Max 2 stacks."
+    },
+    "ascensionMaterials": [
+      "Grain of Aerosiderite",
+      "Ruined Hilt",
+      "Recruit's Insignia"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "测距规",
+      "en_US": "Range Gauge"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Atk%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "受到治疗或进行治疗时，将赋予一枚团结标记，持续30秒，至多拥有三枚团结标记。施放元素战技或元素爆发时，将消耗所有的团结标记，产生持续10秒的「抗争」效果：每枚消耗的团结标记提高3%攻击力与7%所有元素伤害加成。每15秒至多触发一次抗争效果；角色处于队伍后台时也能获得团结标记。",
+      "en_US": "When the wielder is healed or heals others, they will gain a Unity's Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Struggle effect will be granted for 10s. For each Symbol consumed, gain 3% ATK and 7% All Elemental DMG Bonus. The Struggle effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field."
+    },
+    "ascensionMaterials": [
+      "Fragment of an Ancient Chord",
+      "Drop of Tainted Water",
+      "Transoceanic Pearl"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "碎链",
+      "en_US": "Shattered Chains"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Atk%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得4.8%攻击力提升；上述角色不少于3名时，装备者的元素精通提升24点。",
+      "en_US": "For every party member from Natlan or who has a different Elemental Type from the equipping character, the equipping character gains 4.8% increased ATK. When there are no less than 3 of the aforementioned characters, the equipping character gains 24 Elemental Mastery."
+    },
+    "ascensionMaterials": [
+      "Night-Wind's Mystic Consideration",
+      "Feathery Fin",
+      "Juvenile Fang"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "天空之翼",
+      "en_US": "Skyward Harp"
+    },
+    "rarity": "5",
+    "atk": "47.54",
+    "sub": "CrR%",
+    "value": "4.8%",
+    "affix": {
+      "zh_CN": "暴击伤害提高20%；攻击命中时有60%概率造成125%攻击力的小范围物理伤害，该效果每4秒只能触发一次。",
+      "en_US": "Increases CRIT DMG by 20%. Hits have a 60% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 4s."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Firm Arrowhead"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "阿莫斯之弓",
+      "en_US": "Amos' Bow"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "Atk%",
+    "value": "10.8%",
+    "affix": {
+      "zh_CN": "普通攻击与重击造成的伤害提升12%；普通攻击与重击的箭矢发射后每经过0.1秒，伤害还会提升8%，至多提升5次。",
+      "en_US": "Increases Normal and Charged Attack DMG by 12%. After a Normal or Charged Attack is fired, DMG dealt increases by a further 8% every 0.1s the arrow is in the air for up to 5 times."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Slime Condensate"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "终末嗟叹之诗",
+      "en_US": "Elegy for the End"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "ER%",
+    "value": "12%",
+    "affix": {
+      "zh_CN": "飘游风中的「千年的大乐章」的一部分。元素精通提高60点；元素战技或元素爆发命中敌人时，角色获得一枚追思之符，每0.2秒内至多触发一次，角色处于队伍后台也能触发。拥有4枚追思之符时，将消耗所有追思之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·别离之歌」效果：元素精通提高100点，攻击力提升20%。触发后20秒内，无法再次获得追思之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
+      "en_US": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by 60. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by 100 and increases ATK by 20%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Heavy Horn",
+      "Recruit's Insignia"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "冬极白星",
+      "en_US": "Polar Star"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "CrR%",
+    "value": "7.2%",
+    "affix": {
+      "zh_CN": "元素战技和元素爆发造成的伤害提高12%；普通攻击、重击、元素战技或元素爆发命中敌人后，将产生1层持续12秒的「白夜极星」效果。处于1/2/3/4层「白夜极星」效果下时，攻击力将提高10/20/30/48%。由普通攻击、重击、元素战技或元素爆发产生的「白夜极星」将分别独立存在。",
+      "en_US": "Elemental Skill and Elemental Burst DMG increased by 12%. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by 10/20/30/48%. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others."
+    },
+    "ascensionMaterials": [
+      "Mask of the Wicked Lieutenant",
+      "Concealed Claw",
+      "Spectral Husk"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "若水",
+      "en_US": "Aqua Simulacra"
+    },
+    "rarity": "5",
+    "atk": "44.34",
+    "sub": "CrD%",
+    "value": "19.2%",
+    "affix": {
+      "zh_CN": "生命值提升16%。周围存在敌人时，装备该武器的角色造成的伤害都会提升20%，不论该角色处于场上或是处于队伍后台。",
+      "en_US": "HP is increased by 16%. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by 20%. This will take effect whether the character is on-field or not."
+    },
+    "ascensionMaterials": [
+      "Luminous Sands from Guyun",
+      "Gloomy Statuette",
+      "Spectral Husk"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "飞雷之弦振",
+      "en_US": "Thundering Pulse"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "CrD%",
+    "value": "14.4%",
+    "affix": {
+      "zh_CN": "攻击力提高20%，并能获得「飞雷之巴印」的威势。飞雷之巴印：持有1/2/3层飞雷之巴印时，普通攻击造成的伤害提高12/24/40%。在下列情况下，角色将各获得1层飞雷之巴印：普通攻击造成伤害时，持续5秒；施放元素战技时，持续10秒；此外，角色元素能量低于100%时，将获得1层飞雷之巴印，此飞雷之巴印会在角色的元素能量充满时消失。每层飞雷之巴印的持续时间独立计算。",
+      "en_US": "Increases ATK by 20% and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by 12/24/40%. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
+    },
+    "ascensionMaterials": [
+      "Narukami's Wisdom",
+      "Dismal Prism",
+      "Firm Arrowhead"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "猎人之径",
+      "en_US": "Hunter's Path"
+    },
+    "rarity": "5",
+    "atk": "44.34",
+    "sub": "CrR%",
+    "value": "9.6%",
+    "affix": {
+      "zh_CN": "获得12%所有元素伤害加成。重击命中敌人后，将获得「无休止的狩猎」：重击造成的伤害值提高，提高值相当于元素精通数值的160%。该效果将在生效12次或10秒后消失，每12秒至多获得一次无休止的狩猎。",
+      "en_US": "Gain 12% All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by 160% of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s."
+    },
+    "ascensionMaterials": [
+      "Echo of Scorching Might",
+      "Inactivated Fungal Nucleus",
+      "Faded Red Satin"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "最初的大魔术",
+      "en_US": "The First Great Magic"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "CrD%",
+    "value": "14.4%",
+    "affix": {
+      "zh_CN": "重击造成的伤害提升16%；队伍中每存在一位与装备者元素类型相同的角色（包括装备者自身），将获得1层「手法」效果；每存在一位元素类型不同的角色，将获得1层「演技」效果。处于1/2/3层及以上「手法」效果下时，攻击力提升16%/32%/48%；处于1/2/3层及以上「演技」效果下时，移动速度提升4%/7%/10%。",
+      "en_US": "DMG dealt by Charged Attacks increased by 16%. For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain 1 Gimmick stack. For every party member with a different Elemental Type from the wielder, gain 1 Theatrics stack. When the wielder has 1/2/3 or more Gimmick stacks, ATK will be increased by 16%/32%/48%. When the wielder has 1/2/3 or more Theatrics stacks, Movement SPD will be increased by 4%/7%/10%."
+    },
+    "ascensionMaterials": [
+      "Fragment of an Ancient Chord",
+      "Drop of Tainted Water",
+      "Transoceanic Pearl"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "白雨心弦",
+      "en_US": "Silvershower Heartstrings"
+    },
+    "rarity": "5",
+    "atk": "44.34",
+    "sub": "HP%",
+    "value": "14.4%",
+    "affix": {
+      "zh_CN": "装备者能获得「疗护」效果，持有1/2/3层疗护时，生命值上限提升12%/24%/40%。在下列情况下，装备者将各获得1层疗护：施放元素战技时，持续25秒；生命之契的数值增加时，持续25秒；进行治疗时，持续20秒，装备者处于队伍后台时依然能触发。每层疗护的持续时间独立计算。此外，处于3层疗护状态下时，元素爆发的暴击率提升28%，该效果将在疗护不足3层4秒后移除。",
+      "en_US": "The equipping character can gain the Remedy effect. When they possess 1/2/3 Remedy stacks, Max HP will increase by 12%/24%/40%. 1 stack may be gained when the following conditions are met: 1 stack for 25s when using an Elemental Skill; 1 stack for 25s when the value of a Bond of Life value increases; 1 stack for 20s for performing healing. Stacks can still be triggered when the equipping character is not on the field. Each stack's duration is counted independently. In addition, when 3 stacks are active, Elemental Burst CRIT Rate will be increased by 28%. This effect will be canceled 4s after falling under 3 stacks."
+    },
+    "ascensionMaterials": [
+      "Dross of Pure Sacred Dewdrop",
+      "Feathery Fin",
+      "Transoceanic Pearl"
+    ],
+    "type": "Bow"
+  },
+  {
+    "name": {
+      "zh_CN": "学徒笔记",
+      "en_US": "Apprentice's Notes"
+    },
+    "rarity": "1",
+    "atk": "23.25",
+    "sub": "",
+    "value": "",
+    "affix": {
+      "zh_CN": "",
+      "en_US": ""
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Damaged Mask"
+    ],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "口袋魔导书",
+      "en_US": "Pocket Grimoire"
+    },
+    "rarity": "2",
+    "atk": "32.93",
+    "sub": "",
+    "value": "",
+    "affix": {
+      "zh_CN": "",
+      "en_US": ""
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Damaged Mask"
+    ],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "魔导绪论",
+      "en_US": "Magic Guide"
+    },
+    "rarity": "3",
+    "atk": "37.61",
+    "sub": "EM",
+    "value": "40.8",
+    "affix": {
+      "zh_CN": "对处于水元素或雷元素影响下的敌人，造成的伤害提高12%。",
+      "en_US": "Increases DMG against opponents affected by Hydro or Electro by 12%."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Slime Condensate"
+    ],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "讨龙英杰谭",
+      "en_US": "Thrilling Tales of Dragon Slayers"
+    },
+    "rarity": "3",
+    "atk": "38.74",
+    "sub": "HP%",
+    "value": "7.66%",
+    "affix": {
+      "zh_CN": "主动切换角色时，新登场的角色攻击力提升24%，持续10秒。该效果每20秒只能触发一次。",
+      "en_US": "When switching characters, the new character taking the field has their ATK increased by 24% for 10s. This effect can only occur once every 20s."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Divining Scroll"
+    ],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "异世界行记",
+      "en_US": "Otherworldly Story"
+    },
+    "rarity": "3",
+    "atk": "38.74",
+    "sub": "ER%",
+    "value": "8.5%",
+    "affix": {
+      "zh_CN": "获得元素微粒或元素晶球时，恢复1%生命值。",
+      "en_US": "Picking up an Elemental Energy Orb/Particle recovers 1% HP."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Damaged Mask"
+    ],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "翡玉法球",
+      "en_US": "Emerald Orb"
+    },
+    "rarity": "3",
+    "atk": "39.88",
+    "sub": "EM",
+    "value": "20.4",
+    "affix": {
+      "zh_CN": "触发蒸发、感电、冰冻、绽放或水元素扩散后的12秒内，攻击力提高20%。",
+      "en_US": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by 20% for 12s."
+    },
+    "ascensionMaterials": [
+      "Luminous Sands from Guyun",
+      "Hunter's Sacrificial Knife",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "甲级宝珏",
+      "en_US": "Twin Nephrite"
+    },
+    "rarity": "3",
+    "atk": "39.88",
+    "sub": "CrR%",
+    "value": "3.4%",
+    "affix": {
+      "zh_CN": "击败敌人后的15秒内，移动速度和攻击力提升12%。",
+      "en_US": "Defeating an opponent increases Movement SPD and ATK by 12% for 15s."
+    },
+    "ascensionMaterials": [
+      "Mist Veiled Lead Elixir",
+      "Mist Grass Pollen",
+      "Recruit's Insignia"
+    ],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "琥珀玥",
+      "en_US": "Amber Bead"
+    },
+    "rarity": "3",
+    "atk": "38.74",
+    "sub": "EM",
+    "value": "30.6",
+    "affix": {
+      "zh_CN": "普通攻击命中后，获得6%元素伤害加成。该效果持续6秒，最多可以叠加2层。",
+      "en_US": "Normal Attack hits increase all Elemental DMG by 6% for 6s. Max 2 stacks."
+    },
+    "ascensionMaterials": [
+      "Mora"
+    ],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "西风秘典",
+      "en_US": "Favonius Codex"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "ER%",
+    "value": "10%",
+    "affix": {
+      "zh_CN": "攻击造成暴击时，有60%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每12秒只能触发一次。",
+      "en_US": "CRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Divining Scroll"
+    ],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "流浪乐章",
+      "en_US": "The Widsith"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "CrD%",
+    "value": "12%",
+    "affix": {
+      "zh_CN": "角色登场时，随机获得一个主题曲，持续10秒。每30秒只能触发一次。宣叙调：攻击力提升60%；咏叹调：全元素伤害提升48%;间奏曲：元素精通提升240。",
+      "en_US": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 60%. Aria: Increases all Elemental DMG by 48%. Interlude: Elemental Mastery is increased by 240."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Damaged Mask"
+    ],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "祭礼残章"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "EM",
+    "value": "48",
+    "affix": {
+      "zh_CN": "元素战技造成伤害时，有40%的概率重置该技能的冷却时间，该效果每30秒只能触发一次。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "宗室秘法录"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Atk%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "攻击造成伤害时，暴击率提升8%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "匣里日月"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "CrR%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "普通攻击命中后的6秒内，元素战技与元素爆发的伤害提高20%；元素战技与元素爆发命中后的6秒内，普通攻击的伤害提高20%。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "试作金珀"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "HP%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "施放元素爆发后6秒内，每2秒恢复4点元素能量，队伍中的所有角色每2秒恢复4%生命值。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "万国诸海图谱"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "EM",
+    "value": "24",
+    "affix": {
+      "zh_CN": "触发元素反应后的10秒内，获得8%元素伤害加成，该效果最多可以叠加2层。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "黑岩绯玉"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "CrD%",
+    "value": "12%",
+    "affix": {
+      "zh_CN": "击败敌人后，攻击力提升12%，持续30秒。该效果至多叠加3层，每层持续时间独立。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "昭心"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "Atk%",
+    "value": "12%",
+    "affix": {
+      "zh_CN": "普通攻击与重击命中时，有50%几率发射一枚昭心法球，造成240%攻击力伤害，至多在敌人之间弹射4次。该效果每12秒至多触发一次。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "暗巷的酒与诗"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "ER%",
+    "value": "6.67%",
+    "affix": {
+      "zh_CN": "普通攻击命中敌人后，冲刺或替代冲刺的能力消耗的体力降低14%，持续5秒。此外，使用冲刺或替代冲刺的能力后，攻击力提升20%，持续5秒。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "忍冬之果"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "普通攻击与重击命中敌人时，有60%概率在敌人上方生成恒冰晶核并坠落，造成80%攻击力的范围伤害。若敌人处于冰元素影响下，则造成200%攻击力的伤害。该效果每10秒至多触发一次。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "嘟嘟可故事集"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "Atk%",
+    "value": "12%",
+    "affix": {
+      "zh_CN": "普通攻击命中敌人后的6秒内，重击造成的伤害提升16%；重击命中敌人后的6秒内，攻击力提升8%。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "白辰之环"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "ER%",
+    "value": "6.67%",
+    "affix": {
+      "zh_CN": "装备该武器的角色触发雷元素相关反应后，队伍中附近的与该元素反应相关的元素类型的角色，获得10%对应元素的元素伤害加成，持续6秒。通过这种方式，角色获得的元素伤害加成无法叠加。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "证誓之明瞳"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Atk%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "施放元素战技后，元素充能效率提升24%，持续10秒。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "流浪的晚星"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "EM",
+    "value": "36",
+    "affix": {
+      "zh_CN": "每10秒，产生如下效果：基于装备者的元素精通的24%，提升该角色的攻击力，并基于该提升的30%为队伍中附近的其他角色提升攻击力，持续12秒，多件同名武器产生的此效果可以叠加。角色处于队伍后台时也能触发效果。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "盈满之实"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "ER%",
+    "value": "10%",
+    "affix": {
+      "zh_CN": "触发元素反应后，获得「盈缺」效果：元素精通提升24点，攻击力降低5%。每0.3秒至多获得一层盈缺效果，至多叠加5层。未触发元素反应时将每6秒失去一层。角色处于队伍后台时也能触发效果。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "遗祀玉珑"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "CrR%",
+    "value": "8%",
+    "affix": {
+      "zh_CN": "处于队伍后台超过5秒后，生命值上限提升32%，元素精通提升40点。装备者登场并留在场上10秒后，该效果将失效。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "纯水流华"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Atk%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "施放元素战技时，所有元素伤害加成提升8%，持续15秒，并赋予生命值上限24%的生命之契，该效果每10秒至多触发一次。生命之契清除时，每清除1000点将会提供2%所有元素伤害加成，至多通过这种方式获得12%所有元素伤害加成，持续15秒。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "无垠蔚蓝之歌"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "ER%",
+    "value": "6.67%",
+    "affix": {
+      "zh_CN": "普通攻击或重击命中敌人后的6秒内，普通攻击造成的伤害提升8%，重击造成的伤害提升6%。该效果至多叠加3次，每0.3秒至多触发一次。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "苍纹角杯"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "HP%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "攻击命中敌人时，在目标位置基于生命值上限的40%，造成范围伤害。该效果每15秒至多触发一次。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "木棉之环"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "HP%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击的伤害提升0.6%，持续10秒。通过这种方式至多使普通攻击造成的伤害提升16%。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "天空之卷"
+    },
+    "rarity": "5",
+    "atk": "47.54",
+    "sub": "Atk%",
+    "value": "7.2%",
+    "affix": {
+      "zh_CN": "元素伤害加成提升12%；普通攻击命中时，有50%的概率获得高天流云的青睐，在15秒内主动攻击附近的敌人，造成等同于160%攻击力的伤害。该效果每30秒只能触发一次。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "四风原典"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "CrR%",
+    "value": "7.2%",
+    "affix": {
+      "zh_CN": "移动速度提高10%；在场上每4秒获得8%元素伤害加成。该效果最多叠加4层，持续直到角色倒下或离场。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "尘世之锁"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "Atk%",
+    "value": "10.8%",
+    "affix": {
+      "zh_CN": "护盾强效提升20%。攻击命中后的8秒内，攻击力提升4%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "碧落之珑"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "HP%",
+    "value": "10.8%",
+    "affix": {
+      "zh_CN": "施放元素爆发或创造护盾后的3秒内，将产生「定土玉圭」效果：每2.5秒恢复4.5点元素能量，并基于装备者的生命值上限，每1000点使其对应元素类型的元素伤害加成提高0.3%，至多提高12%。装备该武器的角色处于队伍后台时，依然能产生「定土玉圭」效果。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "不灭月华"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "HP%",
+    "value": "10.8%",
+    "affix": {
+      "zh_CN": "治疗加成提升10%；普通攻击造成的伤害增加，增加值为装备该武器的角色生命值上限的1%。在施放元素爆发后的12秒内，普通攻击命中敌人时恢复0.6点元素能量，每0.1秒至多通过这种方式恢复一次元素能量。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "神乐之真意"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "CrD%",
+    "value": "14.4%",
+    "affix": {
+      "zh_CN": "施放元素战技时，将获得「神乐舞」的效果，使装备该武器的角色的元素战技造成的伤害提高12%，该效果持续16秒，至多叠加3层。持有3层时，该角色获得12%所有元素伤害加成。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "千夜浮梦"
+    },
+    "rarity": "5",
+    "atk": "44.34",
+    "sub": "EM",
+    "value": "57.6",
+    "affix": {
+      "zh_CN": "队伍中每个其他角色，都会依据元素类型与装备者相同与否，为装备者提供提升效果。相同：元素精通提升32点；不同：装备者元素类型的元素伤害加成提升10%。上述提升效果每种至多叠加3层。此外，队伍中装备者以外的附近角色的元素精通提升40点，多件同名武器产生的此效果可以叠加。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "图莱杜拉的回忆"
+    },
+    "rarity": "5",
+    "atk": "47.54",
+    "sub": "CrD%",
+    "value": "9.6%",
+    "affix": {
+      "zh_CN": "普通攻击速度提升10%；施放元素战技后的14秒内：普通攻击造成的伤害每1秒提升4.8%；普通攻击命中敌人后，普通攻击造成的伤害提升9.6%，该效果每0.3秒至多触发1次。持续期间内，普通攻击造成的伤害至多通过上述效果提升至48%。角色退场时将移除效果，再次施放元素战技时会先移除原有的效果。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "金流监督"
+    },
+    "rarity": "5",
+    "atk": "47.54",
+    "sub": "CrR%",
+    "value": "4.8%",
+    "affix": {
+      "zh_CN": "攻击力提升16%。当前生命值提升或降低时，普通攻击造成的伤害提升16%，重击造成的伤害提升14%。该效果持续4秒，至多叠加3层，每0.3秒至多触发一次；处于叠加3层的状态下时，攻击速度提升8%。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "万世流涌大典"
+    },
+    "rarity": "5",
+    "atk": "44.34",
+    "sub": "CrD%",
+    "value": "19.2%",
+    "affix": {
+      "zh_CN": "生命值提升16%。当前生命值提升或降低时，重击造成的伤害提升14%。该效果持续4秒，至多叠加3次，每0.3秒至多触发一次；叠加至3层或3层的持续时间刷新时，恢复8点元素能量，每12秒至多通过这种方式恢复一次元素能量。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "鹤鸣余音"
+    },
+    "rarity": "5",
+    "atk": "49.14",
+    "sub": "Atk%",
+    "value": "3.6%",
+    "affix": {
+      "zh_CN": "装备者下落攻击命中敌人后，队伍中附近的所有角色下落攻击造成的伤害提高28%，持续20秒；队伍中附近的角色的下落攻击命中敌人时，为装备者恢复2.5点元素能量，每0.7秒至多通过这种方式恢复一次元素能量，装备者处于队伍后台时依然能通过这种方式恢复元素能量。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "冲浪时光"
+    },
+    "rarity": "5",
+    "atk": "44.34",
+    "sub": "CrD%",
+    "value": "19.2%",
+    "affix": {
+      "zh_CN": "生命值上限提高20%。每12秒一次，施放元素战技后的10秒内，产生如下效果：获得4层「炽夏」，每层使普通攻击造成的伤害提升12%。持续期间内，每1.5秒一次：普通攻击命中敌人后，移除1层；每1.5秒一次：对敌人触发蒸发反应后，增加1层。「炽夏」效果至多叠加4层。"
+    },
+    "ascensionMaterials": [],
+    "type": "Catalyst"
+  },
+  {
+    "name": {
+      "zh_CN": "训练大剑",
+      "en_US": "Waster Greatsword"
+    },
+    "rarity": "1",
+    "atk": "23.25",
+    "sub": "",
+    "value": "",
+    "affix": {
+      "zh_CN": "",
+      "en_US": ""
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Slime Condensate"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "zh_CN": "佣兵重剑",
+      "en_US": "Old Merc's Pal"
+    },
+    "rarity": "2",
+    "atk": "32.93",
+    "sub": "",
+    "value": "",
+    "affix": {
+      "zh_CN": "",
+      "en_US": ""
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Slime Condensate"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "zh_CN": "铁影阔剑",
+      "en_US": "Ferrous Shadow"
+    },
+    "rarity": "3",
+    "atk": "38.74",
+    "sub": "HP%",
+    "value": "7.66%",
+    "affix": {
+      "zh_CN": "生命值低于70%时，重击不会轻易被打断，并提高30%重击伤害。",
+      "en_US": "When HP falls below 70%, increases Charged Attack DMG by 30% and Charged Attacks become harder to interrupt."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Whopperflower Nectar"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "zh_CN": "沐浴龙血的剑",
+      "en_US": "Bloodtainted Greatsword"
+    },
+    "rarity": "3",
+    "atk": "37.61",
+    "sub": "EM",
+    "value": "40.8",
+    "affix": {
+      "zh_CN": "对处于火元素或雷元素影响下的敌人，造成的伤害提高12%。",
+      "en_US": "Increases DMG dealt against opponents affected by Pyro or Electro by 12%."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Firm Arrowhead"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "zh_CN": "白铁大剑",
+      "en_US": "White Iron Greatsword"
+    },
+    "rarity": "3",
+    "atk": "38.74",
+    "sub": "Def%",
+    "value": "9.56%",
+    "affix": {
+      "zh_CN": "击败敌人时，恢复8%生命值。",
+      "en_US": "Defeating an opponent restores 8% HP."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Slime Condensate"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "zh_CN": "石英大剑",
+      "en_US": "Quartz"
+    },
+    "rarity": "3",
+    "atk": "38.74",
+    "sub": "EM",
+    "value": "30.6",
+    "affix": {
+      "zh_CN": "触发超载、融化、燃烧、蒸发、烈绽放或火元素扩散反应后的12秒内，攻击力提高20%。",
+      "en_US": "Upon causing an Overloaded, Melt, Burning, Vaporize, Burgeon, or a Pyro-infused Swirl reaction, ATK is increased by 20% for 12s."
+    },
+    "ascensionMaterials": [
+      "Mora"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "zh_CN": "以理服人",
+      "en_US": "Debate Club"
+    },
+    "rarity": "3",
+    "atk": "38.74",
+    "sub": "Atk%",
+    "value": "7.66%",
+    "affix": {
+      "zh_CN": "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成60%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。",
+      "en_US": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 60% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
+    },
+    "ascensionMaterials": [
+      "Mist Veiled Lead Elixir",
+      "Mist Grass Pollen",
+      "Damaged Mask"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "zh_CN": "飞天大御剑",
+      "en_US": "Skyrider Greatsword"
+    },
+    "rarity": "3",
+    "atk": "38.74",
+    "sub": "Phys%",
+    "value": "9.56%",
+    "affix": {
+      "zh_CN": "普通攻击和重击命中时，攻击力提高6%，持续6秒，最多叠加4层。该效果每0.5秒只能触发一次。",
+      "en_US": "On hit, Normal or Charged Attacks increase ATK by 6% for 6s. Max 4 stacks. Can occur once every 0.5s."
+    },
+    "ascensionMaterials": [
+      "Grain of Aerosiderite",
+      "Fragile Bone Shard",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "zh_CN": "西风大剑",
+      "en_US": "Favonius Greatsword"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "ER%",
+    "value": "13.33%",
+    "affix": {
+      "zh_CN": "攻击造成暴击时，有60%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每12秒只能触发一次。",
+      "en_US": "CRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Recruit's Insignia"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "zh_CN": "钟剑",
+      "en_US": "The Bell"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "HP%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "受到伤害时，生成一个伤害吸收量等同于生命值上限20%的护盾，持续10秒或直到护盾失效,每45秒只能触发一次。角色处于护盾庇护下时，造成的伤害提升12%。",
+      "en_US": "Taking DMG generates a shield which absorbs DMG up to 20% of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by a shield, the character gains 12% increased DMG."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Whopperflower Nectar"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Sacrificial Greatsword"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "ER%",
+    "value": "6.67%",
+    "affix": {
+      "en_US": "After damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Firm Arrowhead"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Royal Greatsword"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Atk%",
+    "value": "6%",
+    "affix": {
+      "en_US": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT Hit removes all stacks."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Slime Condensate"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Rainslasher"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "EM",
+    "value": "36",
+    "affix": {
+      "en_US": "Increases DMG against opponents affected by Hydro or Electro by 20%."
+    },
+    "ascensionMaterials": [
+      "Mist Veiled Lead Elixir",
+      "Mist Grass Pollen",
+      "Divining Scroll"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Prototype Archaic"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Atk%",
+    "value": "6%",
+    "affix": {
+      "en_US": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 240% ATK DMG to opponents within a small AoE. Can only occur once every 15s."
+    },
+    "ascensionMaterials": [
+      "Grain of Aerosiderite",
+      "Fragile Bone Shard",
+      "Damaged Mask"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Whiteblind"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Def%",
+    "value": "11.26%",
+    "affix": {
+      "en_US": "On hit, Normal or Charged Attacks increase ATK and DEF by 6% for 6s. Max 4 stacks. This effect can only occur once every 0.5s."
+    },
+    "ascensionMaterials": [
+      "Luminous Sands from Guyun",
+      "Hunter's Sacrificial Knife",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Blackcliff Slasher"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "CrD%",
+    "value": "12%",
+    "affix": {
+      "en_US": "After defeating an opponent, ATK is increased by 12% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+    },
+    "ascensionMaterials": [
+      "Mist Veiled Lead Elixir",
+      "Mist Grass Pollen",
+      "Recruit's Insignia"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Serpent Spine"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "CrR%",
+    "value": "6%",
+    "affix": {
+      "en_US": "Every 4s a character is on the field, they will deal 6% more DMG and take 3% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG."
+    },
+    "ascensionMaterials": [
+      "Grain of Aerosiderite",
+      "Fragile Bone Shard",
+      "Whopperflower Nectar"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Lithic Blade"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "en_US": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 7% ATK increase and a 3% CRIT Rate increase. This effect stacks up to 4 times."
+    },
+    "ascensionMaterials": [
+      "Luminous Sands from Guyun",
+      "Hunter's Sacrificial Knife",
+      "Firm Arrowhead"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Snow-Tombed Starsilver"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Phys%",
+    "value": "7.51%",
+    "affix": {
+      "en_US": "Hitting an opponent with Normal and Charged Attacks has a 60% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 80% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 200% of ATK. Can only occur once every 10s."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Slime Condensate"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Luxurious Sea-Lord"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "Atk%",
+    "value": "12%",
+    "affix": {
+      "en_US": "Increases Elemental Burst DMG by 12%. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals 100% ATK as AoE DMG. This effect can occur once every 15s."
+    },
+    "ascensionMaterials": [
+      "Grain of Aerosiderite",
+      "Fragile Bone Shard",
+      "Slime Condensate"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Katsuragikiri Nagamasa"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "ER%",
+    "value": "10%",
+    "affix": {
+      "en_US": "Increases Elemental Skill DMG by 6%. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates 3 Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
+    },
+    "ascensionMaterials": [
+      "Narukami's Wisdom",
+      "Chaos Gear",
+      "Old Handguard"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Makhaira Aquamarine"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "EM",
+    "value": "36",
+    "affix": {
+      "en_US": "The following effect will trigger every 10s: The equipping character will gain 24% of their Elemental Mastery as bonus ATK for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field."
+    },
+    "ascensionMaterials": [
+      "Echo of Scorching Might",
+      "Chaos Storage",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Akuoumaru"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "en_US": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.12%. A maximum of 40% increased Elemental Burst DMG can be achieved this way."
+    },
+    "ascensionMaterials": [
+      "Coral Branch of a Distant Sea",
+      "Concealed Claw",
+      "Old Handguard"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Forest Regalia"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "ER%",
+    "value": "6.67%",
+    "affix": {
+      "en_US": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 60 Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
+    },
+    "ascensionMaterials": [
+      "Copper Talisman of the Forest Dew",
+      "Chaos Storage",
+      "Faded Red Satin"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Mailed Flower"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "EM",
+    "value": "24",
+    "affix": {
+      "en_US": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by 12% and 48 respectively."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Desiccated Shell",
+      "Spectral Husk"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Talking Stick"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "CrR%",
+    "value": "4%",
+    "affix": {
+      "en_US": "ATK will be increased by 16% for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by 12% for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s."
+    },
+    "ascensionMaterials": [
+      "Oasis Garden's Reminiscence",
+      "Desiccated Shell",
+      "Slime Condensate"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Tidal Shadow"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "en_US": "After the wielder is healed, ATK will be increased by 24% for 8s. This can be triggered even when the character is not on the field."
+    },
+    "ascensionMaterials": [
+      "Broken Goblet of the Pristine Sea",
+      "Rift Core",
+      "Meshing Gear"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Ultimate Overlord's Mega Magic Sword"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "ER%",
+    "value": "6.67%",
+    "affix": {
+      "en_US": "ATK increased by 12%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 12%."
+    },
+    "ascensionMaterials": [
+      "Broken Goblet of the Pristine Sea",
+      "Old Operative's Pocket Watch",
+      "Meshing Gear"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Portable Power Saw"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "HP%",
+    "value": "12%",
+    "affix": {
+      "en_US": "When the wielder is healed or heals others, they will gain a Stoic's Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Roused effect will be granted for 10s. For each Symbol consumed, gain 40 Elemental Mastery, and 2s after the effect occurs, 2 Energy per Symbol consumed will be restored for said character. The Roused effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field."
+    },
+    "ascensionMaterials": [
+      "Broken Goblet of the Pristine Sea",
+      "Rift Core",
+      "Meshing Gear"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Earthshaker"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Atk%",
+    "value": "6%",
+    "affix": {
+      "en_US": "When a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 16% for 8s."
+    },
+    "ascensionMaterials": [
+      "Sacrificial Heart's Terror",
+      "Ignited Stone",
+      "Sentry's Wooden Whistle"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Skyward Pride"
+    },
+    "rarity": "5",
+    "atk": "47.54",
+    "sub": "ER%",
+    "value": "8%",
+    "affix": {
+      "en_US": "Increases all DMG by 8%. After using an Elemental Burst, a vacuum blade that does 80% of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Slime Condensate"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Wolf's Gravestone"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "Atk%",
+    "value": "10.8%",
+    "affix": {
+      "en_US": "Increases ATK by 20%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 40% for 12s. Can only occur once every 30s."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Divining Scroll"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Song of Broken Pines"
+    },
+    "rarity": "5",
+    "atk": "49.14",
+    "sub": "Phys%",
+    "value": "4.5%",
+    "affix": {
+      "en_US": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by 16%, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by 12% and increases ATK by 20%. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Damaged Mask"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "The Unforged"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "Atk%",
+    "value": "10.8%",
+    "affix": {
+      "en_US": "Increases Shield Strength by 20%. Scoring hits on opponents increases ATK by 4% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+    },
+    "ascensionMaterials": [
+      "Mist Veiled Lead Elixir",
+      "Mist Grass Pollen",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Redhorn Stonethresher"
+    },
+    "rarity": "5",
+    "atk": "44.34",
+    "sub": "CrD%",
+    "value": "19.2%",
+    "affix": {
+      "en_US": "DEF is increased by 28%. Normal and Charged Attack DMG is increased by 40% of DEF."
+    },
+    "ascensionMaterials": [
+      "Narukami's Wisdom",
+      "Concealed Claw",
+      "Old Handguard"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Beacon of the Reed Sea"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "CrR%",
+    "value": "7.2%",
+    "affix": {
+      "en_US": "After the character's Elemental Skill hits an opponent, their ATK will be increased by 20% for 8s. After the character takes DMG, their ATK will be increased by 20% for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by 32%."
+    },
+    "ascensionMaterials": [
+      "Echo of Scorching Might",
+      "Desiccated Shell",
+      "Faded Red Satin"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Verdict"
+    },
+    "rarity": "5",
+    "atk": "47.54",
+    "sub": "CrR%",
+    "value": "4.8%",
+    "affix": {
+      "en_US": "Increases ATK by 20%. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 18%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG."
+    },
+    "ascensionMaterials": [
+      "Fragment of an Ancient Chord",
+      "Rift Core",
+      "Meshing Gear"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "en_US": "Mountain King's Fang"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "CrR%",
+    "value": "7.2%",
+    "affix": {
+      "en_US": "Gain 1 Canopy's Favor stack after hitting an opponent with an Elemental Skill. This can be triggered once every 0.5s; After a nearby party member triggers a Burning or Burgeon reaction, the equipping character will gain 3 stacks. This effect, in turn, can be triggered once every 2s and can be triggered even when the character is off-field. Canopy's Favor: Elemental Skill and Burst DMG is increased by 10% for 6s. Max 6 stacks. Each stack is counted independently."
+    },
+    "ascensionMaterials": [
+      "Delirious Saint's Decadence",
+      "Ignited Stone",
+      "Sentry's Wooden Whistle"
+    ],
+    "type": "Claymore"
+  },
+  {
+    "name": {
+      "zh_CN": "新手长枪",
+      "en_US": "Beginner's Protector"
+    },
+    "rarity": "1",
+    "atk": "23.25",
+    "sub": "",
+    "value": "",
+    "affix": {
+      "zh_CN": "",
+      "en_US": ""
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Divining Scroll"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "铁尖枪",
+      "en_US": "Iron Point"
+    },
+    "rarity": "2",
+    "atk": "32.93",
+    "sub": "",
+    "value": "",
+    "affix": {
+      "zh_CN": "",
+      "en_US": ""
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Divining Scroll"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "白缨枪",
+      "en_US": "White Tassel"
+    },
+    "rarity": "3",
+    "atk": "38.74",
+    "sub": "CrR%",
+    "value": "5.1%",
+    "affix": {
+      "zh_CN": "普通攻击造成的伤害提升24%。",
+      "en_US": "Increases Normal Attack DMG by 24%."
+    },
+    "ascensionMaterials": [
+      "Luminous Sands from Guyun",
+      "Hunter's Sacrificial Knife",
+      "Recruit's Insignia"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "钺矛",
+      "en_US": "Halberd"
+    },
+    "rarity": "3",
+    "atk": "39.88",
+    "sub": "Atk%",
+    "value": "5.11%",
+    "affix": {
+      "zh_CN": "对普通攻击命中的敌人造成160%攻击力的额外伤害。该效果每10秒只能触发一次。",
+      "en_US": "Normal Attacks deal an additional 160% ATK as DMG. Can only occur once every 10s."
+    },
+    "ascensionMaterials": [
+      "Mist Veiled Lead Elixir",
+      "Mist Grass Pollen",
+      "Whopperflower Nectar"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "黑缨枪",
+      "en_US": "Black Tassel"
+    },
+    "rarity": "3",
+    "atk": "37.61",
+    "sub": "HP%",
+    "value": "10.21%",
+    "affix": {
+      "zh_CN": "对史莱姆类敌人造成的伤害增加40%。",
+      "en_US": "Increases DMG against slimes by 40%."
+    },
+    "ascensionMaterials": [
+      "Grain of Aerosiderite",
+      "Fragile Bone Shard",
+      "Firm Arrowhead"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "匣里灭辰",
+      "en_US": "Dragon's Bane"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "EM",
+    "value": "48",
+    "affix": {
+      "zh_CN": "对处于水元素或火元素影响下的敌人，造成的伤害提高20%。",
+      "en_US": "Increases DMG against opponents affected by Hydro or Pyro by 20%."
+    },
+    "ascensionMaterials": [
+      "Mist Veiled Lead Elixir",
+      "Mist Grass Pollen",
+      "Divining Scroll"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "试作星镰",
+      "en_US": "Prototype Starglitter"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "ER%",
+    "value": "10%",
+    "affix": {
+      "zh_CN": "施放元素战技后，普通攻击和重击造成的伤害提高8%。该效果持续12秒，最多叠加2层。",
+      "en_US": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 8% for 12s. Max 2 stacks."
+    },
+    "ascensionMaterials": [
+      "Grain of Aerosiderite",
+      "Fragile Bone Shard",
+      "Damaged Mask"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "流月针",
+      "en_US": "Crescent Pike"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Phys%",
+    "value": "7.51%",
+    "affix": {
+      "zh_CN": "获得元素微粒或元素晶球后的5秒内，普通攻击和重击额外造成20%攻击力伤害。",
+      "en_US": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 20% of ATK for 5s."
+    },
+    "ascensionMaterials": [
+      "Luminous Sands from Guyun",
+      "Hunter's Sacrificial Knife",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "黑岩刺枪",
+      "en_US": "Blackcliff Pole"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "CrD%",
+    "value": "12%",
+    "affix": {
+      "zh_CN": "击败敌人后，攻击力提升12%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
+      "en_US": "After defeating an enemy, ATK is increased by 12% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+    },
+    "ascensionMaterials": [
+      "Mist Veiled Lead Elixir",
+      "Mist Grass Pollen",
+      "Recruit's Insignia"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "决斗之枪",
+      "en_US": "Deathmatch"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "CrR%",
+    "value": "8%",
+    "affix": {
+      "zh_CN": "身边至少有2个敌人时，获得16%攻击力提升与16%防御力提升；身边的敌人少于2个时，获得24%攻击力提升。",
+      "en_US": "If there are at least 2 opponents nearby, ATK is increased by 16% and DEF is increased by 16%. If there are fewer than 2 opponents nearby, ATK is increased by 24%."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Whopperflower Nectar"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "千岩长枪",
+      "en_US": "Lithic Spear"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Atk%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "队伍中每有一位璃月角色，装备此武器的角色便获得7%攻击力提升与3%暴击率提升。至多获得4层提升效果。",
+      "en_US": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 7% ATK increase and a 3% CRIT Rate increase. This effect stacks up to 4 times."
+    },
+    "ascensionMaterials": [
+      "Grain of Aerosiderite",
+      "Fragile Bone Shard",
+      "Firm Arrowhead"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "西风长枪",
+      "en_US": "Favonius Lance"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "ER%",
+    "value": "6.67%",
+    "affix": {
+      "zh_CN": "攻击造成暴击时，有60%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每12秒只能触发一次。",
+      "en_US": "CRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Slime Condensate"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "宗室猎枪",
+      "en_US": "Royal Spear"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Atk%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "攻击造成伤害时，暴击率提升8%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+      "en_US": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT Hit removes all stacks."
+    },
+    "ascensionMaterials": [
+      "Mist Veiled Lead Elixir",
+      "Mist Grass Pollen",
+      "Recruit's Insignia"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "龙脊长枪",
+      "en_US": "Dragonspine Spear"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "Phys%",
+    "value": "15.01%",
+    "affix": {
+      "zh_CN": "普通攻击与重击命中敌人时，有60%概率在敌人上方生成恒冰晶核并坠落，造成80%攻击力的范围伤害。若敌人处于冰元素影响下，则造成200%攻击力的伤害。该效果每10秒至多触发一次。",
+      "en_US": "Hitting an opponent with Normal and Charged Attacks has a 60% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 80% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 200% of ATK. Can only occur once every 10s."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Mist Grass Pollen",
+      "Recruit's Insignia"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "喜多院十文字",
+      "en_US": "Kitain Cross Spear"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "EM",
+    "value": "24",
+    "affix": {
+      "zh_CN": "元素战技造成的伤害提升6%。元素战技命中后，角色流失3点元素能量，并在此后的6秒内，每2秒恢复3点元素能量。该效果每10秒至多触发一次，角色处于队伍后台也能触发。",
+      "en_US": "Increases Elemental Skill DMG by 6%. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates 3 Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
+    },
+    "ascensionMaterials": [
+      "Mask of the Wicked Lieutenant",
+      "Chaos Gear",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "「渔获」",
+      "en_US": "The Catch"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "ER%",
+    "value": "10%",
+    "affix": {
+      "zh_CN": "元素爆发造成的伤害提升16%，元素爆发的暴击率提升6%。",
+      "en_US": "Increases Elemental Burst DMG by 16% and Elemental Burst CRIT Rate by 6%."
+    },
+    "ascensionMaterials": [
+      "Mask of the Wicked Lieutenant",
+      "Chaos Gear",
+      "Spectral Husk"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "断浪长鳍",
+      "en_US": "Wavebreaker's Fin"
+    },
+    "rarity": "4",
+    "atk": "45.07",
+    "sub": "Atk%",
+    "value": "3%",
+    "affix": {
+      "zh_CN": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.12%，通过这种方式，元素爆发造成的伤害至多提高40%。",
+      "en_US": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.12%. A maximum of 40% increased Elemental Burst DMG can be achieved this way."
+    },
+    "ascensionMaterials": [
+      "Mask of the Wicked Lieutenant",
+      "Concealed Claw",
+      "Old Handguard"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "贯月矢",
+      "en_US": "Moonpiercer"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "EM",
+    "value": "24",
+    "affix": {
+      "zh_CN": "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「苏生之叶」。拾取苏生之叶的角色攻击力提升16%，持续12秒。每20秒至多通过这种方式产生一枚苏生之叶。角色处于队伍后台时也能触发。",
+      "en_US": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 16% ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field."
+    },
+    "ascensionMaterials": [
+      "Oasis Garden's Reminiscence",
+      "Chaos Storage",
+      "Recruit's Insignia"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "风信之锋",
+      "en_US": "Missive Windspear"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "触发元素反应后的10秒内，攻击力提升12%，元素精通提升48点。",
+      "en_US": "Within 10s after an Elemental Reaction is triggered, ATK is increased by 12% and Elemental Mastery is increased by 48."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Gloomy Statuette",
+      "Slime Condensate"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "峡湾长歌",
+      "en_US": "Ballad of the Fjords"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "CrR%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "队伍中存在至少三种不同元素类型的角色时，元素精通提升120点。",
+      "en_US": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by 120."
+    },
+    "ascensionMaterials": [
+      "Broken Goblet of the Pristine Sea",
+      "A Flower Yet to Bloom",
+      "Whopperflower Nectar"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "公义的酬报",
+      "en_US": "Rightful Reward"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "HP%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "受到治疗时，恢复8点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
+      "en_US": "When the wielder is healed, restore 8 Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field."
+    },
+    "ascensionMaterials": [
+      "Broken Goblet of the Pristine Sea",
+      "Rift Core",
+      "Meshing Gear"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "沙中伟贤的对答",
+      "en_US": "Dialogues of the Desert Sages"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "HP%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "进行治疗时，恢复8点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
+      "en_US": "When the wielder performs healing, restore 8 Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field."
+    },
+    "ascensionMaterials": [
+      "Copper Talisman of the Forest Dew",
+      "Feathery Fin",
+      "Spectral Husk"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "勘探钻机",
+      "en_US": "Prospector's Drill"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Atk%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "受到治疗或进行治疗时，将赋予一枚团结标记，持续30秒，至多拥有三枚团结标记。施放元素战技或元素爆发时，将消耗所有的团结标记，产生持续10秒的「抗争」效果：每枚消耗的团结标记提高3%攻击力与7%所有元素伤害加成。每15秒至多触发一次抗争效果；角色处于队伍后台时也能获得团结标记。",
+      "en_US": "When the wielder is healed or heals others, they will gain a Unity's Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Struggle effect will be granted for 10s. For each Symbol consumed, gain 3% ATK and 7% All Elemental DMG Bonus. The Struggle effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field."
+    },
+    "ascensionMaterials": [
+      "Fragment of an Ancient Chord",
+      "Old Operative's Pocket Watch",
+      "Meshing Gear"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "虹的行迹",
+      "en_US": "The Rainbow's Trail"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Def%",
+    "value": "11.26%",
+    "affix": {
+      "zh_CN": "施放元素战技时，防御力提升16%，持续10秒。",
+      "en_US": "Increases this character's DEF by 16% for 10s when using an Elemental Skill."
+    },
+    "ascensionMaterials": [
+      "Delirious Saint's Decadence",
+      "Axis of the Secret Source",
+      "Sentry's Wooden Whistle"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "护摩之杖",
+      "en_US": "Staff of Homa"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "CrD%",
+    "value": "14.4%",
+    "affix": {
+      "zh_CN": "生命值提升20%。此外，基于装备该武器的角色生命值上限的0.8%，获得攻击力加成。当装备该武器的角色生命值低于50%时，进一步获得1%基于生命值上限的攻击力提升。",
+      "en_US": "HP increased by 20%. Additionally, provides an ATK Bonus based on 0.8% of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional 1% of Max HP."
+    },
+    "ascensionMaterials": [
+      "Grain of Aerosiderite",
+      "Dead Ley Line Branch",
+      "Slime Condensate"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "天空之脊",
+      "en_US": "Skyward Spine"
+    },
+    "rarity": "5",
+    "atk": "47.54",
+    "sub": "ER%",
+    "value": "8%",
+    "affix": {
+      "zh_CN": "暴击率提升8%，普通攻击速度提升12%。此外，普通攻击与重击命中敌人时，有50%概率触发真空刃，在小范围内造成额外40%攻击力的伤害。该效果每2秒至多触发一次。",
+      "en_US": "Increases CRIT Rate by 8% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 40% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Divining Scroll"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "贯虹之槊",
+      "en_US": "Vortex Vanquisher"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "Atk%",
+    "value": "10.8%",
+    "affix": {
+      "zh_CN": "护盾强效提升20%。攻击命中后的8秒内，攻击力提升4%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
+      "en_US": "Increases Shield Strength by 20%. Scoring hits on opponents increases ATK by 4% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+    },
+    "ascensionMaterials": [
+      "Grain of Aerosiderite",
+      "Fragile Bone Shard",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "和璞鸢",
+      "en_US": "Primordial Jade Winged-Spear"
+    },
+    "rarity": "5",
+    "atk": "47.54",
+    "sub": "CrR%",
+    "value": "4.8%",
+    "affix": {
+      "zh_CN": "命中敌人时自身攻击力提高3.2%，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升12%。",
+      "en_US": "On hit, increases ATK by 3.2% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 12%."
+    },
+    "ascensionMaterials": [
+      "Luminous Sands from Guyun",
+      "Hunter's Sacrificial Knife",
+      "Recruit's Insignia"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "息灾",
+      "en_US": "Calamity Queller"
+    },
+    "rarity": "5",
+    "atk": "49.14",
+    "sub": "Atk%",
+    "value": "3.6%",
+    "affix": {
+      "zh_CN": "获得12%所有元素伤害加成；施放元素战技后，获得持续20秒的「圆顿」，攻击力每1秒提升3.2%，该攻击力提升效果至多叠加6次。当装备此武器的角色处于队伍后台时，「圆顿」的攻击力提升效果翻倍。",
+      "en_US": "Gain 12% All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by 3.2% per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled."
+    },
+    "ascensionMaterials": [
+      "Mist Veiled Lead Elixir",
+      "Mist Grass Pollen",
+      "Whopperflower Nectar"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "薙草之稻光",
+      "en_US": "Engulfing Lightning"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "ER%",
+    "value": "12%",
+    "affix": {
+      "zh_CN": "攻击力获得提升，提升程度相当于元素充能效率超出100%部分的28%，至多通过这种方式提升80%。施放元素爆发后的12秒内，元素充能效率提升30%。",
+      "en_US": "ATK increased by 28% of Energy Recharge over the base 100%. You can gain a maximum bonus of 80% ATK. Gain 30% Energy Recharge for 12s after using an Elemental Burst."
+    },
+    "ascensionMaterials": [
+      "Mask of the Wicked Lieutenant",
+      "Chaos Gear",
+      "Old Handguard"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "赤沙之杖",
+      "en_US": "Staff of the Scarlet Sands"
+    },
+    "rarity": "5",
+    "atk": "44.34",
+    "sub": "CrR%",
+    "value": "9.6%",
+    "affix": {
+      "zh_CN": "基于装备者元素精通的52%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的28%，获得攻击力加成，该效果至多叠加3层。",
+      "en_US": "The equipping character gains 52% of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain 28% of their Elemental Mastery as bonus ATK. Max 3 stacks."
+    },
+    "ascensionMaterials": [
+      "Oasis Garden's Reminiscence",
+      "Chaos Storage",
+      "Fungal Spores"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "赤月之形",
+      "en_US": "Crimson Moon's Semblance"
+    },
+    "rarity": "5",
+    "atk": "47.54",
+    "sub": "CrR%",
+    "value": "4.8%",
+    "affix": {
+      "zh_CN": "重击命中敌人时，赋予生命值上限25%的生命之契，该效果每14秒至多触发一次。此外，装备者具有生命之契时，造成的伤害提升12%；若生命之契的数值大于等于生命值上限的30%，造成的伤害将进一步提升24%。",
+      "en_US": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 12% DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional 24% DMG Bonus."
+    },
+    "ascensionMaterials": [
+      "Broken Goblet of the Pristine Sea",
+      "Ruined Hilt",
+      "Meshing Gear"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "柔灯挽歌",
+      "en_US": "Lumidouce Elegy"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "CrR%",
+    "value": "7.2%",
+    "affix": {
+      "zh_CN": "攻击力提升15%；装备者对敌人触发燃烧反应或对处于燃烧状态下的敌人造成草元素伤害后，造成的伤害提高18%。该效果持续8秒，至多叠加2层；叠加至2层或2层的持续时间刷新时，恢复12点元素能量，每12秒至多通过这种方式恢复一次元素能量。上述2种效果角色处于队伍后台时也能触发。",
+      "en_US": "ATK increased by 15%. After the equipping character triggers Burning on an opponent or deals Dendro DMG to Burning opponents, the DMG dealt is increased by 18%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration is refreshed at 2 stacks, restore 12 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field."
+    },
+    "ascensionMaterials": [
+      "Broken Goblet of the Pristine Sea",
+      "Ruined Hilt",
+      "Whopperflower Nectar"
+    ],
+    "type": "Polearm"
+  },
+  {
+    "name": {
+      "zh_CN": "无锋剑",
+      "en_US": "Dull Blade"
+    },
+    "rarity": "1",
+    "atk": "23.25",
+    "sub": "",
+    "value": "",
+    "affix": {
+      "zh_CN": "",
+      "en_US": ""
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Firm Arrowhead"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "银剑",
+      "en_US": "Silver Sword"
+    },
+    "rarity": "2",
+    "atk": "32.93",
+    "sub": "",
+    "value": "",
+    "affix": {
+      "zh_CN": "",
+      "en_US": ""
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Firm Arrowhead"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "冷刃",
+      "en_US": "Cool Steel"
+    },
+    "rarity": "3",
+    "atk": "38.74",
+    "sub": "Atk%",
+    "value": "7.66%",
+    "affix": {
+      "zh_CN": "对处于水元素或冰元素影响下的敌人，造成的伤害提高12%。",
+      "en_US": "Increases DMG against opponents affected by Hydro or Cryo by 12%."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Firm Arrowhead"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "黎明神剑",
+      "en_US": "Harbinger of Dawn"
+    },
+    "rarity": "3",
+    "atk": "38.74",
+    "sub": "CrD%",
+    "value": "10.2%",
+    "affix": {
+      "zh_CN": "生命值高于90%时，暴击率提升14%。",
+      "en_US": "When HP is above 90%, increases CRIT Rate by 14%."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Slime Condensate"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "旅行剑",
+      "en_US": "Traveler's Handy Sword"
+    },
+    "rarity": "3",
+    "atk": "39.88",
+    "sub": "Def%",
+    "value": "6.37%",
+    "affix": {
+      "zh_CN": "获得元素晶球或元素微粒时，恢复1%生命值。",
+      "en_US": "Each Elemental Orb or Particle collected restores 1% HP."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Divining Scroll"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "暗铁剑",
+      "en_US": "Dark Iron Sword"
+    },
+    "rarity": "3",
+    "atk": "38.74",
+    "sub": "EM",
+    "value": "30.6",
+    "affix": {
+      "zh_CN": "触发超载、超导、感电、原激化、超激化、超绽放或雷元素扩散反应后的12秒内，攻击力提高20%。",
+      "en_US": "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by 20% for 12s."
+    },
+    "ascensionMaterials": [
+      "Luminous Sands from Guyun",
+      "Hunter's Sacrificial Knife",
+      "Damaged Mask"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "吃虎鱼刀",
+      "en_US": "Fillet Blade"
+    },
+    "rarity": "3",
+    "atk": "38.74",
+    "sub": "Atk%",
+    "value": "7.66%",
+    "affix": {
+      "zh_CN": "攻击命中时，有50%的概率对单个敌人造成240%攻击力的伤害。该效果每15秒只能触发一次。",
+      "en_US": "On hit, has a 50% chance to deal 240% ATK DMG to a single opponent. Can only occur once every 15s."
+    },
+    "ascensionMaterials": [
+      "Mist Veiled Lead Elixir",
+      "Mist Grass Pollen",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "飞天御剑",
+      "en_US": "Skyrider Sword"
+    },
+    "rarity": "3",
+    "atk": "37.61",
+    "sub": "ER%",
+    "value": "11.33%",
+    "affix": {
+      "zh_CN": "施放元素爆发后，提高12%攻击力和移动速度，持续15秒。",
+      "en_US": "Using an Elemental Burst grants a 12% increase in ATK and Movement SPD for 15s."
+    },
+    "ascensionMaterials": [
+      "Grain of Aerosiderite",
+      "Fragile Bone Shard",
+      "Recruit's Insignia"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "西风剑",
+      "en_US": "Favonius Sword"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "ER%",
+    "value": "13.33%",
+    "affix": {
+      "zh_CN": "攻击造成暴击时，有60%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每12秒只能触发一次。",
+      "en_US": "CRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Firm Arrowhead"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "笛剑",
+      "en_US": "The Flute"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "普通攻击或重击命中时，会获得一个和音。积攒了5个和音后，释放音律的力量，对周围的敌人造成100%攻击力的伤害。和音最多存在30秒，每0.5秒至多获得1个和音。",
+      "en_US": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals 100% ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Slime Condensate"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "祭礼剑",
+      "en_US": "Sacrificial Sword"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "ER%",
+    "value": "13.33%",
+    "affix": {
+      "zh_CN": "元素战技造成伤害时，有40%的概率重置该技能的冷却时间，该效果每30秒只能触发一次。",
+      "en_US": "After damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Divining Scroll"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "宗室长剑",
+      "en_US": "Royal Longsword"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "攻击造成伤害时，暴击率提升8%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+      "en_US": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT Hit removes all stacks."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Damaged Mask"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "匣里龙吟",
+      "en_US": "Lion's Roar"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "对处于火元素或雷元素影响下的敌人，造成的伤害提高20%。",
+      "en_US": "Increases DMG against opponents affected by Pyro or Electro by 20%."
+    },
+    "ascensionMaterials": [
+      "Luminous Sands from Guyun",
+      "Hunter's Sacrificial Knife",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "试作斩岩",
+      "en_US": "Prototype Rancour"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Phys%",
+    "value": "7.51%",
+    "affix": {
+      "zh_CN": "普通攻击或重击命中时，攻击力和防御力提高4%，持续6秒，最多叠加4层。该效果每0.3秒只能触发一次。",
+      "en_US": "On hit, Normal or Charged Attacks increase ATK and DEF by 4% for 6s. Max 4 stacks. This effect can only occur once every 0.3s."
+    },
+    "ascensionMaterials": [
+      "Mist Veiled Lead Elixir",
+      "Mist Grass Pollen",
+      "Recruit's Insignia"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "铁蜂刺",
+      "en_US": "Iron Sting"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "EM",
+    "value": "36",
+    "affix": {
+      "zh_CN": "造成元素伤害后的6秒内，角色造成的伤害提高6%，该效果最多叠加2层。该效果每1秒可以触发一次。",
+      "en_US": "Dealing Elemental DMG increases all DMG by 6% for 6s. Max 2 stacks. Can occur once every 1s."
+    },
+    "ascensionMaterials": [
+      "Grain of Aerosiderite",
+      "Fragile Bone Shard",
+      "Whopperflower Nectar"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "黑岩长剑",
+      "en_US": "Blackcliff Longsword"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "CrD%",
+    "value": "8%",
+    "affix": {
+      "zh_CN": "击败敌人后，攻击力提升12%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
+      "en_US": "After defeating an opponent, ATK is increased by 12% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+    },
+    "ascensionMaterials": [
+      "Luminous Sands from Guyun",
+      "Hunter's Sacrificial Knife",
+      "Firm Arrowhead"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "黑剑",
+      "en_US": "The Black Sword"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "CrR%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "普通攻击与重击的造成的伤害提升20%；此外，普通攻击与重击暴击时，回复等同于攻击力60%的生命值。该效果每5秒至多发动一次。",
+      "en_US": "Increases DMG dealt by Normal and Charged Attacks by 20%. Additionally, regenerates 60% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Slime Condensate"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "暗巷闪光",
+      "en_US": "The Alley Flash"
+    },
+    "rarity": "4",
+    "atk": "45.07",
+    "sub": "EM",
+    "value": "12",
+    "affix": {
+      "zh_CN": "角色造成的伤害提升12%。受到伤害后，该伤害提升效果会失效5秒。",
+      "en_US": "Increases DMG dealt by the character equipping this weapon by 12%. Taking DMG disables this effect for 5s."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Divining Scroll"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "降临之剑",
+      "en_US": "Sword of Descension"
+    },
+    "rarity": "4",
+    "atk": "38.74",
+    "sub": "Atk%",
+    "value": "7.66%",
+    "affix": {
+      "zh_CN": "仅在以下平台生效：\"PlayStation Network\"普通攻击与重击命中敌人后有50%概率在小范围内造成200%攻击力的伤害。该效果每10秒只能触发一次；此外，旅行者装备降临之剑时，攻击力提升66点。",
+      "en_US": "Effective only on the following platform: \"PlayStation Network\"Hitting opponents with Normal and Charged Attacks grants a 50% chance to deal 200% ATK as DMG in a small AoE. This effect can only occur once every 10s. Additionally, if the Traveler equips the Sword of Descension, their ATK is increased by 66."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "腐殖之剑",
+      "en_US": "Festering Desire"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "ER%",
+    "value": "10%",
+    "affix": {
+      "zh_CN": "元素战技造成的伤害增加16%，元素战技的暴击率提升6%。",
+      "en_US": "Increases Elemental Skill DMG by 16% and Elemental Skill CRIT Rate by 6%."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Heavy Horn",
+      "Recruit's Insignia"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "天目影打刀",
+      "en_US": "Amenoma Kageuchi"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "Atk%",
+    "value": "12%",
+    "affix": {
+      "zh_CN": "施放元素战技后，获得1个胤种，该效果每5秒至多触发一次。胤种持续30秒，至多同时存在3个。施放元素爆发后，会清除持有的所有胤种，并在2秒之后，基于消耗的胤种数量，每个为该角色恢复6点元素能量。",
+      "en_US": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates 6 Energy for each seed consumed."
+    },
+    "ascensionMaterials": [
+      "Coral Branch of a Distant Sea",
+      "Chaos Gear",
+      "Old Handguard"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "辰砂之纺锤",
+      "en_US": "Cinnabar Spindle"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "Def%",
+    "value": "15.01%",
+    "affix": {
+      "zh_CN": "元素战技造成的伤害值提高，提高数值相当于防御力的40%。该效果每1.5秒最多触发一次，并将在元素战技造成伤害后的0.1秒后清除效果。",
+      "en_US": "Elemental Skill DMG is increased by 40% of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Chaos Device",
+      "Damaged Mask"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "笼钓瓶一心",
+      "en_US": "Kagotsurube Isshin"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "普通攻击、重击或下落攻击命中敌人时，将卷起切落风，造成180%攻击力的范围伤害，并且使攻击力提升15%，持续8秒。该效果每8秒至多触发一次。",
+      "en_US": "When a Normal, Charged, or Plunging Attack hits an opponent, it will whip up a Hewing Gale, dealing AoE DMG equal to 180% of ATK and increasing ATK by 15% for 8s. This effect can be triggered once every 8s."
+    },
+    "ascensionMaterials": [
+      "Mask of the Wicked Lieutenant",
+      "Gloomy Statuette",
+      "Spectral Husk"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "原木刀",
+      "en_US": "Sapwood Blade"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "ER%",
+    "value": "6.67%",
+    "affix": {
+      "zh_CN": "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「种识之叶」。拾取种识之叶的角色元素精通提升60点，持续12秒。每20秒至多通过这种方式产生一枚种识之叶。角色处于队伍后台时也能触发。种识之叶的效果无法叠加。",
+      "en_US": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 60 Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
+    },
+    "ascensionMaterials": [
+      "Copper Talisman of the Forest Dew",
+      "Chaos Storage",
+      "Faded Red Satin"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "西福斯的月光",
+      "en_US": "Xiphos' Moonlight"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "EM",
+    "value": "36",
+    "affix": {
+      "zh_CN": "每10秒，产生如下效果：装备者的每点元素精通，都会为该角色提升0.036%元素充能效率，并基于该提升的30%为队伍中附近的其他角色提升元素充能效率，持续12秒，多件同名武器产生的此效果可以叠加。角色处于队伍后台时也能触发效果。",
+      "en_US": "The following effect will trigger every 10s: The equipping character will gain 0.036% Energy Recharge for each point of Elemental Mastery they possess for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field."
+    },
+    "ascensionMaterials": [
+      "Copper Talisman of the Forest Dew",
+      "Damaged Prism",
+      "Faded Red Satin"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "「一心传」名刀",
+      "en_US": "Prized Isshin Blade"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "普通攻击、重击或下落攻击命中敌人时，将释放祟灵，造成180%攻击力的范围伤害，并且恢复等同于攻击力100%的生命值。该效果每8秒至多触发一次；装备该武器的角色造成的伤害降低50%。",
+      "en_US": "When a Normal, Charged, or Plunging Attack hits an opponent, it will release an Accursed Spirit, dealing AoE DMG equal to 180% of ATK and restoring 100% of ATK as HP. This effect can be triggered once every 8s. The DMG done by this weapon's wielder is decreased by 50%."
+    },
+    "ascensionMaterials": [
+      "Mora"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "东花坊时雨",
+      "en_US": "Toukabou Shigure"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "EM",
+    "value": "36",
+    "affix": {
+      "zh_CN": "攻击命中敌人后，会为命中的一名敌人施加「纸伞作祟」状态，持续10秒。该效果每15秒至多触发一次；持续期间该敌人被击败时，将清除该效果的冷却时间。装备者对处于「纸伞作祟」状态下的敌人造成的伤害提升16%。",
+      "en_US": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is defeated during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal 16% more DMG to the opponent affected by Cursed Parasol."
+    },
+    "ascensionMaterials": [
+      "Narukami's Wisdom",
+      "Damaged Prism",
+      "Old Handguard"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "狼牙",
+      "en_US": "Wolf-Fang"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "CrR%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "元素战技与元素爆发造成的伤害提升16%。元素战技命中敌人时，元素战技的暴击率提升2%；元素爆发命中敌人时，元素爆发的暴击率提升2%。上述两种效果各自持续10秒，至多叠加4次，每0.1秒至多触发一次。",
+      "en_US": "DMG dealt by Elemental Skill and Elemental Burst is increased by 16%. When an Elemental Skill hits an opponent, its CRIT Rate will be increased by 2%. When an Elemental Burst hits an opponent, its CRIT Rate will be increased by 2%. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Chaos Device",
+      "Damaged Mask"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "海渊终曲",
+      "en_US": "Finale of the Deep"
+    },
+    "rarity": "4",
+    "atk": "43.73",
+    "sub": "Atk%",
+    "value": "6%",
+    "affix": {
+      "zh_CN": "施放元素战技时，攻击力提升12%，持续15秒，并赋予生命值上限25%的生命之契，该效果每10秒至多触发一次。生命之契清除时，基于清除值的2.4%提升至多150点攻击力，持续15秒。",
+      "en_US": "When using an Elemental Skill, ATK will be increased by 12% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 150 ATK will be gained based on 2.4% of the total amount of the Life Bond cleared, lasting for 15s."
+    },
+    "ascensionMaterials": [
+      "Dross of Pure Sacred Dewdrop",
+      "Drop of Tainted Water",
+      "Old Handguard"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "灰河渡手",
+      "en_US": "Fleuve Cendre Ferryman"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "ER%",
+    "value": "10%",
+    "affix": {
+      "zh_CN": "元素战技暴击率提升8%；此外，施放元素战技后的5秒内，元素充能效率提升16%。",
+      "en_US": "Increases Elemental Skill CRIT Rate by 8%. Additionally, increases Energy Recharge by 16% for 5s after using an Elemental Skill."
+    },
+    "ascensionMaterials": [
+      "Fragment of an Ancient Chord",
+      "Drop of Tainted Water",
+      "Transoceanic Pearl"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "船坞长剑",
+      "en_US": "The Dockhand's Assistant"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "HP%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "受到治疗或进行治疗时，将赋予一枚坚忍标记，持续30秒，至多拥有三枚坚忍标记。施放元素战技或元素爆发时，将消耗所有的坚忍标记，产生持续10秒的「奋起」效果：每枚消耗的坚忍标记提高40点元素精通，并在效果产生2秒后，每枚消耗的坚忍标记为装备者恢复2点元素能量。每15秒至多触发一次奋起效果；角色处于队伍后台时也能获得坚忍标记。",
+      "en_US": "When the wielder is healed or heals others, they will gain a Stoic's Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Roused effect will be granted for 10s. For each Symbol consumed, gain 40 Elemental Mastery, and 2s after the effect occurs, 2 Energy per Symbol consumed will be restored for said character. The Roused effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field."
+    },
+    "ascensionMaterials": [
+      "Dross of Pure Sacred Dewdrop",
+      "Old Operative's Pocket Watch",
+      "Transoceanic Pearl"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "水仙十字之剑",
+      "en_US": "Sword of Narzissenkreuz"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "装备者不具备「始基力」时：普通攻击、重击、下落攻击命中时，会释放芒性或荒性的能量冲击，造成160%攻击力的伤害。该效果每12秒至多触发一次，能量冲击的类型由水仙十字之剑当前的属性决定。",
+      "en_US": "When the equipping character does not have an Arkhe: When Normal Attacks, Charged Attacks, or Plunging Attacks strike, a Pneuma or Ousia energy blast will be unleashed, dealing 160% of ATK as DMG. This effect can be triggered once every 12s. The energy blast type is determined by the current type of the Sword of Narzissenkreuz."
+    },
+    "ascensionMaterials": [
+      "Fragment of an Ancient Chord",
+      "Old Operative's Pocket Watch",
+      "Transoceanic Pearl"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "水仙十字之剑",
+      "en_US": "Sword of Narzissenkreuz"
+    },
+    "rarity": "4",
+    "atk": "42.4",
+    "sub": "Atk%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "在数之不尽的故事中，能够配得上传奇勇者的武器，也是开启一切门扉迈过高潮前往命运终局的钥匙。",
+      "en_US": "In countless stories, the weapon that befits the legendary hero is also the key to opening all gates, required to surpass the climax and reach destiny's denouement."
+    },
+    "ascensionMaterials": [
+      "Mora"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "息燧之笛",
+      "en_US": "Flamebreath Flute"
+    },
+    "rarity": "4",
+    "atk": "41.07",
+    "sub": "Def%",
+    "value": "15.01%",
+    "affix": {
+      "zh_CN": "施放元素战技时，防御力提升16%，持续10秒。",
+      "en_US": "Increases this character's DEF by 16% for 10s when using an Elemental Skill."
+    },
+    "ascensionMaterials": [
+      "Sacrificial Heart's Terror",
+      "Ruined Hilt",
+      "Juvenile Fang"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "风鹰剑",
+      "en_US": "Aquila Favonia"
+    },
+    "rarity": "5",
+    "atk": "47.54",
+    "sub": "Phys%",
+    "value": "9%",
+    "affix": {
+      "zh_CN": "攻击力提高20%；受到伤害时触发：高扬抗争旗号的西风鹰之魂苏醒，恢复等同于攻击力的100%的生命值，并对周围的敌人造成200%攻击力的伤害。该效果每15秒只能触发一次。",
+      "en_US": "ATK is increased by 20%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to 100% of ATK and dealing 200% of ATK as DMG to surrounding opponents. This effect can only occur once every 15s."
+    },
+    "ascensionMaterials": [
+      "Tile of Decarabian's Tower",
+      "Heavy Horn",
+      "Firm Arrowhead"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "天空之刃",
+      "en_US": "Skyward Blade"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "ER%",
+    "value": "12%",
+    "affix": {
+      "zh_CN": "暴击率提升4%；施放元素爆发时，获得破空之势：移动速度提升10%，攻击速度提升10%，普通攻击与重击命中时，额外造成20%攻击力的伤害，持续12秒。",
+      "en_US": "CRIT Rate increased by 4%. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to 20% of ATK. Skypiercing Might lasts for 12s."
+    },
+    "ascensionMaterials": [
+      "Boreal Wolf's Milk Tooth",
+      "Dead Ley Line Branch",
+      "Slime Condensate"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "苍古自由之誓",
+      "en_US": "Freedom-Sworn"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "EM",
+    "value": "43.2",
+    "affix": {
+      "zh_CN": "飘游风中的「千年的大乐章」的一部分。造成的伤害提高10%；触发元素反应时，角色获得一枚奋起之符，每0.5秒内至多触发一次，角色处于队伍后台也能触发。拥有2枚奋起之符时，将消耗所有奋起之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·抗争之歌」效果：普通攻击、重击、下落攻击造成的伤害提高16%，攻击力提升20%。触发后20秒内，无法再次获得奋起之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
+      "en_US": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by 10%. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by 16% and increases ATK by 20%. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+    },
+    "ascensionMaterials": [
+      "Fetters of the Dandelion Gladiator",
+      "Chaos Device",
+      "Divining Scroll"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "斫峰之刃",
+      "en_US": "Summit Shaper"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "Atk%",
+    "value": "10.8%",
+    "affix": {
+      "zh_CN": "护盾强效提升20%。攻击命中后的8秒内，攻击力提升4%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
+      "en_US": "Increases Shield Strength by 20%. Scoring hits on opponents increases ATK by 4% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+    },
+    "ascensionMaterials": [
+      "Luminous Sands from Guyun",
+      "Hunter's Sacrificial Knife",
+      "Damaged Mask"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "磐岩结绿",
+      "en_US": "Primordial Jade Cutter"
+    },
+    "rarity": "5",
+    "atk": "44.34",
+    "sub": "CrR%",
+    "value": "9.6%",
+    "affix": {
+      "zh_CN": "生命值提升20%。此外，基于装备该武器的角色生命值上限的1.2%，获得攻击力加成。",
+      "en_US": "HP increased by 20%. Additionally, provides an ATK Bonus based on 1.2% of the wielder's Max HP."
+    },
+    "ascensionMaterials": [
+      "Mist Veiled Lead Elixir",
+      "Mist Grass Pollen",
+      "Treasure Hoarder Insignia"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "雾切之回光",
+      "en_US": "Mistsplitter Reforged"
+    },
+    "rarity": "5",
+    "atk": "47.54",
+    "sub": "CrD%",
+    "value": "9.6%",
+    "affix": {
+      "zh_CN": "获得12%所有元素伤害加成，并能获得「雾切之巴印」的威势。雾切之巴印：持有1/2/3层雾切之巴印时，获得8/16/28%自己的元素类型的元素伤害加成。在下列情况下，角色将各获得1层雾切之巴印：普通攻击造成元素伤害时，持续5秒；施放元素爆发时，持续10秒；此外，角色元素能量低于100%时，将获得1层雾切之巴印，此雾切之巴印会在角色的元素能量充满时消失。每层雾切之巴印的持续时间独立计算。",
+      "en_US": "Gain a 12% Elemental DMG Bonus for all elements and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a 8/16/28% Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
+    },
+    "ascensionMaterials": [
+      "Coral Branch of a Distant Sea",
+      "Chaos Gear",
+      "Old Handguard"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "波乱月白经津",
+      "en_US": "Haran Geppaku Futsu"
+    },
+    "rarity": "5",
+    "atk": "45.94",
+    "sub": "CrR%",
+    "value": "7.2%",
+    "affix": {
+      "zh_CN": "获得12%所有元素伤害加成；队伍中附近的其他角色在施放元素战技时，会为装备该武器的角色产生1层「波穗」效果，至多叠加2层，每0.3秒最多触发1次。装备该武器的角色施放元素战技时，如果有积累的「波穗」效果，则将消耗已有的「波穗」，获得「波乱」：根据消耗的层数，每层提升20%普通攻击伤害，持续8秒。",
+      "en_US": "Obtain 12% All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by 20% for 8s."
+    },
+    "ascensionMaterials": [
+      "Narukami's Wisdom",
+      "Gloomy Statuette",
+      "Old Handguard"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "圣显之钥",
+      "en_US": "Key of Khaj-Nisut"
+    },
+    "rarity": "5",
+    "atk": "44.34",
+    "sub": "HP%",
+    "value": "14.4%",
+    "affix": {
+      "zh_CN": "生命值提升20%。元素战技命中敌人时，将产生持续20秒的「宏大诗篇」效果：基于装备者生命值上限的0.12%，获得元素精通提升，该效果每0.3秒至多触发一次，至多叠加3层。该效果叠加至3层或3层的持续时间刷新时，将基于装备者生命值上限的0.2%，为队伍中附近所有角色提供元素精通提升，持续20秒。",
+      "en_US": "HP increased by 20%. When an Elemental Skill hits opponents, you gain the Grand Hymn effect for 20s. This effect increases the equipping character's Elemental Mastery by 0.12% of their Max HP. This effect can trigger once every 0.3s. Max 3 stacks. When this effect gains 3 stacks, or when the third stack's duration is refreshed, the Elemental Mastery of all nearby party members will be increased by 0.2% of the equipping character's max HP for 20s."
+    },
+    "ascensionMaterials": [
+      "Copper Talisman of the Forest Dew",
+      "Damaged Prism",
+      "Faded Red Satin"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "裁叶萃光",
+      "en_US": "Light of Foliar Incision"
+    },
+    "rarity": "5",
+    "atk": "44.34",
+    "sub": "CrD%",
+    "value": "19.2%",
+    "affix": {
+      "zh_CN": "暴击率提升4%；普通攻击造成元素伤害后，获得「裁叶」效果：普通攻击和元素战技造成的伤害提高，提高值相当于元素精通的120%。该效果在生效28次或12秒后消失，每12秒至多获得一次「裁叶」效果。",
+      "en_US": "CRIT Rate is increased by 4%. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by 120% of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s."
+    },
+    "ascensionMaterials": [
+      "Copper Talisman of the Forest Dew",
+      "Desiccated Shell",
+      "Faded Red Satin"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "静水流涌之辉",
+      "en_US": "Splendor of Tranquil Waters"
+    },
+    "rarity": "5",
+    "atk": "44.34",
+    "sub": "CrD%",
+    "value": "19.2%",
+    "affix": {
+      "zh_CN": "装备者的当前生命值提升或降低时，元素战技造成的伤害提升8%，该效果持续6秒，至多叠加3次，每0.2秒至多触发一次；队伍中其他角色的当前生命值提升或降低时，装备者的生命值上限提升14%，该效果持续6秒，至多叠加2次，每0.2秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。",
+      "en_US": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by 8% for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by 14% for 6s. Max 2 stacks. This effect can be triggered once every 0.2s. The aforementioned effects can be triggered even if the wielder is off-field."
+    },
+    "ascensionMaterials": [
+      "Dross of Pure Sacred Dewdrop",
+      "Drop of Tainted Water",
+      "Transoceanic Pearl"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "有乐御簾切",
+      "en_US": "Uraku Misugiri"
+    },
+    "rarity": "5",
+    "atk": "44.34",
+    "sub": "CrD%",
+    "value": "19.2%",
+    "affix": {
+      "zh_CN": "普通攻击造成的伤害提升16%，元素战技造成的伤害提升24%；队伍中附近的角色在场上造成岩元素伤害后，上述效果进一步提升100%，持续15秒。此外，装备者的防御力提升20%。",
+      "en_US": "Normal Attack DMG is increased by 16% and Elemental Skill DMG is increased by 24%. After a nearby active character deals Geo DMG, the aforementioned effects increase by 100% for 15s. Additionally, the wielder's DEF is increased by 20%."
+    },
+    "ascensionMaterials": [
+      "Coral Branch of a Distant Sea",
+      "Chaos Gear",
+      "Old Handguard"
+    ],
+    "type": "Sword"
+  },
+  {
+    "name": {
+      "zh_CN": "赦罪",
+      "en_US": "Absolution"
+    },
+    "rarity": "5",
+    "atk": "47.54",
+    "sub": "CrD%",
+    "value": "9.6%",
+    "affix": {
+      "zh_CN": "暴击伤害提升20%；生命之契的数值增加时，装备者造成的伤害提升16%。该效果持续6秒，至多叠加3次。",
+      "en_US": "CRIT DMG increased by 20%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 16% for 6s. Max 3 stacks."
+    },
+    "ascensionMaterials": [
+      "Fragment of an Ancient Chord",
+      "Old Operative's Pocket Watch",
+      "Meshing Gear"
+    ],
+    "type": "Sword"
+  }
+]

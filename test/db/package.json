@@ -7,6 +7,8 @@
   "scripts": {
     "start": "nodemon ./src/index.js",
     "wash": "nodemon ./src/wash.js",
+    "weapon.dev": "nodemon ./src/Weapon/index.js",
+    "weapon": "node ./src/Weapon/index.js",
     "wash.AS": "nodemon ./src/Artifact-Set/index.js",
     "rep": "nodemon ./src/rep.js"
   },

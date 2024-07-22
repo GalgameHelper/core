@@ -2,7 +2,7 @@ import React from 'react'
 import { getArtifactSets } from '@/service/artifact-set'
 import { ArtifactSetType } from '@/type'
 import './index.less'
-import { Flex, Img } from '@/components'
+import { Img } from '@/components'
 import { t } from '@/locales'
 import { isString } from 'asura-eye'
 
