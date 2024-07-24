@@ -1,8 +1,0 @@
-.app-layout-header {
-  width: 100%;
-  height: 64px;
-  -webkit-app-region: drag;
-  -webkit-user-select: none;
-  user-select: none;
-  background-color: rgba(255, 255, 255, .1);
-}

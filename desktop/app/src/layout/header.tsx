@@ -3,6 +3,7 @@ import { CloseSvg } from '../assets'
 // import { CloseSvg, Genshin_Impact_Logo } from '../assets'
 import { Img } from '../components'
 import { classNames } from 'harpe'
+// import { app } from 'electron'
 
 export interface HeaderProps {
   [key: string]: any
@@ -11,15 +12,28 @@ export interface HeaderProps {
 export function Header(props: HeaderProps) {
   const { ...rest } = props
   return (
-    <div {...rest}>
-      {/* <Img
+    <div className='app-layout-header' {...rest}>
+      <div className='left'>
+        {/* <Img
         src={Genshin_Impact_Logo}
         style={{
           width: 64,
           height: 64
         }}
       /> */}
-      <CloseSvg />
+      </div>
+      <div className='center'></div>
+      <div className='right'>
+        <div
+          className='close'
+          onClick={() => {
+            console.log('sjfkasjdfkj', window)
+            // window.preApi.close('aaaa')
+            // app.quit()
+          }}>
+          <CloseSvg />
+        </div>
+      </div>
     </div>
   )
 }

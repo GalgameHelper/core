@@ -6,7 +6,7 @@ import { Layout } from './layout'
 import { RouterProvider } from 'react-router-dom'
 import { router } from './router'
 
-const root = createRoot(document.body)
+const root = createRoot(document.querySelector('.app'))
 
 function App() {
   return (
