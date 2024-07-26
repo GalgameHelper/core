@@ -1,9 +1,9 @@
 import React from 'react'
 import { CloseSvg } from '../assets'
-// import { CloseSvg, Genshin_Impact_Logo } from '../assets'
 import { Img } from '../components'
 import { classNames } from 'harpe'
-// import { app } from 'electron'
+import { emit } from '../utils'
+// import { ipcRenderer } from 'electron/renderer'
 
 export interface HeaderProps {
   [key: string]: any
@@ -14,22 +14,20 @@ export function Header(props: HeaderProps) {
   return (
     <div className='app-layout-header' {...rest}>
       <div className='left'>
-        {/* <Img
-        src={Genshin_Impact_Logo}
-        style={{
-          width: 64,
-          height: 64
-        }}
-      /> */}
+        <Img
+          dataType='logo.Genshin_Impact'
+          style={{
+            width: 42,
+            height: 42
+          }}
+        />
       </div>
       <div className='center'></div>
       <div className='right'>
         <div
           className='close'
           onClick={() => {
-            console.log('sjfkasjdfkj', window)
-            // window.preApi.close('aaaa')
-            // app.quit()
+            emit('close-app')
           }}>
           <CloseSvg />
         </div>

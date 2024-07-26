@@ -1,10 +1,10 @@
-declare module '*.less' 
+declare module '*.less'
 declare module '*.module.less'
 declare module '*.svg'
 declare module '*.json'
 declare module '*.png'
 declare module '*.jpg'
-declare module '*.md' 
+declare module '*.md'
 declare module '*.txt'
 
 declare var require: {
@@ -13,4 +13,8 @@ declare var require: {
   cache: any
   extensions: any
   main: any
+}
+
+declare var ipcRenderer: {
+  send(type: string): void
 }

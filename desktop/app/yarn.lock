@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"0type@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.npmjs.org/0type/-/0type-0.1.0.tgz#bbec0d436cca393539bf183e710c3b6ae3569ecd"
+  integrity sha512-u1wzXRC4XDONSv7ejY1F1eUST8ysyRYD6SEYDdQZ2Q1snQrS7za+mU0XbZi0wgoHt6+ei++jbCRt0fSDSccnSw==
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.16.7":
   version "7.24.7"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.24.7.tgz#882fd9e09e8ee324e496bd040401c6f046ef4465"
@@ -775,6 +780,13 @@
   version "20.14.2"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-20.14.2.tgz#a5f4d2bcb4b6a87bffcaa717718c5a0f208f4a18"
   integrity sha512-xyu6WAMVwv6AKFLB+e/7ySZVr/0zLCzOa7rSpq6jNwpqOrUbcACDWC+53d4n2QHOnDou0fbIsg8wZu/sxrnI4Q==
+  dependencies:
+    undici-types "~5.26.4"
+
+"@types/node@^20.14.12":
+  version "20.14.12"
+  resolved "https://registry.npmjs.org/@types/node/-/node-20.14.12.tgz#129d7c3a822cb49fc7ff661235f19cfefd422b49"
+  integrity sha512-r7wNXakLeSsGT0H1AU863vS2wa5wBOK4bWMjZz2wj+8nBx+m5PeIn0k8AloSLpRuiwdRQZwarZqHE4FNArPuJQ==
   dependencies:
     undici-types "~5.26.4"
 
